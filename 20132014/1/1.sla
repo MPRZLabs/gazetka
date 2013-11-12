@@ -981,46 +981,138 @@
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="113.25" YPOS="1975.84" WIDTH="401.75" HEIGHT="531.41" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9.3" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 401.75 0 401.75 0 401.75 0 401.75 0 401.75 531.41 401.75 531.41 401.75 531.41 401.75 531.41 0 531.41 0 531.41 0 531.41 0 531.41 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 401.75 0 401.75 0 401.75 0 401.75 0 401.75 531.41 401.75 531.41 401.75 531.41 401.75 531.41 0 531.41 0 531.41 0 531.41 0 531.41 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <tab FONTSIZE="9.3"/>
-            <ITEXT FONTSIZE="9.3" CH="Od 4 maja do 28 grudnia 2013 roku pod patronatem Fundacji Dziupla realizowany jest projekt „Wolontariat sposobem na zmiany – Budowanie sieci”. Jego celem głównym jest zwiększenie i wzmocnienie więzi społecznych mieszkańców miejscowości Niedrzwica Duża, Niedrzwica Kościelna, Borzechów, Wilkołaz i Krężnica Jara, poprzez zaktywizowanie 40 uczniów gimnazjów wyżej wymienionych terenów. "/>
+            <ITEXT FONTSIZE="9.3" CH="Od 4 maja do 28 grudnia 2013 roku pod patronatem Fundacji Dziupla realizowany jest projekt „Wolontariat sposobem na zmiany – Budowanie sieci”. Jego celem głównym jest zwiększenie i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="wzmocnienie więzi społecznych mieszkańców miejscowości Niedrzwica Duża, Niedrzwica Kościelna, Borzechów, Wilkołaz i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="Krężnica Jara, poprzez zaktywizowanie 40 uczniów gimnazjów wyżej wymienionych terenów. "/>
             <para ALIGN="3"/>
             <tab FONTSIZE="9.3"/>
-            <ITEXT FONTSIZE="9.3" CH="Opiekę nad Klubem Wolontariusza  w Niedrzwicy Dużej sprawuje pedagog szkolny p. Dorota Rusek."/>
+            <ITEXT FONTSIZE="9.3" CH="Opiekę nad Klubem Wolontariusza  w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="Niedrzwicy Dużej sprawuje pedagog szkolny p. Dorota Rusek."/>
             <para ALIGN="3"/>
             <tab FONTSIZE="9.3"/>
-            <ITEXT FONTSIZE="9.3" CH="Każdy klub posiada charakterystyczne logo i herb. W celu usprawnienia komunikacji i integracji między członkami poszczególnych drużyn uruchomiono platformę internetową, na której odbywają się interaktywne szkolenia przygotowujące i uczące przeprowadzania oraz realizowania diagnozy  potrzeb środowiska lokalnego. "/>
+            <ITEXT FONTSIZE="9.3" CH="Każdy klub posiada charakterystyczne logo i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="herb. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="celu usprawnienia komunikacji i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="integracji między członkami poszczególnych drużyn uruchomiono platformę internetową, na której odbywają się interaktywne szkolenia przygotowujące i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="uczące przeprowadzania oraz realizowania diagnozy  potrzeb środowiska lokalnego. "/>
             <para ALIGN="3"/>
             <tab FONTSIZE="9.3"/>
-            <ITEXT FONTSIZE="9.3" CH="Aby zdobyć  wiedzę praktyczną oraz teoretyczną organizowane są wyjazdy studyjne i  spotkania z ciekawymi osobami oraz grupami, które na co dzień zajmują się pomaganiem innym. "/>
+            <ITEXT FONTSIZE="9.3" CH="Aby zdobyć  wiedzę praktyczną oraz teoretyczną organizowane są wyjazdy studyjne i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH=" spotkania z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="ciekawymi osobami oraz grupami, które na co dzień zajmują się pomaganiem innym. "/>
             <para ALIGN="3"/>
             <tab FONTSIZE="9.3"/>
-            <ITEXT FONTSIZE="9.3" CH="W pierwszych dniach sierpnia odbył się 3-dniowy obóz szkoleniowy w Nałęczowie."/>
+            <ITEXT FONTSIZE="9.3" CH="W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="pierwszych dniach sierpnia odbył się 3-dniowy obóz szkoleniowy w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="Nałęczowie."/>
             <para ALIGN="3"/>
             <tab FONTSIZE="9.3"/>
-            <ITEXT FONTSIZE="9.3" CH="Głównym zamiarem tego przedsięwzięcia było przybliżenie idei zorganizowania projektu, zintegrowanie wszystkich uczestników, wprowadzenie w rytm pracy, otworzenie umysłów na nowe możliwości rozwiązywania problemów oraz nauka współpracy."/>
+            <ITEXT FONTSIZE="9.3" CH="Głównym zamiarem tego przedsięwzięcia było przybliżenie idei zorganizowania projektu, zintegrowanie wszystkich uczestników, wprowadzenie w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="rytm pracy, otworzenie umysłów na nowe możliwości rozwiązywania problemów oraz nauka współpracy."/>
             <para ALIGN="3"/>
             <tab FONTSIZE="9.3"/>
-            <ITEXT FONTSIZE="9.3" CH="Niezwykle ciekawe były zajęcia prowadzone przez pana Artura Łęgę – prezesa Fundacji „Równać Szanse”, podczas których dowiedzieliśmy się, czego brakuje w sąsiednich miejscowościach i w jaki sposób możemy temu zaradzić."/>
+            <ITEXT FONTSIZE="9.3" CH="Niezwykle ciekawe były zajęcia prowadzone przez pana Artura Łęgę – prezesa Fundacji „Równać Szanse”, podczas których dowiedzieliśmy się, czego brakuje w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="sąsiednich miejscowościach i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="jaki sposób możemy temu zaradzić."/>
             <para ALIGN="3"/>
             <tab FONTSIZE="9.3"/>
-            <ITEXT FONTSIZE="9.3" CH="Bardzo interesujące okazało się spotkanie z grupą fotograficzną z Czerniejowa i grupą teatralną z Chmielnika, które brały udział w podobnym przedsięwzięciu i na podstawie własnych doświadczeń udzieliły nam wielu cennych rad."/>
+            <ITEXT FONTSIZE="9.3" CH="Bardzo interesujące okazało się spotkanie z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="grupą fotograficzną z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="Czerniejowa i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="grupą teatralną z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="Chmielnika, które brały udział w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="podobnym przedsięwzięciu i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="na podstawie własnych doświadczeń udzieliły nam wielu cennych rad."/>
             <para ALIGN="3"/>
             <tab FONTSIZE="9.3"/>
-            <ITEXT FONTSIZE="9.3" CH="Dowodem naszej działalności i zarazem świetnej zabawy jest LipDub nakręcony właśnie podczas tego szkolenia."/>
+            <ITEXT FONTSIZE="9.3" CH="Dowodem naszej działalności i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="zarazem świetnej zabawy jest LipDub nakręcony właśnie podczas tego szkolenia."/>
             <para ALIGN="3"/>
             <tab FONTSIZE="9.3"/>
-            <ITEXT FONTSIZE="9.3" CH="W dniu 28.08.2013 r. grupa z  Wilkołaza zorganizowała zebranie z ojcem Filipem Buczyńskim z lubelskiego Hospicjum im. Małego Księcia. "/>
+            <ITEXT FONTSIZE="9.3" CH="W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="dniu 28.08.2013 r. grupa z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH=" Wilkołaza zorganizowała zebranie z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="ojcem Filipem Buczyńskim z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="lubelskiego Hospicjum im. Małego Księcia. "/>
             <para ALIGN="3"/>
             <tab FONTSIZE="9.3"/>
-            <ITEXT FONTSIZE="9.3" CH="Ojciec Filip opowiedział nam o idei wolontariatu, o powstaniu Hospicjum i o tym, że warto pomagać, bo każdy gest się liczy. Zachęcał nas do organizowania różnych akcji charytatywnych na rzecz Hospicjum, a także uświadomił, że najmniejsze działanie takie jak np. zbieranie plastikowych nakrętek potrafi bardzo pomóc. Dzięki takiej akcji można zakupić potrzebny sprzęt dla dzieci chorych lub ufundować im wakacje, które wywołają uśmiech na ich twarzach. "/>
+            <ITEXT FONTSIZE="9.3" CH="Ojciec Filip opowiedział nam o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="idei wolontariatu, o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="powstaniu Hospicjum i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="tym, że warto pomagać, bo każdy gest się liczy. Zachęcał nas do organizowania różnych akcji charytatywnych na rzecz Hospicjum, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="także uświadomił, że najmniejsze działanie takie jak np. zbieranie plastikowych nakrętek potrafi bardzo pomóc. Dzięki takiej akcji można zakupić potrzebny sprzęt dla dzieci chorych lub ufundować im wakacje, które wywołają uśmiech na ich twarzach. "/>
             <para ALIGN="3"/>
             <tab FONTSIZE="9.3"/>
-            <ITEXT FONTSIZE="9.3" CH="Kolejnym ważnym doświadczeniem wolontariackim było zorganizowane przez młodzież z  Gimnazjum nr 1 w Niedrzwicy Dużej spotkanie z panią Ewą Dados – prezesem Fundacji „Pomóż Dzieciom Przetrwać Zimę”. Zdobywczyni Orderu Uśmiechu  przybliżyła nam kulisy realizacji akcji. Opowiadała bardzo wzruszające historie ludzi będących w potrzebie. Uświadomiła nam, podając przykłady z życia „jej wolontariuszy”, że niosąc pomoc innym, pomagali także sobie. Pani Ewa w ten sposób zachęciła nas do aktywnego udziału w różnego rodzaju przedsięwzięciach."/>
+            <ITEXT FONTSIZE="9.3" CH="Kolejnym ważnym doświadczeniem wolontariackim było zorganizowane przez młodzież z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH=" Gimnazjum nr"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="1 w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="Niedrzwicy Dużej spotkanie z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="panią Ewą Dados – prezesem Fundacji „Pomóż Dzieciom Przetrwać Zimę”. Zdobywczyni Orderu Uśmiechu  przybliżyła nam kulisy realizacji akcji. Opowiadała bardzo wzruszające historie ludzi będących w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="potrzebie. Uświadomiła nam, podając przykłady z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="życia „jej wolontariuszy”, że niosąc pomoc innym, pomagali także sobie. Pani Ewa w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="ten sposób zachęciła nas do aktywnego udziału w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="różnego rodzaju przedsięwzięciach."/>
             <para ALIGN="3"/>
             <tab FONTSIZE="9.3"/>
-            <ITEXT FONTSIZE="9.3" CH="Następne przeżycie, które poruszyło nasze serca to wizyta w schronisku dla bezdomnych zwierząt w Korabiewicach. Było to ogromne wyzwanie, gdyż wymagało od nas aktywności fizycznej. Cały dzień pracowaliśmy w schronisku opiekując się zwierzętami. Poznaliśmy smutne i tragiczne losy podopiecznych niejednokrotnie porzucanych, katowanych i okaleczonych przez właścicieli."/>
+            <ITEXT FONTSIZE="9.3" CH="Następne przeżycie, które poruszyło nasze serca to wizyta w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="schronisku dla bezdomnych zwierząt w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="Korabiewicach. Było to ogromne wyzwanie, gdyż wymagało od nas aktywności fizycznej. Cały dzień pracowaliśmy w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="schronisku opiekując się zwierzętami. Poznaliśmy smutne i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="tragiczne losy podopiecznych niejednokrotnie porzucanych, katowanych i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="okaleczonych przez właścicieli."/>
             <para ALIGN="3"/>
             <tab FONTSIZE="9.3"/>
-            <ITEXT FONTSIZE="9.3" CH="Klub Wolontariusza daje nam szansę na rozwijanie siebie. Uczy wrażliwości i empatii.  Przebyte doświadczenia pozwalają nam trafnie analizować rzeczywistość, w której żyjemy oraz podejmować działania zmierzające do poprawy stanu środowiska lokalnego."/>
+            <ITEXT FONTSIZE="9.3" CH="Klub Wolontariusza daje nam szansę na rozwijanie siebie. Uczy wrażliwości i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="empatii.  Przebyte doświadczenia pozwalają nam trafnie analizować rzeczywistość, w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.3" CH="której żyjemy oraz podejmować działania zmierzające do poprawy stanu środowiska lokalnego."/>
             <trail ALIGN="3"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1031,41 +1123,18 @@
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="527.25" YPOS="1993.5" WIDTH="401.25" HEIGHT="512.34" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="10" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 401.25 0 401.25 0 401.25 0 401.25 0 401.25 512.34 401.25 512.34 401.25 512.34 401.25 512.34 0 512.34 0 512.34 0 512.34 0 512.34 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 401.25 0 401.25 0 401.25 0 401.25 0 401.25 512.34 401.25 512.34 401.25 512.34 401.25 512.34 0 512.34 0 512.34 0 512.34 0 512.34 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Dnia 12 października 2013 roku wyjechaliśmy do Krakowa. Kolejno autokar zabierał wolontariuszy z danych miejscowości. "/>
+            <ITEXT FONTSIZE="10" CH="Dnia 12 października 2013 roku wyjechaliśmy do Krakowa. Kolejno autokar zabierał wolontariuszy z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="danych miejscowości. "/>
             <para/>
             <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Podróż przebiegła bez komplikacji i bezpiecznie dotarliśmy na miejsce. Pierwszego dnia po przyjeździe uczestniczyliśmy w Koncercie Zaczarowanej Piosenki, na który zaprosiła nas pani Anna Dymna. Następnie udaliśmy się na obiad. Po pysznym posiłku nasi opiekunowie zorganizowali nam popołudnie pełne śmiechu poprzez wesołe i ciekawe za­ba­wy­."/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Troszkę zmęczeni wyruszyliśmy na miasto. Wszyscy razem uzgodniliśmy, że sami pospacerujemy i pozwiedzamy rynek Krakowa. Wykończeni, wróciliśmy do schroniska. Mieliśmy czas na umycie się, rozpakowanie walizek i przygotowanie kolacji. Wspólnie spotkaliśmy się w sali, aby omówić następne dni pobytu na obozie szkoleniowym."/>
-            <para/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Dnia drugiego, rano zjedliśmy śniadanie. Oczywiście ubraliśmy się i skorzystaliśmy z porannej toalety. "/>
-            <para/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Pojechaliśmy zwiedzać zabytki. Zajęło nam to dużo czasu. Głodni, prawie biegliśmy na obiad w centrum. "/>
-            <para/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="W schronisku mieliśmy zaplanowane spotkania z wolontariuszkami wolontariatu studenckiego „Projektor” oraz z wolontariuszem misyjnym, który wrócił z Afryki. Opowiadane przez niego historie i pokazywane eksponaty bardzo nas zaintrygowały. "/>
-            <para/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Ostatniego dnia pojechaliśmy do Doliny Szczęścia, czyli Fundacji Anny Dymnej „Mimo Wszystko”. Pani dyrektor opowiadała nam o tym, jak przebiega praca z ludźmi niepełnosprawnymi umysłowo. Było to dla wszystkich ciekawe, pouczające i wzruszające doznanie. Przy zwiedzaniu fundacji spotkaliśmy podopiecznych, którzy bardzo ciepło nas przywitali. Dostaliśmy od nich szkiełka z obrazkami przez nich namalowanymi. Może się wydawać, że to ludzie, którzy nie umieją nic zrobić bez czyjejś pomocy. Jednak wcale tak nie jest, tam uczy się ich samodzielności i pracy nad własnym rozwojem. "/>
+            <ITEXT FONTSIZE="10" CH="Podróż przebiegła bez komplikacji i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="bezpiecznie dotarliśmy na miejsce. Pierwszego dnia po przyjeździe uczestniczyliśmy w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="Koncercie Zaczarowanej Piosenki, na który zaprosiła nas pani Anna Dymna. Następnie udaliśmy się na obiad. Po pysznym posiłku nasi opiekunowie zorganizowali nam popołudnie pełne śmiechu poprzez wesołe i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="ciekawe za­ba­wy­."/>
             <para/>
             <para/>
             <para/>
@@ -1084,14 +1153,81 @@
             <para/>
             <para/>
             <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Szczęśliwi poszliśmy do autokaru i wróciliśmy do domu. Kolejny, pouczający etap wolontariatu mamy za so­bą­…"/>
+            <ITEXT FONTSIZE="10" CH="Troszkę zmęczeni wyruszyliśmy na miasto. Wszyscy razem uzgodniliśmy, że sami pospacerujemy i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="pozwiedzamy rynek Krakowa. Wykończeni, wróciliśmy do schroniska. Mieliśmy czas na umycie się, rozpakowanie walizek i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="przygotowanie kolacji. Wspólnie spotkaliśmy się w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="sali, aby omówić następne dni pobytu na obozie szkoleniowym."/>
+            <para/>
+            <tab FONTSIZE="10"/>
+            <ITEXT FONTSIZE="10" CH="Dnia drugiego, rano zjedliśmy śniadanie. Oczywiście ubraliśmy się i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="skorzystaliśmy z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="porannej toalety. "/>
+            <para/>
+            <tab FONTSIZE="10"/>
+            <ITEXT FONTSIZE="10" CH="Pojechaliśmy zwiedzać zabytki. Zajęło nam to dużo czasu. Głodni, prawie biegliśmy na obiad w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="centrum. "/>
+            <para/>
+            <tab FONTSIZE="10"/>
+            <ITEXT FONTSIZE="10" CH="W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="schronisku mieliśmy zaplanowane spotkania z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="wolontariuszkami wolontariatu studenckiego „Projektor” oraz z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="wolontariuszem misyjnym, który wrócił z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="Afryki. Opowiadane przez niego historie i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="pokazywane eksponaty bardzo nas zaintrygowały. "/>
+            <para/>
+            <tab FONTSIZE="10"/>
+            <ITEXT FONTSIZE="10" CH="Ostatniego dnia pojechaliśmy do Doliny Szczęścia, czyli Fundacji Anny Dymnej „Mimo Wszystko”. Pani dyrektor opowiadała nam o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="tym, jak przebiega praca z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="ludźmi niepełnosprawnymi umysłowo. Było to dla wszystkich ciekawe, pouczające i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="wzruszające doznanie. Przy zwiedzaniu fundacji spotkaliśmy podopiecznych, którzy bardzo ciepło nas przywitali. Dostaliśmy od nich szkiełka z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="obrazkami przez nich namalowanymi. Może się wydawać, że to ludzie, którzy nie umieją nic zrobić bez czyjejś pomocy. Jednak wcale tak nie jest, tam uczy się ich samodzielności i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="pracy nad własnym rozwojem. "/>
             <para/>
             <para/>
-            <ITEXT FONT="Liberation Serif Bold Italic" FONTSIZE="10" CH="An­ka i Aś­ka"/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <tab FONTSIZE="10"/>
+            <ITEXT FONTSIZE="10" CH="Szczęśliwi poszliśmy do autokaru i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="wróciliśmy do domu. Kolejny, pouczający etap wolontariatu mamy za so­bą­…"/>
+            <para/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Bold Italic" FONTSIZE="10" CH="An­ka i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Bold Italic" FONTSIZE="10" CH="Aś­ka"/>
             <trail ALIGN="2"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="734.25" YPOS="2275.84" WIDTH="193.25" HEIGHT="145" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.201302083333333" LOCALSCY="0.201302083333333" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="todo/anna dymna.jpg" PFILE2="" PFILE3="" PRFILE="Embedded sRGB IEC61966-2-1 black scaled" EPROF="Embedded sRGB IEC61966-2-1 black scaled" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 193.25 0 193.25 0 193.25 0 193.25 0 193.25 145 193.25 145 193.25 145 193.25 145 0 145 0 145 0 145 0 145 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 193.25 0 193.25 0 193.25 0 193.25 0 193.25 145 193.25 145 193.25 145 193.25 145 0 145 0 145 0 145 0 145 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="734.25" YPOS="2275.84" WIDTH="193.25" HEIGHT="145" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.201302083333333" LOCALSCY="0.201302083333333" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="done/anna dymna.jpg" PFILE2="" PFILE3="" PRFILE="Embedded sRGB IEC61966-2-1 black scaled" EPROF="Embedded sRGB IEC61966-2-1 black scaled" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 193.25 0 193.25 0 193.25 0 193.25 0 193.25 145 193.25 145 193.25 145 193.25 145 0 145 0 145 0 145 0 145 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 193.25 0 193.25 0 193.25 0 193.25 0 193.25 145 193.25 145 193.25 145 193.25 145 0 145 0 145 0 145 0 145 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
