@@ -129,9 +129,15 @@
             <para/>
             <ITEXT FONTSIZE="9" wordTrack="1" CH="- Oczywiście, Missisipi."/>
             <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Doskonale, a czy wiesz, o ile dłuższa?"/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Doskonale, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="czy wiesz, o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="ile dłuższa?"/>
             <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Dokładnie o sześć liter. "/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Dokładnie o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="sześć liter. "/>
             <para/>
             <para/>
             <ITEXT FONTSIZE="9" wordTrack="1" CH="Przychodzi blondynka do księgarni:"/>
@@ -143,7 +149,11 @@
             <ITEXT FONTSIZE="9" wordTrack="1" CH="- Ta po 10 złotych."/>
             <para/>
             <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="A wiesz, co to jest: lata po pokoju i robi yzb, yzb, yzb... "/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="A"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="wiesz, co to jest: lata po pokoju i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="robi yzb, yzb, yzb... "/>
             <para/>
             <ITEXT FONTSIZE="9" wordTrack="1" CH="- Mucha na wstecznym biegu."/>
             <para/>
@@ -153,7 +163,9 @@
             <para/>
             <ITEXT FONTSIZE="9" wordTrack="1" CH="Na lekcji języka polskiego nauczyciel pyta:"/>
             <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Czym będzie wyraz ''chętnie'' w zdaniu: ''Uczniowie chętnie wracają do szkoły po wakacjach.&quot;"/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Czym będzie wyraz ''chętnie'' w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="zdaniu: ''Uczniowie chętnie wracają do szkoły po wakacjach.&quot;"/>
             <para/>
             <ITEXT FONTSIZE="9" wordTrack="1" CH="- Kłamstwem panie profesorze!"/>
             <para/>
@@ -164,12 +176,20 @@
             <para/>
             <ITEXT FONTSIZE="9" wordTrack="1" CH="- Szukaliśmy wspólnego mianownika."/>
             <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Coś podobnego! Kiedy ja byłem w szkole, też szukaliśmy wspólnego mianownika! Że też nikt go do tej pory nie znalazł..."/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Coś podobnego! Kiedy ja byłem w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="szkole, też szukaliśmy wspólnego mianownika! Że też nikt go do tej pory nie znalazł..."/>
             <para/>
             <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Mamo, choinka się pali! - wola Jasio z pokoju do matki zajętej w kuchni."/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Mamo, choinka się pali! - wola Jasio z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="pokoju do matki zajętej w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="kuchni."/>
             <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Choinka się świeci, a nie pali - poprawia matka."/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Choinka się świeci, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="nie pali - poprawia matka."/>
             <para/>
             <ITEXT FONTSIZE="9" wordTrack="1" CH="Za chwilę chłopiec krzyczy:"/>
             <para/>
@@ -218,7 +238,9 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="127.5" YPOS="675.5" WIDTH="370" HEIGHT="45.78" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Serif Regular" ISIZE="35" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 370 0 370 0 370 0 370 0 370 45.78 370 45.78 370 45.78 370 45.78 0 45.78 0 45.78 0 45.78 0 45.78 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 370 0 370 0 370 0 370 0 370 45.78 370 45.78 370 45.78 370 45.78 0 45.78 0 45.78 0 45.78 0 45.78 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="35" SCALEH="130" CH="Słów­ko o re­dak­cji"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="35" SCALEH="130" CH="Słów­ko o"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="35" SCALEH="130" CH="re­dak­cji"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -252,11 +274,67 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="1370.89" YPOS="1663.5" WIDTH="368.11" HEIGHT="213.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="11" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="8.3" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 368.11 0 368.11 0 368.11 0 368.11 0 368.11 213.5 368.11 213.5 368.11 213.5 368.11 213.5 0 213.5 0 213.5 0 213.5 0 213.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 368.11 0 368.11 0 368.11 0 368.11 0 368.11 213.5 368.11 213.5 368.11 213.5 368.11 213.5 0 213.5 0 213.5 0 213.5 0 213.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8.3" CH="Doskonale zrealizowana ekranizacja powieści Yann’a Martela porusza zagadnienia związane z cechą wewnętrzną, która odróżnia człowieka od innych istot żyjących na ziemi – z potrzebą wiary."/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8.3" CH="Doskonale zrealizowana ekranizacja powieści Yann’a"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8.3" CH="Martela porusza zagadnienia związane z"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8.3" CH="cechą wewnętrzną, która odróżnia człowieka od innych istot żyjących na ziemi – z"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8.3" CH="potrzebą wiary."/>
             <para/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="Narratorem i głównym bohaterem historii jest Piscine Molitor Patel, który imię swoje zawdzięcza… basenowi sportowemu znajdującemu się we Francji. Jednak nie imię, a charakter, jest najciekawszą cechą tego człowieka. Opowiada o swoim życiu, w którym doświadczył bólu i utraty najbliższych, a także zmian osobowości i światopoglądu, gdy stał się wyznawcą trzech religii jednocześnie: hinduizmu, islamu i chrześcijaństwa. Jako syn właścicieli indyjskiego zoo zdaje relację z codziennego życia i pracy w tym miejscu, stosując ciekawe porównania niektórych zachowań zwierzęcych do ludzkich. W poszukiwaniu lepszego życia wraz z rodziną przeprowadza się do Kanady wraz z całym żywym inwentarzem. W niewyjaśnionych okolicznościach tonie wynajęty statek. Po katastrofie główny bohater musi znaleźć schronienie na szalupie wraz z ocalałym tygrysem, zebrą, hieną i orangutanem. Musi nauczyć się pokonać własne lęki i umiejętnie egzystować w sąsiedztwie dzikich bestii, co udaje mu się głównie dzięki własnej pomysłowości, niezwykle silnej woli przetrwania oraz wierze w Boga. "/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="Narratorem i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="głównym bohaterem historii jest Piscine Molitor Patel, który imię swoje zawdzięcza… basenowi sportowemu znajdującemu się we Francji. Jednak nie imię, a"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="charakter, jest najciekawszą cechą tego człowieka. Opowiada o"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="swoim życiu, w"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="którym doświadczył bólu i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="utraty najbliższych, a"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="także zmian osobowości i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="światopoglądu, gdy stał się wyznawcą trzech religii jednocześnie: hinduizmu, islamu i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="chrześcijaństwa. Jako syn właścicieli indyjskiego zoo zdaje relację z"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="codziennego życia i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="pracy w"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="tym miejscu, stosując ciekawe porównania niektórych zachowań zwierzęcych do ludzkich. W"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="poszukiwaniu lepszego życia wraz z"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="rodziną przeprowadza się do Kanady wraz z"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="całym żywym inwentarzem. W"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="niewyjaśnionych okolicznościach tonie wynajęty statek. Po katastrofie główny bohater musi znaleźć schronienie na szalupie wraz z"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="ocalałym tygrysem, zebrą, hieną i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="orangutanem. Musi nauczyć się pokonać własne lęki i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="umiejętnie egzystować w"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="sąsiedztwie dzikich bestii, co udaje mu się głównie dzięki własnej pomysłowości, niezwykle silnej woli przetrwania oraz wierze w"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="Boga. "/>
             <para/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="Filmowa opowieść zawiera głębokie przesłanie o charakterze filozoficznym, mówi o roli wiary w życiu każdego człowieka. Produkcja w reżyserii Anga Lee (znanego m.in. dzięki „Przyczajony Tygrys, Ukryty Smok”, „Tajemnica Brokeback Mountain”) stanowi przykład dzieła dopracowanego pod wieloma względami: obsady, scenografii, barwnych efektów komputerowych. Moim zdaniem słusznie została ona nominowana do 11 Oscarów."/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="Filmowa opowieść zawiera głębokie przesłanie o"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="charakterze filozoficznym, mówi o"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="roli wiary w"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="życiu każdego człowieka. Produkcja w"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="reżyserii Anga Lee (znanego"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="8.3" CH="m.in. dzięki „Przyczajony Tygrys, Ukryty Smok”, „Tajemnica Brokeback Mountain”) stanowi przykład dzieła dopracowanego pod wieloma względami: obsady, scenografii, barwnych efektów komputerowych. Moim zdaniem słusznie została ona nominowana do 11 Oscarów."/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -426,21 +504,71 @@
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="1372.93233082707" YPOS="1340.56" WIDTH="366.165413533835" HEIGHT="274.44" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="8.3" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 366.165 0 366.165 0 366.165 0 366.165 0 366.165 274.44 366.165 274.44 366.165 274.44 366.165 274.44 0 274.44 0 274.44 0 274.44 0 274.44 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 366.165 0 366.165 0 366.165 0 366.165 0 366.165 274.44 366.165 274.44 366.165 274.44 366.165 274.44 0 274.44 0 274.44 0 274.44 0 274.44 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <tab FONT="Liberation Sans Bold" FONTSIZE="8.3"/>
-            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8.3" CH="Dwunastoletni Artemis Fowl to największy geniusz w historii świata przestępczego. Jego plan jest podstępny i zuchwały: rozszyfrować tajemnice elfów, a potem porwać jednego z nich i zażądać godziwego okupu. Jednak technologia tych baśniowych stworzeń jest bardziej zaawansowana, niż Artemis przypuszcza…"/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8.3" CH="Dwunastoletni Artemis Fowl to największy geniusz w"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8.3" CH="historii świata przestępczego. Jego plan jest podstępny i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8.3" CH="zuchwały: rozszyfrować tajemnice elfów, a"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8.3" CH="potem porwać jednego z"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8.3" CH="nich i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8.3" CH="zażądać godziwego okupu. Jednak technologia tych baśniowych stworzeń jest bardziej zaawansowana, niż Artemis przypuszcza…"/>
             <para/>
             <tab FONTSIZE="8.3"/>
-            <ITEXT FONTSIZE="8.3" CH="Powieść autorstwa Eoina Colfera stanowi wprowadzenie do świetnej serii opowiadającej o przygodach kilkunastoletniego Artemisa Fowla II, chłopca o ponadprzeciętnym ilorazie inteligencji. Po tajemniczym zniknięciu ojca zostaje on zmuszony do przejęcia zwierzchnictwa nad jednym z największych przestępczych imperiów świata, które – po niekorzystnej inwestycji Artemisa Seniora – podupada finansowo. Chcąc przywrócić jego dawną świetność, młodzieniec postanawia zdobyć pieniądze dosyć niekonwencjonalną metodą… Ogarnięty fascynacją legendami o garnku złota strzeżonym przez skrzaty na końcu tęczy, zaczyna brać pod uwagę możliwość istnienia tych stworzeń. Młody Irlandczyk zamierza poznać sekrety wróżek, a następnie porwać jedną z nich i zażądać okupu. Jednak okazuje się, że zadanie nie będzie takie łatwe, jak do tej pory przypuszczał. Istoty te bowiem, zamieszkujące pod Ziemią, dysponują technologią bardziej zaawansowaną niż ludzka i za wszelką cenę będą usiłowały odzyskać swoją towarzyszkę… Czy Artemis Fowl osiągnie swój cel? Odpowiedź znajdziecie w książce Eoina Colfera!"/>
+            <ITEXT FONTSIZE="8.3" CH="Powieść autorstwa Eoina Colfera stanowi wprowadzenie do świetnej serii opowiadającej o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="przygodach kilkunastoletniego Artemisa Fowla II, chłopca o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="ponadprzeciętnym ilorazie inteligencji. Po tajemniczym zniknięciu ojca zostaje on zmuszony do przejęcia zwierzchnictwa nad jednym z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="największych przestępczych imperiów świata, które – po niekorzystnej inwestycji Artemisa Seniora – podupada finansowo. Chcąc przywrócić jego dawną świetność, młodzieniec postanawia zdobyć pieniądze dosyć niekonwencjonalną metodą… Ogarnięty fascynacją legendami o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="garnku złota strzeżonym przez skrzaty na końcu tęczy, zaczyna brać pod uwagę możliwość istnienia tych stworzeń. Młody Irlandczyk zamierza poznać sekrety wróżek, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="następnie porwać jedną z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="nich i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="zażądać okupu. Jednak okazuje się, że zadanie nie będzie takie łatwe, jak do tej pory przypuszczał. Istoty te bowiem, zamieszkujące pod Ziemią, dysponują technologią bardziej zaawansowaną niż ludzka i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="za wszelką cenę będą usiłowały odzyskać swoją towarzyszkę… Czy Artemis Fowl osiągnie swój cel? Odpowiedź znajdziecie w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="książce Eoina Colfera!"/>
             <para/>
             <tab FONTSIZE="8.3"/>
-            <ITEXT FONTSIZE="8.3" CH="Powieść jest znakomitym młodzieżowym połączeniem baśni i literatury z gatunku science fiction. W zabawny i urzekający sposób udowadnia, że w życiu nie zawsze należy się kierować zasadą „Aurum potestas est” – „Złoto jest władzą”. Jest to wciągająca powieść, którą polecam i starszym, i młodszym czytelnikom. Pragnę zaprezentować kilka cytatów:"/>
+            <ITEXT FONTSIZE="8.3" CH="Powieść jest znakomitym młodzieżowym połączeniem baśni i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="literatury z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="gatunku science fiction. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="zabawny i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="urzekający sposób udowadnia, że w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="życiu nie zawsze należy się kierować zasadą „Aurum potestas est” – „Złoto jest władzą”. Jest to wciągająca powieść, którą polecam i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="starszym, i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="młodszym czytelnikom. Pragnę zaprezentować kilka cytatów:"/>
             <para/>
-            <ITEXT FONTSIZE="8.3" CH="• Pewność siebie wynika z niewiedzy. Jeśli się stawiasz, to tylko dlatego, że o czymś nie wiesz."/>
+            <ITEXT FONTSIZE="8.3" CH="• Pewność siebie wynika z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="niewiedzy. Jeśli się stawiasz, to tylko dlatego, że o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="czymś nie wiesz."/>
             <para/>
-            <ITEXT FONTSIZE="8.3" CH="• Sztuka negocjacji polegała na tym, by jak najdłużej zachować wszystkie atuty, a gdy się ich nie miało, przynajmniej udawać, że jest inaczej."/>
+            <ITEXT FONTSIZE="8.3" CH="• Sztuka negocjacji polegała na tym, by jak najdłużej zachować wszystkie atuty, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="gdy się ich nie miało, przynajmniej udawać, że jest inaczej."/>
             <para/>
             <ITEXT FONTSIZE="8.3" CH="• Wściekłość jest wrogiem skuteczności. "/>
             <para/>
-            <ITEXT FONTSIZE="8.3" CH="Wszystkich zainteresowanych zaproszam na założoną przeze mnie i koleżanki stronę na Facebook’u, Artemis Fowl PL."/>
+            <ITEXT FONTSIZE="8.3" CH="Wszystkich zainteresowanych zaproszam na założoną przeze mnie i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="koleżanki stronę na Facebook’u, Artemis Fowl PL."/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -455,7 +583,9 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="116.541353383459" YPOS="1941.35338345865" WIDTH="393.984962406015" HEIGHT="42.1052631578948" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 393.985 0 393.985 0 393.985 0 393.985 0 393.985 42.1053 393.985 42.1053 393.985 42.1053 393.985 42.1053 0 42.1053 0 42.1053 0 42.1053 0 42.1053 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 393.985 0 393.985 0 393.985 0 393.985 0 393.985 42.1053 393.985 42.1053 393.985 42.1053 393.985 42.1053 0 42.1053 0 42.1053 0 42.1053 0 42.1053 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Kramer Regular" FONTSIZE="33" CH="Spot­ka­nie z Mi­strzem"/>
+            <ITEXT FONT="Kramer Regular" FONTSIZE="33" CH="Spot­ka­nie z"/>
+            <nbspace/>
+            <ITEXT FONT="Kramer Regular" FONTSIZE="33" CH="Mi­strzem"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -517,7 +647,9 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1554.32330827068" YPOS="493" WIDTH="186.093007509323" HEIGHT="25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 186.093 0 186.093 0 186.093 0 186.093 0 186.093 25 186.093 25 186.093 25 186.093 25 0 25 0 25 0 25 0 25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 186.093 0 186.093 0 186.093 0 186.093 0 186.093 25 186.093 25 186.093 25 186.093 25 0 25 0 25 0 25 0 25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Kramer Regular" FONTSIZE="16" CH="Spot­ka­nie z Mi­strzem"/>
+            <ITEXT FONT="Kramer Regular" FONTSIZE="16" CH="Spot­ka­nie z"/>
+            <nbspace/>
+            <ITEXT FONT="Kramer Regular" FONTSIZE="16" CH="Mi­strzem"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -552,7 +684,9 @@
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1118" YPOS="243.5" WIDTH="202" HEIGHT="55.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-90" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Original pl Regular" ISIZE="21" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 202 0 202 0 202 0 202 0 202 55.75 202 55.75 202 55.75 202 55.75 0 55.75 0 55.75 0 55.75 0 55.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 202 0 202 0 202 0 202 0 202 55.75 202 55.75 202 55.75 202 55.75 0 55.75 0 55.75 0 55.75 0 55.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="Original pl Regular" FONTSIZE="21" CH="&quot;Ci­cha no­c&quot;"/>
             <para ALIGN="1"/>
-            <ITEXT FONT="Original pl Regular" FONTSIZE="21" CH="w in­nych ję­zy­kach..."/>
+            <ITEXT FONT="Original pl Regular" FONTSIZE="21" CH="w"/>
+            <nbspace/>
+            <ITEXT FONT="Original pl Regular" FONTSIZE="21" CH="in­nych ję­zy­kach..."/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -599,10 +733,38 @@
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1374" YPOS="173.75" WIDTH="382.89" HEIGHT="144.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 382.89 0 382.89 0 382.89 0 382.89 0 382.89 144.25 382.89 144.25 382.89 144.25 382.89 144.25 0 144.25 0 144.25 0 144.25 0 144.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 382.89 0 382.89 0 382.89 0 382.89 0 382.89 144.25 382.89 144.25 382.89 144.25 382.89 144.25 0 144.25 0 144.25 0 144.25 0 144.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <tab FONTSIZE="8.3"/>
-            <ITEXT FONTSIZE="8.3" CH="Nietrudno zauważyć, że minęło już sporo czasu od zakończenia wakacji (bo aż ponad 2 miesiące!). Ciężko uwierzyć, jak ten czas szybko leci. Zrozumiałam dopiero tę odległość czasową po napisaniu tego tekstu. Ale dość mojego rozpisywania. Zacznijmy od … przeprosin :( Pierwszoklasiści pewnie tego nie odczuli, ale starszaki na pewno… Otóż pierwszy numer gazetki został wydany z lek­ki­m poślizgiem. Nasi wierni czytelnicy mogą być trochę zawiedzeni, ale obiecujemy zrekompensować straty."/>
+            <ITEXT FONTSIZE="8.3" CH="Nietrudno zauważyć, że minęło już sporo czasu od zakończenia wakacji (bo aż ponad 2 miesiące!). Ciężko uwierzyć, jak ten czas szybko leci. Zrozumiałam dopiero tę odległość czasową po napisaniu tego tekstu. Ale dość mojego rozpisywania. Zacznijmy od … przeprosin :( Pierwszoklasiści pewnie tego nie odczuli, ale starszaki na pewno… Otóż pierwszy numer gazetki został wydany z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="lek­ki­m poślizgiem. Nasi wierni czytelnicy mogą być trochę zawiedzeni, ale obiecujemy zrekompensować straty."/>
             <para ALIGN="3" OpticalMargins="14"/>
             <tab FONTSIZE="8.3"/>
-            <ITEXT FONTSIZE="8.3" CH="Minęły już wakacje i pierwsze miesiące szkoły. Wystarczająco dużo dla naszych no­wi­cju­szy aby wdrożyć się w życie gimbazy i móc nazywać się „pełnoprawnymi gimbusami”. W tym okresie zdążyło się wiele wydarzyć, tradycyjne apele i nowe akcje. Ze 100%-owym przekonaniem mogę stwierdzić, że ten rok zapowiada się nadzwyczaj ciekawie. A my-redaktorzy (jak to profesjonalnie brzmi :) ) będziemy na bieżąco dokumentować wszystkie wydarzenia, dostarczać informacji i rozbawiać „Kącikiem Kawałów”. Dobrze widzę, że już nieźle się rozpisałam? Żeby Was do reszty nie zanudzić, napiszę tylko ostatnią i najważniejszą część. A mianowicie… życzenia! Przede wszystkim pierwszoklasistom – jak najlepszego zaaklimatyzowania się, drugoklasistom – wytrwałości i jak najmniej przypałów!, a królom gimbazy – jak najlepszych wyników na egzaminach! I oczywiście wszystkim – zero poprawek sierpniowych i jak najmniej jedynek!"/>
+            <ITEXT FONTSIZE="8.3" CH="Minęły już wakacje i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="pierwsze miesiące szkoły. Wystarczająco dużo dla naszych no­wi­cju­szy aby wdrożyć się w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="życie gimbazy i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="móc nazywać się „pełnoprawnymi gimbusami”. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="tym okresie zdążyło się wiele wydarzyć, tradycyjne apele i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="nowe akcje. Ze 100%-owym przekonaniem mogę stwierdzić, że ten rok zapowiada się nadzwyczaj ciekawie. A"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="my-redaktorzy (jak to profesjonalnie brzmi :) ) będziemy na bieżąco dokumentować wszystkie wydarzenia, dostarczać informacji i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="rozbawiać „Kącikiem Kawałów”. Dobrze widzę, że już nieźle się rozpisałam? Żeby Was do reszty nie zanudzić, napiszę tylko ostatnią i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="najważniejszą część. A"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="mianowicie… życzenia! Przede wszystkim pierwszoklasistom – jak najlepszego zaaklimatyzowania się, drugoklasistom – wytrwałości i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="jak najmniej przypałów!, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="królom gimbazy – jak najlepszych wyników na egzaminach! I"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="oczywiście wszystkim – zero poprawek sierpniowych i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.3" CH="jak najmniej jedynek!"/>
             <trail ALIGN="3" LINESPMode="1" OpticalMargins="14"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -618,27 +780,71 @@
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="114.5" YPOS="710" WIDTH="394.75" HEIGHT="253.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTSCALE="100" OpticalMargins="14" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="8.5" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 394.75 0 394.75 0 394.75 0 394.75 0 394.75 253.75 394.75 253.75 394.75 253.75 394.75 253.75 0 253.75 0 253.75 0 253.75 0 253.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 394.75 0 394.75 0 394.75 0 394.75 0 394.75 253.75 394.75 253.75 394.75 253.75 394.75 253.75 0 253.75 0 253.75 0 253.75 0 253.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <tab FONTSIZE="8.5" SCALEH="100"/>
-            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="Po przeczytaniu tej gazetki pewnie bez trudu zauważycie (przynajmniej drugo i trzecioklasiści), że znacznie zmienił się skład kółka dziennikarskiego. Odeszli do liceum bądź technikum tegoroczni absolwenci, stanowiący jednocześnie podstawę i większą część redakcji, a wraz z nimi nasza „szefowa”- Gabriela Boguta. "/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="Po przeczytaniu tej gazetki pewnie bez trudu zauważycie (przynajmniej drugo i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="trzecioklasiści), że znacznie zmienił się skład kółka dziennikarskiego. Odeszli do liceum bądź technikum tegoroczni absolwenci, stanowiący jednocześnie podstawę i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="większą część redakcji, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="wraz z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="nimi nasza „szefowa”- Gabriela Boguta. "/>
             <tab FONTSIZE="8.5" SCALEH="100"/>
-            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="Na szczęście „Sam Mjut” nie odszedł w zapomnienie. A deską ratunkową okazali się pierwszoklasiści, którzy najliczniej wspierają działalność kółka. Wraz z „nowymi głowami” przybyło wiele świeżych pomysłów, więc z ręką na sercu mogę przyrzec, że nie damy rady Was zanudzić! Słowem wstępu to byłoby na tyle."/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="Na szczęście „Sam Mjut” nie odszedł w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="zapomnienie. A"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="deską ratunkową okazali się pierwszoklasiści, którzy najliczniej wspierają działalność kółka. Wraz z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="„nowymi głowami” przybyło wiele świeżych pomysłów, więc z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="ręką na sercu mogę przyrzec, że nie damy rady Was zanudzić! Słowem wstępu to byłoby na tyle."/>
             <para ALIGN="3" OpticalMargins="14"/>
             <tab FONTSIZE="8.5" SCALEH="100"/>
-            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="Teraz nadszedł czas na … przedstawienie Wam naszej szanownej redakcji, a przede wszystkim jej filaru…"/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="Teraz nadszedł czas na … przedstawienie Wam naszej szanownej redakcji, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="przede wszystkim jej filaru…"/>
             <para ALIGN="3" OpticalMargins="14"/>
             <tab FONTSIZE="8.5" SCALEH="100"/>
-            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="Patrycja Gralewska – Zawsze (chociaż często nie na czas) stara się wywiązywać ze swoich obowiązków. Lubi się rozpisywać, więc możecie się spodziewać, że jej artykuły będą nieco długaśne. W tym roku przypadło jej pełnienie funkcji naczelnej."/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="Patrycja Gralewska – Zawsze (chociaż często nie na czas) stara się wywiązywać ze swoich obowiązków. Lubi się rozpisywać, więc możecie się spodziewać, że jej artykuły będą nieco długaśne. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="tym roku przypadło jej pełnienie funkcji naczelnej."/>
             <para ALIGN="3" OpticalMargins="14"/>
             <tab FONTSIZE="8.5" SCALEH="100"/>
-            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="Michał Sidor – geniusz matematyczny i informatyczny. Niepozorny, nad poziom inteligentny. Nic dziwnego, że dbanie o estetyczny, czytelny wygląd i logiczny układ naszej gazetki padło w dalszym ciągu na niego (to efekt jego pracy trzymasz właśnie w rękach)."/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="Michał Sidor – geniusz matematyczny i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="informatyczny. Niepozorny, nad poziom inteligentny. Nic dziwnego, że dbanie o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="estetyczny, czytelny wygląd i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="logiczny układ naszej gazetki padło w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="dalszym ciągu na niego (to efekt jego pracy trzymasz właśnie w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="rękach)."/>
             <para ALIGN="3" OpticalMargins="14"/>
             <tab FONTSIZE="8.5" SCALEH="100"/>
-            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="Pozostałe osoby redakcji licznie reprezentują klasy pierwsze. W następnym numerze przedstawimy ich pełny skład, ponieważ lista jest dość długa i jeszcze nie do końca sprecyzowana…"/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="Pozostałe osoby redakcji licznie reprezentują klasy pierwsze. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="następnym numerze przedstawimy ich pełny skład, ponieważ lista jest dość długa i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="jeszcze nie do końca sprecyzowana…"/>
             <para ALIGN="3" OpticalMargins="14"/>
             <tab FONTSIZE="8.5" SCALEH="100"/>
-            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="Tak prezentuje się skład redakcji, który zawsze może się powiększyć. Liczymy, że zainspirowani naszą działalnością, chętnie się przyłączycie. Jesteśmy otwarci zarówno na nowe osoby, jak też na nowe pomysły. Gdy czytając „Sam Mjut” uznacie, że czegoś brakuje lub macie propozycje na ulepszenie i unowocześnienie gazetki, serdecznie prosimy o zgłaszanie swoich uwag i porad wyżej wymienionym osobom oraz naszej opiekunce pani Małgorzacie Ku­nie­."/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="Tak prezentuje się skład redakcji, który zawsze może się powiększyć. Liczymy, że zainspirowani naszą działalnością, chętnie się przyłączycie. Jesteśmy otwarci zarówno na nowe osoby, jak też na nowe pomysły. Gdy czytając „Sam Mjut” uznacie, że czegoś brakuje lub macie propozycje na ulepszenie i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="unowocześnienie gazetki, serdecznie prosimy o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="zgłaszanie swoich uwag i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.5" SCALEH="100" CH="porad wyżej wymienionym osobom oraz naszej opiekunce pani Małgorzacie Ku­nie­."/>
             <para ALIGN="3" OpticalMargins="14"/>
             <tab FONTSIZE="8.5"/>
-            <ITEXT FONTSIZE="8.5" CH="Cała redakcja zobowiązuje się systematycznie dostarczać świeżych wiadomości i porządniej dawki śmiechu. Obiecujemy, że dołożymy wszelkich starań, aby mile Was zaskoczyć i zmotywować."/>
+            <ITEXT FONTSIZE="8.5" CH="Cała redakcja zobowiązuje się systematycznie dostarczać świeżych wiadomości i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.5" CH="porządniej dawki śmiechu. Obiecujemy, że dołożymy wszelkich starań, aby mile Was zaskoczyć i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8.5" CH="zmotywować."/>
             <para ALIGN="3" OpticalMargins="14"/>
             <ITEXT FONT="Liberation Serif Bold Italic" FONTSIZE="8.5" CH="REDAKCJA"/>
             <trail ALIGN="2"/>
