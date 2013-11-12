@@ -33,30 +33,36 @@
             <Separation Name="Żółty (Y)"/>
             <Separation Name="Czarny (K)"/>
         </Printer>
-        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="0" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="15" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="1" Quality="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="15" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
             <Fonts Name="Aerial pl Regular"/>
             <Fonts Name="Antarctic pl Regular"/>
-            <Fonts Name="Arial Narrow Italic"/>
             <Fonts Name="Ariston Regular"/>
             <Fonts Name="Asassin pl Regular"/>
             <Fonts Name="Bauhaus 93 Regular"/>
             <Fonts Name="BeachType pl Regular"/>
+            <Fonts Name="Beetle J pl Regular"/>
+            <Fonts Name="Blade pl Regular"/>
             <Fonts Name="Brit Comics pl Regular"/>
             <Fonts Name="Chinese pl Regular"/>
             <Fonts Name="Comic Sans MS Bold"/>
-            <Fonts Name="Garamond Bold"/>
+            <Fonts Name="FusionNormal Regular"/>
             <Fonts Name="Gridy pl Regular"/>
             <Fonts Name="Heavy pl Regular"/>
+            <Fonts Name="Hero pl Regular"/>
+            <Fonts Name="Kramer Regular"/>
             <Fonts Name="Lemonade pl Regular"/>
-            <Fonts Name="Mauritius Regular"/>
+            <Fonts Name="Liberation Sans Bold"/>
+            <Fonts Name="Liberation Sans Narrow Italic"/>
+            <Fonts Name="Liberation Sans Regular"/>
+            <Fonts Name="Liberation Serif Bold"/>
+            <Fonts Name="Liberation Serif Bold Italic"/>
+            <Fonts Name="Liberation Serif Regular"/>
+            <Fonts Name="Player pl Regular"/>
+            <Fonts Name="Purisa Bold"/>
             <Fonts Name="Quiet Gothic pl Regular"/>
-            <Fonts Name="Suspicious pl Regular"/>
             <Fonts Name="Synthetic pl Regular"/>
             <Fonts Name="TF2 Professor Regular"/>
             <Fonts Name="TV pl Regular"/>
-            <Fonts Name="The 2K12 Regular"/>
-            <Subset Name="Arial Bold"/>
-            <Subset Name="Arial Regular"/>
             <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
             <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
             <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
@@ -257,7 +263,7 @@
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="1669.89" YPOS="841.78" WIDTH="97.9999999999998" HEIGHT="12" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Hero pl Regular" ISIZE="10" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 98 0 98 0 98 0 98 0 98 12 98 12 98 12 98 12 0 12 0 12 0 12 0 12 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 98 0 98 0 98 0 98 0 98 12 98 12 98 12 98 12 0 12 0 12 0 12 0 12 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="1668.89" YPOS="854.78" WIDTH="97.9999999999998" HEIGHT="12" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Hero pl Regular" ISIZE="10" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 98 0 98 0 98 0 98 0 98 12 98 12 98 12 98 12 0 12 0 12 0 12 0 12 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 98 0 98 0 98 0 98 0 98 12 98 12 98 12 98 12 0 12 0 12 0 12 0 12 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="Hero pl Regular" FONTSIZE="10" CH="Wik­to­ria To­kar­ska"/>
             <trail/>
             <PageItemAttributes/>
@@ -342,18 +348,12 @@
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="1374.75" YPOS="975.28" WIDTH="369.75" HEIGHT="45" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 369.75 0 369.75 0 369.75 0 369.75 0 369.75 45 369.75 45 369.75 45 369.75 45 0 45 0 45 0 45 0 45 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 369.75 0 369.75 0 369.75 0 369.75 0 369.75 45 369.75 45 369.75 45 369.75 45 0 45 0 45 0 45 0 45 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Brit Comics pl Regular" FONTSIZE="14" KERN="15" CH="Świątecznie i"/>
-            <nbspace/>
-            <ITEXT FONT="Brit Comics pl Regular" FONTSIZE="14" KERN="15" CH="nie tylko"/>
-            <breakline/>
-            <ITEXT FONT="Brit Comics pl Regular" FONTSIZE="14" KERN="15" CH="z"/>
-            <nbspace/>
-            <ITEXT FONT="Brit Comics pl Regular" FONTSIZE="14" KERN="15" CH="Panią Celiną!"/>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="1371.89" YPOS="884.28" WIDTH="393.61" HEIGHT="45" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Brit Comics pl Regular" ISIZE="28" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 393.61 0 393.61 0 393.61 0 393.61 0 393.61 45 393.61 45 393.61 45 393.61 45 0 45 0 45 0 45 0 45 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 393.61 0 393.61 0 393.61 0 393.61 0 393.61 45 393.61 45 393.61 45 393.61 45 0 45 0 45 0 45 0 45 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Brit Comics pl Regular" FONTSIZE="28" CH="Qu­iz przy­rod­ni­czy"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="5" XPOS="1371.89" YPOS="974" WIDTH="378.612971383707" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="2" PTYPE="5" XPOS="1371.89" YPOS="873" WIDTH="378.612971383707" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -420,11 +420,6 @@
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1005.5" YPOS="350.75" WIDTH="363.75" HEIGHT="38.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 363.75 0 363.75 0 363.75 0 363.75 0 363.75 38.25 363.75 38.25 363.75 38.25 363.75 38.25 0 38.25 0 38.25 0 38.25 0 38.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 363.75 0 363.75 0 363.75 0 363.75 0 363.75 38.25 363.75 38.25 363.75 38.25 363.75 38.25 0 38.25 0 38.25 0 38.25 0 38.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="Comic Sans MS Bold" FONTSIZE="31" KERN="10" CH="Kącik Sucharów"/>
             <trail ALIGN="1"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="1703.89" YPOS="1214.78" WIDTH="33.11" HEIGHT="12" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 33.11 0 33.11 0 33.11 0 33.11 0 33.11 12 33.11 12 33.11 12 33.11 12 0 12 0 12 0 12 0 12 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 33.11 0 33.11 0 33.11 0 33.11 0 33.11 12 33.11 12 33.11 12 33.11 12 0 12 0 12 0 12 0 12 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Asassin pl Regular" FONTSIZE="10" CH="Coco"/>
-            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1377.5" YPOS="369.75" WIDTH="172.75" HEIGHT="19.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 172.75 0 172.75 0 172.75 0 172.75 0 172.75 19.5 172.75 19.5 172.75 19.5 172.75 19.5 0 19.5 0 19.5 0 19.5 0 19.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 172.75 0 172.75 0 172.75 0 172.75 0 172.75 19.5 172.75 19.5 172.75 19.5 172.75 19.5 0 19.5 0 19.5 0 19.5 0 19.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -547,10 +542,6 @@
         <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="116.541353383459" YPOS="1941.35338345865" WIDTH="393.984962406015" HEIGHT="42.1052631578948" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 393.985 0 393.985 0 393.985 0 393.985 0 393.985 42.1053 393.985 42.1053 393.985 42.1053 393.985 42.1053 0 42.1053 0 42.1053 0 42.1053 0 42.1053 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 393.985 0 393.985 0 393.985 0 393.985 0 393.985 42.1053 393.985 42.1053 393.985 42.1053 393.985 42.1053 0 42.1053 0 42.1053 0 42.1053 0 42.1053 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="Kramer Regular" FONTSIZE="33" CH="Klub Wo­lon­ta­riu­sza"/>
             <trail ALIGN="1"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="336.09022556391" YPOS="1547.88721804511" WIDTH="168.90977443609" HEIGHT="93.984962406015" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.130534670008354" LOCALSCY="0.130534670008354" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../../../media/PLIKI/gazetka/20122013/2/C:/Users/Michciu/Pictures/vlcsnap-2012-12-18-20h03m48s248.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 168.91 0 168.91 0 168.91 0 168.91 0 168.91 93.985 168.91 93.985 168.91 93.985 168.91 93.985 0 93.985 0 93.985 0 93.985 0 93.985 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 168.91 0 168.91 0 168.91 0 168.91 0 168.91 93.985 168.91 93.985 168.91 93.985 168.91 93.985 0 93.985 0 93.985 0 93.985 0 93.985 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="118.045112781955" YPOS="1305.51127819549" WIDTH="391.954887218045" HEIGHT="42.1052631578948" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 391.955 0 391.955 0 391.955 0 391.955 0 391.955 42.1053 391.955 42.1053 391.955 42.1053 391.955 42.1053 0 42.1053 0 42.1053 0 42.1053 0 42.1053 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 391.955 0 391.955 0 391.955 0 391.955 0 391.955 42.1053 391.955 42.1053 391.955 42.1053 391.955 42.1053 0 42.1053 0 42.1053 0 42.1053 0 42.1053 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -698,48 +689,48 @@
             <trail ALIGN="2"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="1371.89" YPOS="711.75" WIDTH="392.11" HEIGHT="130.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 392.11 0 392.11 0 392.11 0 392.11 0 392.11 130.5 392.11 130.5 392.11 130.5 392.11 130.5 0 130.5 0 130.5 0 130.5 0 130.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 392.11 0 392.11 0 392.11 0 392.11 0 392.11 130.5 392.11 130.5 392.11 130.5 392.11 130.5 0 130.5 0 130.5 0 130.5 0 130.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <tab FONTSIZE="9"/>
-            <ITEXT FONTSIZE="9" CH="W"/>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="1371.89" YPOS="711.75" WIDTH="392.11" HEIGHT="155.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9.5" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 392.11 0 392.11 0 392.11 0 392.11 0 392.11 155.25 392.11 155.25 392.11 155.25 392.11 155.25 0 155.25 0 155.25 0 155.25 0 155.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 392.11 0 392.11 0 392.11 0 392.11 0 392.11 155.25 392.11 155.25 392.11 155.25 392.11 155.25 0 155.25 0 155.25 0 155.25 0 155.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <tab FONTSIZE="9.5"/>
+            <ITEXT FONTSIZE="9.5" CH="W"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="co się ubrać zimą?  Oczywiście powinno być modnie i"/>
+            <ITEXT FONTSIZE="9.5" CH="co się ubrać zimą?  Oczywiście powinno być modnie i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="wygodnie… A"/>
+            <ITEXT FONTSIZE="9.5" CH="wygodnie… A"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="jak konkretnie? Podpowiemy, czego nie powinno zabraknąć w"/>
+            <ITEXT FONTSIZE="9.5" CH="jak konkretnie? Podpowiemy, czego nie powinno zabraknąć w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="Twojej szafie w"/>
+            <ITEXT FONTSIZE="9.5" CH="Twojej szafie w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="te zimne miesiące."/>
+            <ITEXT FONTSIZE="9.5" CH="te zimne miesiące."/>
             <para ALIGN="3"/>
-            <tab FONTSIZE="9"/>
-            <ITEXT FONTSIZE="9" CH="Zacznijmy od nakrycia głowy. W"/>
+            <tab FONTSIZE="9.5"/>
+            <ITEXT FONTSIZE="9.5" CH="Zacznijmy od nakrycia głowy. W"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="tym sezonie modne będą czapki typu KRASNAL, dozwolone są wszelkie kolory, więc wybór należy do Ciebie!"/>
+            <ITEXT FONTSIZE="9.5" CH="tym sezonie modne będą czapki typu KRASNAL, dozwolone są wszelkie kolory, więc wybór należy do Ciebie!"/>
             <para ALIGN="3"/>
-            <tab FONTSIZE="9"/>
-            <ITEXT FONTSIZE="9" CH="Następnie niższa partia ciała, czyli okrycie wierzchnie. Hitem sezonu będą kurtki - tzw. PARKA w"/>
+            <tab FONTSIZE="9.5"/>
+            <ITEXT FONTSIZE="9.5" CH="Następnie niższa partia ciała, czyli okrycie wierzchnie. Hitem sezonu będą kurtki - tzw. PARKA w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="kolorze khaki lub moro. "/>
+            <ITEXT FONTSIZE="9.5" CH="kolorze khaki lub moro. "/>
             <para ALIGN="3"/>
-            <tab FONTSIZE="9"/>
-            <ITEXT FONTSIZE="9" CH="Kolejnym elementem damskiej garderoby, szalenie modnym i"/>
+            <tab FONTSIZE="9.5"/>
+            <ITEXT FONTSIZE="9.5" CH="Kolejnym elementem damskiej garderoby, szalenie modnym i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="pożądanym, będą getry w"/>
+            <ITEXT FONTSIZE="9.5" CH="pożądanym, będą getry w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="norweskie wzory albo bardziej tradycyjne spodnie jeansowe."/>
+            <ITEXT FONTSIZE="9.5" CH="norweskie wzory albo bardziej tradycyjne spodnie jeansowe."/>
             <para ALIGN="3"/>
-            <tab FONTSIZE="9"/>
-            <ITEXT FONTSIZE="9" CH="Na koniec jedna z"/>
+            <tab FONTSIZE="9.5"/>
+            <ITEXT FONTSIZE="9.5" CH="Na koniec jedna z"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="najważniejszej części Twojej garderoby, czyli buty. Zimą najlepiej będą się sprawdzały ŚNIEGOWCE, ich kolor również zależy od Twoich upodobań."/>
+            <ITEXT FONTSIZE="9.5" CH="najważniejszej części Twojej garderoby, czyli buty. Zimą najlepiej będą się sprawdzały ŚNIEGOWCE, ich kolor również zależy od Twoich upodobań."/>
             <para ALIGN="3"/>
-            <tab FONTSIZE="9"/>
-            <ITEXT FONTSIZE="9" CH="Gdy zastosujesz się do naszych rad i"/>
+            <tab FONTSIZE="9.5"/>
+            <ITEXT FONTSIZE="9.5" CH="Gdy zastosujesz się do naszych rad i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="uzupełnisz swoją szafę o"/>
+            <ITEXT FONTSIZE="9.5" CH="uzupełnisz swoją szafę o"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="kilka drobiazgów, możesz być pewna, że będziesz najmodniej ubraną dziewczyną tego sezonu."/>
+            <ITEXT FONTSIZE="9.5" CH="kilka drobiazgów, możesz być pewna, że będziesz najmodniej ubraną dziewczyną tego sezonu."/>
             <trail ALIGN="3"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1212,6 +1203,94 @@
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1375" YPOS="427" WIDTH="173" HEIGHT="42.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Purisa Bold" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 173 0 173 0 173 0 173 0 173 42.5 173 42.5 173 42.5 173 42.5 0 42.5 0 42.5 0 42.5 0 42.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 173 0 173 0 173 0 173 0 173 42.5 173 42.5 173 42.5 173 42.5 0 42.5 0 42.5 0 42.5 0 42.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="Purisa Bold" FONTSIZE="12" CH="En­glish lan­gu­age isn't so dif­fi­cult"/>
+            <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="1372.5" YPOS="933" WIDTH="390" HEIGHT="294" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="10" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 390 0 390 0 390 0 390 0 390 294 390 294 390 294 390 294 0 294 0 294 0 294 0 294 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 390 0 390 0 390 0 390 0 390 294 390 294 390 294 390 294 0 294 0 294 0 294 0 294 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="10" CH="1. Jaka jest najdłuższa rzeka świata? "/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="a)    "/>
+            <tab FONTSIZE="10"/>
+            <ITEXT FONTSIZE="10" CH="Nil "/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="b)      Dunaj "/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="c)      Jangcy "/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="d)      "/>
+            <tab FONTSIZE="10"/>
+            <ITEXT FONTSIZE="10" CH="Amazonka "/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="2. Jaki ptak za pomocą długiego dzioba wykuwa w pniu dziuple na gniazdo, i wyjada owady żyjące w korze? "/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="a)      kormoran "/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="b)      dzięcioł "/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="c)      "/>
+            <tab FONTSIZE="10"/>
+            <ITEXT FONTSIZE="10" CH="czapla "/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="d)      "/>
+            <tab FONTSIZE="10"/>
+            <ITEXT FONTSIZE="10" CH="myszołów "/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="3. Jakie powolne zwierzątko nosi swój domek? "/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="a)     ślimak "/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="b)     jaszczurka"/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="c)     żółw "/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="d)    świnka morska "/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="4. Jaki ssak morski ma wąsy i duże kły? "/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="a)    Słoń"/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="b)    Wieloryb "/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="c)    Słoń morski "/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="d)    Mors "/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="5. Jak nazywa się największy wodospad świata? "/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="a)    Salto Angel "/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="b)    Iguazu "/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="c)    Wodospady Wiktorii "/>
+            <para/>
+            <ITEXT FONTSIZE="10" CH="d)    Nia­ga­ra­"/>
+            <para/>
+            <para/>
+            <para/>
+            <para/>
+            <ITEXT CH="Od­po­wie­dzi za­mie­ści­my w na­stęp­nym nu­me­rze"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="1639.25" YPOS="1205.5" WIDTH="125.64" HEIGHT="20.78" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 125.64 0 125.64 0 125.64 0 125.64 0 125.64 20.78 125.64 20.78 125.64 20.78 125.64 20.78 0 20.78 0 20.78 0 20.78 0 20.78 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 125.64 0 125.64 0 125.64 0 125.64 0 125.64 20.78 125.64 20.78 125.64 20.78 125.64 20.78 0 20.78 0 20.78 0 20.78 0 20.78 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Gridy pl Regular" FONTSIZE="9" CH="Mo­nika Wa­ry­szak"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1554.75" YPOS="498" WIDTH="177.75" HEIGHT="25.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Brit Comics pl Regular" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 177.75 0 177.75 0 177.75 0 177.75 0 177.75 25.5 177.75 25.5 177.75 25.5 177.75 25.5 0 25.5 0 25.5 0 25.5 0 25.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 177.75 0 177.75 0 177.75 0 177.75 0 177.75 25.5 177.75 25.5 177.75 25.5 177.75 25.5 0 25.5 0 25.5 0 25.5 0 25.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Brit Comics pl Regular" FONTSIZE="12" CH="Qu­iz przy­rod­ni­czy"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
