@@ -826,121 +826,121 @@
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="527.25" YPOS="709.5" WIDTH="399.75" HEIGHT="522.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="10" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 399.75 0 399.75 0 399.75 0 399.75 0 399.75 522.75 399.75 522.75 399.75 522.75 399.75 522.75 0 522.75 0 522.75 0 522.75 0 522.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 399.75 0 399.75 0 399.75 0 399.75 0 399.75 522.75 399.75 522.75 399.75 522.75 399.75 522.75 0 522.75 0 522.75 0 522.75 0 522.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="10" CH="Jak już pewnie zauważyliście w"/>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="527.25" YPOS="709.5" WIDTH="399.75" HEIGHT="522.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9.8" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 399.75 0 399.75 0 399.75 0 399.75 0 399.75 522.75 399.75 522.75 399.75 522.75 399.75 522.75 0 522.75 0 522.75 0 522.75 0 522.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 399.75 0 399.75 0 399.75 0 399.75 0 399.75 522.75 399.75 522.75 399.75 522.75 399.75 522.75 0 522.75 0 522.75 0 522.75 0 522.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="9.8" CH="Jak już pewnie zauważyliście w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="naszej szkole pojawiły się nowe twarze. Mowa oczywiście o"/>
+            <ITEXT FONTSIZE="9.8" CH="naszej szkole pojawiły się nowe twarze. Mowa oczywiście o"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="pierwszoklasistach :D. Większość z"/>
+            <ITEXT FONTSIZE="9.8" CH="pierwszoklasistach :D. Większość z"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="nich zdążyła się świetnie zaaklimatyzować i"/>
+            <ITEXT FONTSIZE="9.8" CH="nich zdążyła się świetnie zaaklimatyzować i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="wdrożyć w"/>
+            <ITEXT FONTSIZE="9.8" CH="wdrożyć w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="rytm życia naszej gimbazy. Ale czy wiemy wszystko o"/>
+            <ITEXT FONTSIZE="9.8" CH="rytm życia naszej gimbazy. Ale czy wiemy wszystko o"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="pozornie znanych nam nowicjuszach?  Najwyższa pora się o"/>
+            <ITEXT FONTSIZE="9.8" CH="pozornie znanych nam nowicjuszach?  Najwyższa pora się o"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="tym przekonać ;)."/>
+            <ITEXT FONTSIZE="9.8" CH="tym przekonać ;)."/>
             <para/>
-            <ITEXT FONTSIZE="10" CH="Poniżej chcę Wam przedstawić trzy dziewczyny (a"/>
+            <ITEXT FONTSIZE="9.8" CH="Poniżej chcę Wam przedstawić trzy dziewczyny (a"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="w"/>
+            <ITEXT FONTSIZE="9.8" CH="w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="następnym numerze kolejne osoby), oto one:"/>
-            <para/>
-            <para/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Ania Jankowska: chodzi do klasy Ia, której wychowawczynią jest pani Monika Maciejka. Jej ulubiony przedmiot to język polski. Natomiast najbardziej przypadła jej do gustu nauczycielka nieco innego języka –pani Monika Wiechnik :). Ania – z"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="10" CH="pozoru spokojna, cicha dziewczyna, a"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="10" CH="jednak potrafi nieźle zaskoczyć. Umacnia naszą szkołę głównie w"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="10" CH="kategorii muzycznej. Dołączyła do chóru szkolnego, dodatkowo od roku uczy się grać na gitarze klasycznej (mówi, że w"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="10" CH="planach jest jeszcze elektryczna). Twierdzi, że w"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="10" CH="gimnazjum podoba jej się bardziej niż w"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="10" CH="podstawówce, (z"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="10" CH="czego bardzo się cieszymy! :) )W"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="10" CH="czasie wolnym najchętniej relaksuje się słuchając muzyki. Głównie rocka i"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="10" CH="metalu, a"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="10" CH="jednym z"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="10" CH="jej ulubionych zespołów jest „System of a"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="10" CH="Down”."/>
-            <para/>
-            <ITEXT FONTSIZE="10" CH="Aniu widzę, że czujesz się w"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="10" CH="gimnazjum, jak u"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="10" CH="siebie w"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="10" CH="domu. Mamy nadzieję, że tak pozostanie i"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="10" CH="życzymy tego wszystkim pierwszoklasistom!"/>
+            <ITEXT FONTSIZE="9.8" CH="następnym numerze kolejne osoby), oto one:"/>
             <para/>
             <para/>
-            <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Kasia Węgorek: to uczennica klasy Ic, której wychowawczynią jest pani Małgorzata Kuna. Mówi, że w"/>
+            <tab FONTSIZE="9.8"/>
+            <ITEXT FONTSIZE="9.8" CH="Ania Jankowska: chodzi do klasy Ia, której wychowawczynią jest pani Monika Maciejka. Jej ulubiony przedmiot to język polski. Natomiast najbardziej przypadła jej do gustu nauczycielka nieco innego języka –pani Monika Wiechnik :). Ania – z"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="gimnazjum jej się podoba, lecz (miejmy nadzieję, że tylko tymczasowo) wolała być w"/>
+            <ITEXT FONTSIZE="9.8" CH="pozoru spokojna, cicha dziewczyna, a"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="podstawówce :c. Jej ulubionym przedmiotem jest plastyka (więc hipp hipp hurra! Mamy nową duszę artystyczną!). Natomiast najbardziej przypadła jej do gustu pani Celina Małek :). Niestety, nie zapisała się jeszcze na żadne zajęcia dodatkowe, ale liczymy, że wkrótce znajdzie odpowiadające swoim zainteresowaniom kółka tematyczne (może przystąpi do redakcji gazetki szkolnej? :) ). Póki co swój wolny czas poświęca głównie na jazdę rowerem i"/>
+            <ITEXT FONTSIZE="9.8" CH="jednak potrafi nieźle zaskoczyć. Umacnia naszą szkołę głównie w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="oglądanie telewizji. Do tej pory nie brała jeszcze udziału w"/>
+            <ITEXT FONTSIZE="9.8" CH="kategorii muzycznej. Dołączyła do chóru szkolnego, dodatkowo od roku uczy się grać na gitarze klasycznej (mówi, że w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="żadnych konkursach, ale mamy nadzieję, że szybko się ośmieli i"/>
+            <ITEXT FONTSIZE="9.8" CH="planach jest jeszcze elektryczna). Twierdzi, że w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="zostanie laureatką np. konkursu plastycznego. A"/>
+            <ITEXT FONTSIZE="9.8" CH="gimnazjum podoba jej się bardziej niż w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="wiem, że jeden został właśnie ogłoszony przez naszą nauczycielkę wychowania fizycznego. Teraz wszyscy chcemy dodać Ci odwagi i"/>
+            <ITEXT FONTSIZE="9.8" CH="podstawówce, (z"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="wsparcia, żebyś przystąpiła do rywalizacji i"/>
+            <ITEXT FONTSIZE="9.8" CH="czego bardzo się cieszymy! :) )W"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="spróbowała swoich sił. "/>
+            <ITEXT FONTSIZE="9.8" CH="czasie wolnym najchętniej relaksuje się słuchając muzyki. Głównie rocka i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.8" CH="metalu, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.8" CH="jednym z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.8" CH="jej ulubionych zespołów jest „System of a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.8" CH="Down”."/>
             <para/>
-            <ITEXT FONTSIZE="10" CH="Życzymy, abyś bardziej polubiła naszą szkołę. Może z"/>
+            <ITEXT FONTSIZE="9.8" CH="Aniu widzę, że czujesz się w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="biegiem czasu okaże się, że tutaj jest o"/>
+            <ITEXT FONTSIZE="9.8" CH="gimnazjum, jak u"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="wiele fajniej? :)"/>
+            <ITEXT FONTSIZE="9.8" CH="siebie w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.8" CH="domu. Mamy nadzieję, że tak pozostanie i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.8" CH="życzymy tego wszystkim pierwszoklasistom!"/>
             <para/>
             <para/>
-            <ITEXT FONTSIZE="10" CH="Paulina Tanikowska: również chodzi do klasy Ic. Jej ulubionym przedmiotem jest w-f, a"/>
+            <tab FONTSIZE="9.8"/>
+            <ITEXT FONTSIZE="9.8" CH="Kasia Węgorek: to uczennica klasy Ic, której wychowawczynią jest pani Małgorzata Kuna. Mówi, że w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="nauczycielką- pani Celina Małek :). Niestety, jak na razie nie uczęszcza na żadne zajęcia pozalekcyjne (miejmy nadzieję, że wkrótce ulegnie to zmianie). Na razie wolną lukę wypełnia spotkaniami ze znajomymi (głównie z"/>
+            <ITEXT FONTSIZE="9.8" CH="gimnazjum jej się podoba, lecz (miejmy nadzieję, że tylko tymczasowo) wolała być w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="przyjaciółką Agą) oraz słuchaniem muzyki. A"/>
+            <ITEXT FONTSIZE="9.8" CH="podstawówce :c. Jej ulubionym przedmiotem jest plastyka (więc hipp hipp hurra! Mamy nową duszę artystyczną!). Natomiast najbardziej przypadła jej do gustu pani Celina Małek :). Niestety, nie zapisała się jeszcze na żadne zajęcia dodatkowe, ale liczymy, że wkrótce znajdzie odpowiadające swoim zainteresowaniom kółka tematyczne (może przystąpi do redakcji gazetki szkolnej? :) ). Póki co swój wolny czas poświęca głównie na jazdę rowerem i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="jej ulubione rodzaje to: rock i"/>
+            <ITEXT FONTSIZE="9.8" CH="oglądanie telewizji. Do tej pory nie brała jeszcze udziału w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="metal. Do tej pory nie uczestniczyła jeszcze w"/>
+            <ITEXT FONTSIZE="9.8" CH="żadnych konkursach, ale mamy nadzieję, że szybko się ośmieli i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="żadnych konkursach i"/>
+            <ITEXT FONTSIZE="9.8" CH="zostanie laureatką np. konkursu plastycznego. A"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="zawodach. Ale w"/>
+            <ITEXT FONTSIZE="9.8" CH="wiem, że jeden został właśnie ogłoszony przez naszą nauczycielkę wychowania fizycznego. Teraz wszyscy chcemy dodać Ci odwagi i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="ramach rekompensaty przyznała, że bardziej woli gimnazjum od podstawówki :). Uważa, że są tu wspaniali ludzie, których warto się trzymać. Jedyną wadą naszej szkoły, według Pauliny są duże wymagania edukacyjne. "/>
+            <ITEXT FONTSIZE="9.8" CH="wsparcia, żebyś przystąpiła do rywalizacji i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.8" CH="spróbowała swoich sił. "/>
             <para/>
-            <ITEXT FONTSIZE="10" CH="Ale mamy nadzieję, że szybko się wprawi i"/>
+            <ITEXT FONTSIZE="9.8" CH="Życzymy, abyś bardziej polubiła naszą szkołę. Może z"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="przyzwyczai, a"/>
+            <ITEXT FONTSIZE="9.8" CH="biegiem czasu okaże się, że tutaj jest o"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="za parę dni już nawet tego nie dostrzeże. "/>
+            <ITEXT FONTSIZE="9.8" CH="wiele fajniej? :)"/>
             <para/>
-            <ITEXT FONTSIZE="10" CH="Życzymy Ci jak najlepszej zabawy i"/>
+            <para/>
+            <ITEXT FONTSIZE="9.8" CH="Paulina Tanikowska: również chodzi do klasy Ic. Jej ulubionym przedmiotem jest w-f, a"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="żebyś nadal świetnie się czuła w"/>
+            <ITEXT FONTSIZE="9.8" CH="nauczycielką- pani Celina Małek :). Niestety, jak na razie nie uczęszcza na żadne zajęcia pozalekcyjne (miejmy nadzieję, że wkrótce ulegnie to zmianie). Na razie wolną lukę wypełnia spotkaniami ze znajomymi (głównie z"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10" CH="naszym otoczeniu."/>
+            <ITEXT FONTSIZE="9.8" CH="przyjaciółką Agą) oraz słuchaniem muzyki. A"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.8" CH="jej ulubione rodzaje to: rock i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.8" CH="metal. Do tej pory nie uczestniczyła jeszcze w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.8" CH="żadnych konkursach i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.8" CH="zawodach. Ale w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.8" CH="ramach rekompensaty przyznała, że bardziej woli gimnazjum od podstawówki :). Uważa, że są tu wspaniali ludzie, których warto się trzymać. Jedyną wadą naszej szkoły, według Pauliny są duże wymagania edukacyjne. "/>
+            <para/>
+            <ITEXT FONTSIZE="9.8" CH="Ale mamy nadzieję, że szybko się wprawi i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.8" CH="przyzwyczai, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.8" CH="za parę dni już nawet tego nie dostrzeże. "/>
+            <para/>
+            <ITEXT FONTSIZE="9.8" CH="Życzymy Ci jak najlepszej zabawy i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.8" CH="żebyś nadal świetnie się czuła w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.8" CH="naszym otoczeniu."/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
