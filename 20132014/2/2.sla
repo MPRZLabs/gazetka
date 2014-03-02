@@ -22,10 +22,10 @@
             <EXCEPTION WORD="Ostatnio" HYPHENATED="Os-tat-nio"/>
             <EXCEPTION WORD="Opowiada" HYPHENATED="O-po-wia-da"/>
         </HYPHEN>
-        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONTSIZE="11"/>
+        <STYLE NAME="Default Paragraph Style" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONTSIZE="11"/>
         <STYLE NAME="Cytat" ALIGN="3" LINESPMode="1" FONT="Liberation Sans Italic" FONTSIZE="13"/>
         <STYLE NAME="Header" ALIGN="1" LINESPMode="1" FONT="Liberation Sans Bold"/>
-        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Liberation Sans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Polish"/>
+        <CHARSTYLE CNAME="Default Character Style" FONT="Liberation Sans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Polish"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Tło" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="0" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="hp deskjet 845c" filename="" separationName="Wszystkie" printerCommand="">
             <Separation Name="Cyjan (C)"/>
@@ -124,7 +124,7 @@
             <trail/>
             <PageItemAttributes/>
         </MASTEROBJECT>
-        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="528" YPOS="1940.25" WIDTH="400.5" HEIGHT="567" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="10.5" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 400.5 0 400.5 0 400.5 0 400.5 0 400.5 567 400.5 567 400.5 567 400.5 567 0 567 0 567 0 567 0 567 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 400.5 0 400.5 0 400.5 0 400.5 0 400.5 567 400.5 567 400.5 567 400.5 567 0 567 0 567 0 567 0 567 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="54">
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="528" YPOS="1940.25" WIDTH="400.5" HEIGHT="567" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="10.5" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 400.5 0 400.5 0 400.5 0 400.5 0 400.5 567 400.5 567 400.5 567 400.5 567 0 567 0 567 0 567 0 567 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 400.5 0 400.5 0 400.5 0 400.5 0 400.5 567 400.5 567 400.5 567 400.5 567 0 567 0 567 0 567 0 567 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="52">
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="6" XPOS="1564.84100601605" YPOS="150.180152051865" WIDTH="93.4464" HEIGHT="18.1797" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1.20522414500267" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="16" PLINEJOIN="64" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 93.4464 0 93.4464 0 93.4464 0 93.4464 0 93.4464 18.1797 93.4464 18.1797 93.4464 18.1797 93.4464 18.1797 0 18.1797 0 18.1797 0 18.1797 0 18.1797 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 93.4464 0 93.4464 0 93.4464 0 93.4464 0 93.4464 18.1797 93.4464 18.1797 93.4464 18.1797 93.4464 18.1797 0 18.1797 0 18.1797 0 18.1797 0 18.1797 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0.528506016046549" gYpos="0.633712986199924" gWidth="188.5775" gHeight="19.4471306353086" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -132,77 +132,74 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="969.89" YPOS="387" WIDTH="374.11" HEIGHT="213" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" wordTrack="1" MinWordTrack="1" OpticalMargins="14" COLUMNS="2" COLGAP="18" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 374.11 0 374.11 0 374.11 0 374.11 0 374.11 213 374.11 213 374.11 213 374.11 213 0 213 0 213 0 213 0 213 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 374.11 0 374.11 0 374.11 0 374.11 0 374.11 213 374.11 213 374.11 213 374.11 213 0 213 0 213 0 213 0 213 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="Na lekcji geografii nauczyciel pyta Jasia:"/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="Na lekcji biologii pani pyta uczniów:"/>
             <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Która rzeka jest najdłuższa: Ren czy Missisipi?"/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Proszę wymienić pięć drapieżników."/>
             <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Oczywiście, Missisipi."/>
-            <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Doskonale, a"/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Jeden lew i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="czy wiesz, o"/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="cztery tygrysy."/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="Nauczyciel zwraca się do ucznia: "/>
+            <para/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Jasiu nie wiem, czy się nadajesz do szkoły, ale z"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="ile dłuższa?"/>
-            <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Dokładnie o"/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="pewnością powinieneś zagrać w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="sześć liter. "/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="Totolotka. "/>
             <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="Przychodzi blondynka do księgarni:"/>
-            <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Ile kosztuje ta książka?"/>
-            <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Która?"/>
-            <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Ta po 10 złotych."/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="A"/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="- A"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="wiesz, co to jest: lata po pokoju i"/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="to czemu panie profesorze? "/>
+            <para/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Bo na 49 pytań, dobrze odpowiedziałeś dokładnie na sześć."/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="Dyrektor szkoły przechodzi korytarzem obok klasy, z"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="robi yzb, yzb, yzb... "/>
-            <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Mucha na wstecznym biegu."/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="SZKOŁA- Szkolny Zakład Karno Opiekuńczy Łączący Analfabetów"/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="Na lekcji języka polskiego nauczyciel pyta:"/>
-            <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Czym będzie wyraz ''chętnie'' w"/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="której słychać straszny wrzask. Wpada, łapie za rękaw najgłośniej wrzeszczącego, wyciąga go na korytarz i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="zdaniu: ''Uczniowie chętnie wracają do szkoły po wakacjach.&quot;"/>
-            <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Kłamstwem panie profesorze!"/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="Ojciec pyta syna:"/>
-            <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Co robiliście na matematyce?"/>
-            <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Szukaliśmy wspólnego mianownika."/>
-            <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Coś podobnego! Kiedy ja byłem w"/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="stawia w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="szkole, też szukaliśmy wspólnego mianownika! Że też nikt go do tej pory nie znalazł..."/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Mamo, choinka się pali! - wola Jasio z"/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="kącie. Po chwili z"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="pokoju do matki zajętej w"/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="klasy wychodzi kolejnych trzech młodzianów, którzy pytają:"/>
+            <para/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Czy możemy już iść do domu?"/>
+            <para/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="- A"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="kuchni."/>
-            <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Choinka się świeci, a"/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="z"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="nie pali - poprawia matka."/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="jakiej racji?"/>
             <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="Za chwilę chłopiec krzyczy:"/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="- No... przecież skoro nasz nowy pan od matematyki stoi w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="kącie, to chyba lekcji nie będzie, prawda?"/>
             <para/>
-            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Mamo, mamo, firanki się świecą!"/>
+            <para/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="Na lekcji geografii:"/>
+            <para/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Większą połowę Ziemi zajmują wody."/>
+            <para/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Tyle razy mówiłam, że nie ma większej i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="mniejszej połowy, ale jak zwykle większa połowa klasy nie uważała."/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Jak brzmi liczba mnoga od rzeczownika &quot;niedziela&quot;?"/>
+            <para/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Wakacje, proszę pani!"/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="Nauczyciel opowiada klasie o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="małpach. Dostrzega, że mała Zuzia nie słucha. Zwraca więc jej uwagę:"/>
+            <para/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="- Zuziu! Słuchaj uważnie i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" wordTrack="1" CH="patrz na mnie, bo nie będziesz wiedziała jak wygląda małpa."/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -246,10 +243,8 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="127.5" YPOS="675.5" WIDTH="370" HEIGHT="45.78" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Serif Regular" ISIZE="35" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 370 0 370 0 370 0 370 0 370 45.78 370 45.78 370 45.78 370 45.78 0 45.78 0 45.78 0 45.78 0 45.78 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 370 0 370 0 370 0 370 0 370 45.78 370 45.78 370 45.78 370 45.78 0 45.78 0 45.78 0 45.78 0 45.78 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="35" SCALEH="130" CH="Słów­ko o"/>
-            <nbspace/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="35" SCALEH="130" CH="re­dak­cji"/>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="127.5" YPOS="675.5" WIDTH="370" HEIGHT="45.78" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Serif Regular" ISIZE="41" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 370 0 370 0 370 0 370 0 370 45.78 370 45.78 370 45.78 370 45.78 0 45.78 0 45.78 0 45.78 0 45.78 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 370 0 370 0 370 0 370 0 370 45.78 370 45.78 370 45.78 370 45.78 0 45.78 0 45.78 0 45.78 0 45.78 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="41" CH="Che­mia wo­kół nas"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -272,21 +267,57 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="1371.89" YPOS="1641.75" WIDTH="368.11" HEIGHT="228.81" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="11" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 368.11 0 368.11 0 368.11 0 368.11 0 368.11 228.81 368.11 228.81 368.11 228.81 368.11 228.81 0 228.81 0 228.81 0 228.81 0 228.81 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 368.11 0 368.11 0 368.11 0 368.11 0 368.11 228.81 368.11 228.81 368.11 228.81 368.11 228.81 0 228.81 0 228.81 0 228.81 0 228.81 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="9" CH="75. Głodowe Igrzyska czas zacząć! 22 listopada bieżącego roku do kin weszła ekranizacja kontynuacji cieszącej się dużą sławą na całym świecie powieści „Igrzyska śmierci” Suzanne Collins. „W Pierścieniu Ognia” stanowi dosyć wierną adaptację opowieści, podkreślając najważniejsze aspekty historii  i przesłanie autorki."/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="9" CH="75. Głodowe Igrzyska czas zacząć! 22 listopada bieżącego roku do kin weszła ekranizacja kontynuacji cieszącej się dużą sławą na całym świecie powieści „Igrzyska śmierci” Suzanne Collins. „W"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="9" CH="Pierścieniu Ognia” stanowi dosyć wierną adaptację opowieści, podkreślając najważniejsze aspekty historii  i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="9" CH="przesłanie autorki."/>
             <para/>
             <tab FONTSIZE="9"/>
-            <ITEXT FONTSIZE="9" CH="Katniss Everdeen i Peeta Mellark, zwycięzcy ostatnich Głodowych Igrzysk, biorą udział w dorocznym Tournée Zwycięzców. Ich zadaniem jest publiczne wystąpienie w każdym z Dwunastu Dystryktów i oddanie hołdu poległym trybutom. Prowokacyjne zachowanie dziewczyny stanowi dla uciśnionego przez kapitolińskie władze ludu wyraz buntu. Wkrótce potem cały kraj zalewa powstanie. W odwecie prezydent Snow w celu uczczenia jubileuszowych igrzysk angażuje w śmiertelną rozgrywkę zwycięzców"/>
+            <ITEXT FONTSIZE="9" CH="Katniss Everdeen i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="Peeta Mellark, zwycięzcy ostatnich Głodowych Igrzysk, biorą udział w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="dorocznym Tournée Zwycięzców. Ich zadaniem jest publiczne wystąpienie w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="każdym z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="Dwunastu Dystryktów i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="oddanie hołdu poległym trybutom. Prowokacyjne zachowanie dziewczyny stanowi dla uciśnionego przez kapitolińskie władze ludu wyraz buntu. Wkrótce potem cały kraj zalewa powstanie. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="odwecie prezydent Snow w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="celu uczczenia jubileuszowych igrzysk angażuje w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="śmiertelną rozgrywkę zwycięzców"/>
             <breakline/>
             <breakline/>
             <breakline/>
             <breakline/>
-            <ITEXT FONTSIZE="9" CH="z ubiegłych lat. Dla Katniss i Peety oznacza to powrót na arenę… "/>
+            <ITEXT FONTSIZE="9" CH="z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="ubiegłych lat. Dla Katniss i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="Peety oznacza to powrót na arenę… "/>
             <para/>
             <tab FONTSIZE="9"/>
-            <ITEXT FONTSIZE="9" CH="Pełna rozmachu ekranizacja pod względem wyrazu nie odbiega od filmowej adaptacji pierwszej części trylogii. Świetna gra aktorska i nowoczesne rozwiązania techniczne utrzymują widza przez cały czas w pełnym niecierpliwego wyczekiwania napięciu. Dodatkowym atutem jest odpowiednie zobrazowanie problematyki moralności, z jaką styka się Katniss Everdeen (w tej roli Jennifer Lawrence). Wszystkie elementy dzieła tworzą spójną całość, zwieńczoną puentą o lekkim zabarwieniu filozoficznym.  "/>
+            <ITEXT FONTSIZE="9" CH="Pełna rozmachu ekranizacja pod względem wyrazu nie odbiega od filmowej adaptacji pierwszej części trylogii. Świetna gra aktorska i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="nowoczesne rozwiązania techniczne utrzymują widza przez cały czas w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="pełnym niecierpliwego wyczekiwania napięciu. Dodatkowym atutem jest odpowiednie zobrazowanie problematyki moralności, z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="jaką styka się Katniss Everdeen (w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="tej roli Jennifer Lawrence). Wszystkie elementy dzieła tworzą spójną całość, zwieńczoną puentą o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="lekkim zabarwieniu filozoficznym.  "/>
             <para/>
             <tab FONTSIZE="9"/>
-            <ITEXT FONTSIZE="9" CH="Podsumowując, mogę powiedzieć, że ten film jest idealnym sposobem spędzenia czasu dla amatorów dobrej gry aktorskiej i dynamicznej akcji."/>
+            <ITEXT FONTSIZE="9" CH="Podsumowując, mogę powiedzieć, że ten film jest idealnym sposobem spędzenia czasu dla amatorów dobrej gry aktorskiej i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="dynamicznej akcji."/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -317,7 +348,9 @@
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="1371.25" YPOS="1619.56" WIDTH="370.25" HEIGHT="58" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Suspicious pl Regular" ISIZE="19" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 370.25 0 370.25 0 370.25 0 370.25 0 370.25 58 370.25 58 370.25 58 370.25 58 0 58 0 58 0 58 0 58 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 370.25 0 370.25 0 370.25 0 370.25 0 370.25 58 370.25 58 370.25 58 370.25 58 0 58 0 58 0 58 0 58 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="Suspicious pl Regular" FONTSIZE="19" CH="Igrzyska Śmierci:"/>
             <para ALIGN="0"/>
-            <ITEXT FONT="Suspicious pl Regular" FONTSIZE="19" CH="W Pierścieniu Ognia"/>
+            <ITEXT FONT="Suspicious pl Regular" FONTSIZE="19" CH="W"/>
+            <nbspace/>
+            <ITEXT FONT="Suspicious pl Regular" FONTSIZE="19" CH="Pierścieniu Ognia"/>
             <trail ALIGN="2"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -357,9 +390,9 @@
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1229.25" YPOS="582.22" WIDTH="125.64" HEIGHT="20.78" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 125.64 0 125.64 0 125.64 0 125.64 0 125.64 20.78 125.64 20.78 125.64 20.78 125.64 20.78 0 20.78 0 20.78 0 20.78 0 20.78 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 125.64 0 125.64 0 125.64 0 125.64 0 125.64 20.78 125.64 20.78 125.64 20.78 125.64 20.78 0 20.78 0 20.78 0 20.78 0 20.78 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Gridy pl Regular" FONTSIZE="9" CH="wybr. Mo­nika Wa­ry­szak"/>
-            <trail/>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1229.25" YPOS="586.22" WIDTH="125.64" HEIGHT="14.5300000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 125.64 0 125.64 0 125.64 0 125.64 0 125.64 14.53 125.64 14.53 125.64 14.53 125.64 14.53 0 14.53 0 14.53 0 14.53 0 14.53 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 125.64 0 125.64 0 125.64 0 125.64 0 125.64 14.53 125.64 14.53 125.64 14.53 125.64 14.53 0 14.53 0 14.53 0 14.53 0 14.53 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Gridy pl Regular" FONTSIZE="9" CH="wybr. Kinga"/>
+            <trail ALIGN="2"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1563.25" YPOS="417.25" WIDTH="177.25" HEIGHT="24.5000000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 177.25 0 177.25 0 177.25 0 177.25 0 177.25 24.5 177.25 24.5 177.25 24.5 177.25 24.5 0 24.5 0 24.5 0 24.5 0 24.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 177.25 0 177.25 0 177.25 0 177.25 0 177.25 24.5 177.25 24.5 177.25 24.5 177.25 24.5 0 24.5 0 24.5 0 24.5 0 24.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -397,28 +430,75 @@
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="179.511278195489" YPOS="1012.22" WIDTH="271.428571428571" HEIGHT="42" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 271.429 0 271.429 0 271.429 0 271.429 0 271.429 42 271.429 42 271.429 42 271.429 42 0 42 0 42 0 42 0 42 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 271.429 0 271.429 0 271.429 0 271.429 0 271.429 42 271.429 42 271.429 42 271.429 42 0 42 0 42 0 42 0 42 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Lemonade pl Regular" FONTSIZE="30" SCALEV="110" CH="Pił­ki za pusz­ki"/>
-            <trail ALIGN="1"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="1372.93233082707" YPOS="1340.56" WIDTH="366.165413533835" HEIGHT="274.44" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 366.165 0 366.165 0 366.165 0 366.165 0 366.165 274.44 366.165 274.44 366.165 274.44 366.165 274.44 0 274.44 0 274.44 0 274.44 0 274.44 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 366.165 0 366.165 0 366.165 0 366.165 0 366.165 274.44 366.165 274.44 366.165 274.44 366.165 274.44 0 274.44 0 274.44 0 274.44 0 274.44 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="9" CH="Potwory istnieją… By pomścić śmierć rodziny, Alicja musi się nauczyć, jak walczyć z zombie. Nie spocznie, dopóki nie odeśle każdego żywego trupa z powrotem do grobu. Na zawsze."/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="9" CH="Potwory istnieją… By pomścić śmierć rodziny, Alicja musi się nauczyć, jak walczyć z"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="9" CH="zombie. Nie spocznie, dopóki nie odeśle każdego żywego trupa z"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="9" CH="powrotem do grobu. Na zawsze."/>
             <para/>
             <para/>
             <tab FONTSIZE="9"/>
-            <ITEXT FONTSIZE="9" CH="Bohaterką pierwszej części cyklu „Kroniki Białego Królika”  jest Alicja Bell – młoda dziewczyna, która za sprawą ogarniętego paranoją ojca alkoholika została pozbawiona możliwości prowadzenia normalnego życia. Mężczyzna bowiem zabraniał jej przebywać o zmroku poza domem, gdyż twierdził, że widzi… zombie. Nieufność i pogarda wobec rodziców wzrastała w nastolatce aż do momentu nieszczęśliwego wypadku w dniu jej szesnastych urodzin, w którym zginęli wszyscy, których kochała i jednocześnie nie potrafiła do końca zrozumieć.  Policja za  przyczynę katastrofy uznała wilgotność  nawierzchni i zbyt wielką prędkość jazdy – Alicja wie jednak, że w całym incydencie maczały palce istoty nadprzyrodzone… Razem z grupą przyjaciół poznanych w nowej szkole próbuje ziścić swoje pragnienie zemsty, niszcząc potwory, które istnieją tylko po to, by sprawiać ból żyjącym. "/>
+            <ITEXT FONTSIZE="9" CH="Bohaterką pierwszej części cyklu „Kroniki Białego Królika”  jest Alicja Bell – młoda dziewczyna, która za sprawą ogarniętego paranoją ojca alkoholika została pozbawiona możliwości prowadzenia normalnego życia. Mężczyzna bowiem zabraniał jej przebywać o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="zmroku poza domem, gdyż twierdził, że widzi… zombie. Nieufność i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="pogarda wobec rodziców wzrastała w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="nastolatce aż do momentu nieszczęśliwego wypadku w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="dniu jej szesnastych urodzin, w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="którym zginęli wszyscy, których kochała i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="jednocześnie nie potrafiła do końca zrozumieć.  Policja za  przyczynę katastrofy uznała wilgotność  nawierzchni i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="zbyt wielką prędkość jazdy – Alicja wie jednak, że w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="całym incydencie maczały palce istoty nadprzyrodzone… Razem z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="grupą przyjaciół poznanych w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="nowej szkole próbuje ziścić swoje pragnienie zemsty, niszcząc potwory, które istnieją tylko po to, by sprawiać ból żyjącym. "/>
             <para/>
             <tab FONTSIZE="9"/>
-            <ITEXT FONTSIZE="9" CH="Powieść autorstwa Geny Showalter stanowi doskonałe połączenie motywów znanej na całym świecie historii „Alicji w Krainie Czarów” i  elementów świata współczesnego. Na dużą uwagę zasługuje fakt, że pisarka ukazała popularne monstra w zupełnie innym świetle, niż to czyni kultura masowa. Idea przeniesienia ich z wymiaru cielesnego w sferę duchową i utworzenie wieloskładnikowej historii ich genezy i profilu psychologicznego czyni opowieść niezmiernie wciągającą. Jako dodatkowy atut można zaliczyć ciekawy i okraszony zabawnymi porównaniami styl literacki, a także bohaterów, którzy od razu wzbudzają sympatię czytelnika. "/>
+            <ITEXT FONTSIZE="9" CH="Powieść autorstwa Geny Showalter stanowi doskonałe połączenie motywów znanej na całym świecie historii „Alicji w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="Krainie Czarów” i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH=" elementów świata współczesnego. Na dużą uwagę zasługuje fakt, że pisarka ukazała popularne monstra w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="zupełnie innym świetle, niż to czyni kultura masowa. Idea przeniesienia ich z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="wymiaru cielesnego w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="sferę duchową i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="utworzenie wieloskładnikowej historii ich genezy i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="profilu psychologicznego czyni opowieść niezmiernie wciągającą. Jako dodatkowy atut można zaliczyć ciekawy i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="okraszony zabawnymi porównaniami styl literacki, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="także bohaterów, którzy od razu wzbudzają sympatię czytelnika. "/>
             <para/>
             <tab FONTSIZE="9"/>
-            <ITEXT FONTSIZE="9" CH="Reasumując, polecam tę książkę każdemu, kto choćby raz w życiu pragnął stanąć oko w oko z legendarnymi zombie i poznać ich motywy działania. Gwarantuję świetną zabawę."/>
+            <ITEXT FONTSIZE="9" CH="Reasumując, polecam tę książkę każdemu, kto choćby raz w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="życiu pragnął stanąć oko w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="oko z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="legendarnymi zombie i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="poznać ich motywy działania. Gwarantuję świetną zabawę."/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="1376.25" YPOS="1308.27067669173" WIDTH="354" HEIGHT="30.4793233082701" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="From Scratch pl Regular" ISIZE="30" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 354 0 354 0 354 0 354 0 354 30.4793 354 30.4793 354 30.4793 354 30.4793 0 30.4793 0 30.4793 0 30.4793 0 30.4793 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 354 0 354 0 354 0 354 0 354 30.4793 354 30.4793 354 30.4793 354 30.4793 0 30.4793 0 30.4793 0 30.4793 0 30.4793 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="From Scratch pl Regular" FONTSIZE="30" CH="Alicja w Krainie Zombie"/>
+            <ITEXT FONT="From Scratch pl Regular" FONTSIZE="30" CH="Alicja w"/>
+            <nbspace/>
+            <ITEXT FONT="From Scratch pl Regular" FONTSIZE="30" CH="Krainie Zombie"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -463,13 +543,61 @@
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1374" YPOS="181.75" WIDTH="382.89" HEIGHT="199" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 382.89 0 382.89 0 382.89 0 382.89 0 382.89 199 382.89 199 382.89 199 382.89 199 0 199 0 199 0 199 0 199 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 382.89 0 382.89 0 382.89 0 382.89 0 382.89 199 382.89 199 382.89 199 382.89 199 0 199 0 199 0 199 0 199 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <tab FONTSIZE="9"/>
-            <ITEXT FONTSIZE="9" CH="Witamy w drugim semestrze! Nasza wspaniała redakcja pełną piersią, z nieugiętym zapałem i  nowymi, genialnymi pomysłami na kolejne numery gazetki, po zimowym odpoczynku solidnie bierze się do roboty! (zresztą podobnie jak i Wy :D) A efektem naszej ciężkiej pracy jest ten, bezcenny, bo uwieńczający początek nowego półrocza egzemplarz. No ale dość o nas. "/>
+            <ITEXT FONTSIZE="9" CH="Witamy w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="drugim semestrze! Nasza wspaniała redakcja pełną piersią, z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="nieugiętym zapałem i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH=" nowymi, genialnymi pomysłami na kolejne numery gazetki, po zimowym odpoczynku solidnie bierze się do roboty! (zresztą podobnie jak i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="Wy :D) A"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="efektem naszej ciężkiej pracy jest ten, bezcenny, bo uwieńczający początek nowego półrocza egzemplarz. No ale dość o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="nas. "/>
             <para ALIGN="3" LINESPMode="1" OpticalMargins="14"/>
             <tab FONTSIZE="9"/>
-            <ITEXT FONTSIZE="9" CH="Dostąpcie tego zaszczytu i poczytajcie o sobie na PIERWSZEJ stronie (tyle wygrać ;p). Otóż jak już pewnie zdążyliście zauważyć (a jeśli ktoś tego nie zrobił, to przypominam), że niestety nasz błogi czas relaksu dobiegł końca ;c. Ale na pocieszenie powiem Wam, że MY mieliśmy w ferie najlepszą pogodę! Idealne warunki na narty, sanki, snowboard, lepienie bałwana. Po prostu super! Całe dwa tygodnie bez stresu. Tego nam było trzeba, żeby teraz pełni energii i zapału powrócić o szkoły, zaczynając ten semestr w wielkim stylu i szokując wszystkich uczniów, a przede wszystkim nauczycieli naszymi świetnymi nowymi ocenami i 100%-ową gotowością na zbliżające się sprawdziany, testy i … (znienawidzone przez trzecioklasistów słowo)…  egzaminy ;/ . "/>
+            <ITEXT FONTSIZE="9" CH="Dostąpcie tego zaszczytu i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="poczytajcie o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="sobie na PIERWSZEJ stronie (tyle wygrać ;p). Otóż jak już pewnie zdążyliście zauważyć (a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="jeśli ktoś tego nie zrobił, to przypominam), że niestety nasz błogi czas relaksu dobiegł końca ;c. Ale na pocieszenie powiem Wam, że MY mieliśmy w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="ferie najlepszą pogodę! Idealne warunki na narty, sanki, snowboard, lepienie bałwana. Po prostu super! Całe dwa tygodnie bez stresu. Tego nam było trzeba, żeby teraz pełni energii i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="zapału powrócić o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="szkoły, zaczynając ten semestr w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="wielkim stylu i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="szokując wszystkich uczniów, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="przede wszystkim nauczycieli naszymi świetnymi nowymi ocenami i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="100%-ową gotowością na zbliżające się sprawdziany, testy i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="… (znienawidzone przez trzecioklasistów słowo)…  egzaminy ;/ . "/>
             <para/>
             <tab FONTSIZE="9"/>
-            <ITEXT FONTSIZE="9" CH="OK już na zakończenie moich wypocin w imieniu całego kółka dziennikarskiego życzę Wam  jak najlepszych ocen, niezapomnianych wspomnień i specjalnie dla trzecioklasistów powodzenia w kwietniu! Mam tylko nadzieję, że w przeciwieństwie do mnie uważaliście na siebie podczas ferii i wróciliście cali, zdrowi i w jednym kawałku."/>
+            <ITEXT FONTSIZE="9" CH="OK już na zakończenie moich wypocin w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="imieniu całego kółka dziennikarskiego życzę Wam  jak najlepszych ocen, niezapomnianych wspomnień i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="specjalnie dla trzecioklasistów powodzenia w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="kwietniu! Mam tylko nadzieję, że w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="przeciwieństwie do mnie uważaliście na siebie podczas ferii i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="wróciliście cali, zdrowi i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="jednym kawałku."/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -483,76 +611,184 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="114.5" YPOS="710" WIDTH="394.75" HEIGHT="289.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTSCALE="100" OpticalMargins="14" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 394.75 0 394.75 0 394.75 0 394.75 0 394.75 289.75 394.75 289.75 394.75 289.75 394.75 289.75 0 289.75 0 289.75 0 289.75 0 289.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 394.75 0 394.75 0 394.75 0 394.75 0 394.75 289.75 394.75 289.75 394.75 289.75 394.75 289.75 0 289.75 0 289.75 0 289.75 0 289.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <tab FONTSIZE="9" SCALEH="100"/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="Po przeczytaniu tej gazetki pewnie bez trudu zauważycie (przynajmniej drugo i"/>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="114.5" YPOS="719.25" WIDTH="394.75" HEIGHT="517.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTSCALE="100" OpticalMargins="14" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="8" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 394.75 0 394.75 0 394.75 0 394.75 0 394.75 517.5 394.75 517.5 394.75 517.5 394.75 517.5 0 517.5 0 517.5 0 517.5 0 517.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 394.75 0 394.75 0 394.75 0 394.75 0 394.75 517.5 394.75 517.5 394.75 517.5 394.75 517.5 0 517.5 0 517.5 0 517.5 0 517.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <tab FONTSIZE="8" SCALEH="100"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="W"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="trzecioklasiści), że znacznie zmienił się skład kółka dziennikarskiego. Odeszli do liceum bądź technikum tegoroczni absolwenci, stanowiący jednocześnie podstawę i"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="naszym codziennym życiu spotykamy wiele produktów spożywczych,  bez których przygotowywane przez nas potrawy byłyby pozbawione ciekawego smaku.  Należy jednak pamiętać, że nie wszystkie smaczne i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="większą część redakcji, a"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="popularne zwłaszcza wśród młodzieży przekąski i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="wraz z"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="przyprawy są zdrowe. Skład wielu z"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="nimi nasza „szefowa”- Gabriela Boguta. "/>
-            <tab FONTSIZE="9" SCALEH="100"/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="Na szczęście „Sam Mjut” nie odszedł w"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="nich został bowiem rozbudowany o"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="zapomnienie. A"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="szkodliwe dla nas konserwanty i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="deską ratunkową okazali się pierwszoklasiści, którzy najliczniej wspierają działalność kółka. Wraz z"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="inne związki chemiczne.  Mają one zły wpływ na funkcjonowanie naszego organizmu. Wielu z"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="„nowymi głowami” przybyło wiele świeżych pomysłów, więc z"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="nas nie zdaje sobie sprawy z"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="ręką na sercu mogę przyrzec, że nie damy rady Was zanudzić! Słowem wstępu to byłoby na tyle."/>
-            <para ALIGN="3" OpticalMargins="14"/>
-            <tab FONTSIZE="9" SCALEH="100"/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="Teraz nadszedł czas na … przedstawienie Wam naszej szanownej redakcji, a"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="faktu, że istnieją zdrowsze produkty spożywcze o"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="przede wszystkim jej filaru…"/>
-            <para ALIGN="3" OpticalMargins="14"/>
-            <tab FONTSIZE="9" SCALEH="100"/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="Patrycja Gralewska – Zawsze (chociaż często nie na czas) stara się wywiązywać ze swoich obowiązków. Lubi się rozpisywać, więc możecie się spodziewać, że jej artykuły będą nieco długaśne. W"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="podobnych walorach smakowych co popularne przyprawy. Pragnę zaprezentować kilka ciekawych alternatyw dla składników naszej codziennej diety. "/>
+            <para ALIGN="3"/>
+            <tab FONTSIZE="8" SCALEH="100"/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8" SCALEH="100" CH="Cukier"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH=" towarzyszy nam każdego dnia. Używamy go do słodzenia herbaty, wypieków, deserów; znajduje się również w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="tym roku przypadło jej pełnienie funkcji naczelnej."/>
-            <para ALIGN="3" OpticalMargins="14"/>
-            <tab FONTSIZE="9" SCALEH="100"/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="Michał Sidor – geniusz matematyczny i"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="wielu produktach pochodzenia naturalnego, jak na przykład miód i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="informatyczny. Niepozorny, nad poziom inteligentny. Nic dziwnego, że dbanie o"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="owoce, a"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="estetyczny, czytelny wygląd i"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="także w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="logiczny układ naszej gazetki padło w"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="produkowanych na szeroką skalę słodyczach, przekąskach i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="dalszym ciągu na niego (to efekt jego pracy trzymasz właśnie w"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="mieszankach przypraw.  Należy jednak pamiętać, że używany w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="rękach)."/>
-            <para ALIGN="3" OpticalMargins="14"/>
-            <tab FONTSIZE="9" SCALEH="100"/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="Pozostałe osoby redakcji licznie reprezentują klasy pierwsze. W"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="nadmiernych ilościach "/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8" SCALEH="100" CH="może doprowadzić do wielu ciężkich schorzeń,"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="następnym numerze przedstawimy ich pełny skład, ponieważ lista jest dość długa i"/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8" SCALEH="100" CH="m.in.  otyłości, hipoglikemii, cukrzycy, nadciśnienia, chorób serca, próchnicy i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="jeszcze nie do końca sprecyzowana…"/>
-            <para ALIGN="3" OpticalMargins="14"/>
-            <tab FONTSIZE="9" SCALEH="100"/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="Tak prezentuje się skład redakcji, który zawsze może się powiększyć. Liczymy, że zainspirowani naszą działalnością, chętnie się przyłączycie. Jesteśmy otwarci zarówno na nowe osoby, jak też na nowe pomysły. Gdy czytając „Sam Mjut” uznacie, że czegoś brakuje lub macie propozycje na ulepszenie i"/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8" SCALEH="100" CH="zaburzeń odporności"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH=". Nadmiar cukru wywiera silny negatywny wpływ na funkcjonowanie mózgu, powoduje senność i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="unowocześnienie gazetki, serdecznie prosimy o"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="drastyczny spadek naszej zdolności oceny i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="zgłaszanie swoich uwag i"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="zapamiętywania, a"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" SCALEH="100" CH="porad wyżej wymienionym osobom oraz naszej opiekunce pani Małgorzacie Ku­nie­."/>
-            <para ALIGN="3" OpticalMargins="14"/>
-            <tab FONTSIZE="9"/>
-            <ITEXT FONTSIZE="9" CH="Cała redakcja zobowiązuje się systematycznie dostarczać świeżych wiadomości i"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="także jest substancją silnie uzależniającą. W"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="porządniej dawki śmiechu. Obiecujemy, że dołożymy wszelkich starań, aby mile Was zaskoczyć i"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="jaki sposób możemy uniknąć konsekwencji wynikających ze spożywania nadmiernej ilości sacharozy? Mamy możliwość zastąpienia owej „słodkiej trucizny” syropem agawowym. Ma przyjemny smak, porównywalny ze słabym"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="zmotywować."/>
-            <para ALIGN="3" OpticalMargins="14"/>
-            <ITEXT FONT="Liberation Serif Bold Italic" FONTSIZE="9" CH="REDAKCJA"/>
-            <trail ALIGN="2"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="miodem. Jest około trzykrotnie słodszy od cukru, jednocześnie posiadając od czterech do pięciu razy niższy"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="indeks glikemiczny (wpływ na poziom glukozy we krwi 2"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="godz. po spożyciu)"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="od miodu, więc walory smakowe są odczuwane przy zastosowaniu znacznie mniejszej dawki niż w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="przypadku sacharozy. Inną alternatywą jest "/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8" SCALEH="100" CH="stewia"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH=" – roślina w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="właściwościach słodzących, pozbawiona kalorii. Stosowana jako słodzik nie ulega fermentacji, nie powoduje próchnicy zębów, jest nietoksyczna i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="stabilna w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="kwaśnych i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="zasadowych płynach (pH 3-9).  Kolejnym polecanym rozwiązaniem jest stosowanie produktów zawierających "/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8" SCALEH="100" CH="cukier brzozowy (ksylitol)"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH=", kryjący się pod numerem E967. Wykorzystuje się go przy produkcji gum do żucia, ze względu na działanie przeciwpróchnicze. "/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8" SCALEH="100" CH="Żucie gumy między posiłkami rzeczywiście zapobiega występowaniu próchnicy i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8" SCALEH="100" CH="wady zgryzu"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH=". "/>
+            <para/>
+            <tab FONTSIZE="8" SCALEH="100"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="Następnym suplementem naszej diety, o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="którym pragnę wspomnieć, jest "/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8" SCALEH="100" CH="sól kuchenna (NaCl)"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH=", zwana przez niektórych „białą śmiercią”. "/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8" SCALEH="100" CH="Zatrzymuje ona wodę w"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8" SCALEH="100" CH="organizmie, prowadząc"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8" SCALEH="100" CH="m.in. do nadciśnienia tętniczego i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8" SCALEH="100" CH="chorób sercowo-naczyniowych"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH=". Aby tego uniknąć, należy ograniczyć spożycie artykułów o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="dużej zawartości tego związku chemicznego, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="nie posiadających wartości dla naszego organizmu, np. chipsów i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="popcornu. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="kuchni sól zastąpić można naturalnymi przyprawami: oregano, bazylią czy kurkumą, które nie zastąpią smaku chlorku sodu, ale nadadzą potrawom interesujący smak i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="aromatyczny zapach. "/>
+            <para/>
+            <tab FONTSIZE="8" SCALEH="100"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="Wśród młodzieży popularne jest picie "/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8" SCALEH="100" CH="napojów energetyzujących"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH=", zadaniem których z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="założenia jest dostarczanie łatwo i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="szybko przyswajalnej energii, pobieranej głównie z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="kofeiny i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="tauryny. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="zależności od producenta i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="rodzaju energetyzera, takie napoje mogą zawierać wiele innych pobudzających substancji, głównie pochodzenia roślinnego. Ryzyko dla zdrowia mogą stwarzać nie tylko same te substancje, ale proporcje, w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="jakich zostały skomponowane."/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH=" Według badań australijskich uczonych już "/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8" SCALEH="100" CH="jedna puszka takiego napoju może stać się przyczyną zawału serca, nie tylko u"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8" SCALEH="100" CH="ludzi starszych, ale i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8" SCALEH="100" CH="również u"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8" SCALEH="100" CH="młodzieży"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH=". Dlatego też lepiej zastąpić tego typu napój na przykład szklanką soku wyciskanego z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="owoców. Szczególnie polecany jest "/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8" SCALEH="100" CH="sok pomarańczowy,  który działa stymulująco na mózg i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8" SCALEH="100" CH="jego czynności poznawcze i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8" SCALEH="100" CH="jednocześnie nie zawiera substancji szkodliwych dla zdrowia"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH=".  Innym napojem zawierającym kofeinę jest cola, którą również można zastąpić sokami owocowymi. "/>
+            <para/>
+            <tab FONTSIZE="8" SCALEH="100"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="Następnym punktem, nad którym warto się zastanowić, są przekąski typu "/>
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="8" SCALEH="100" CH="chipsy ziemniaczane"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH=". Są one bogatym źródłem"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="tłuszczów oraz łatwo przyswajalnych węglowodanów."/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="Wysoka zawartość soli może przyczynić się do rozwoju różnych schorzeń (patrz: Sól) Są bardzo kaloryczne – dostarczają 505-549 kcal/100"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="g. Najnowsze badania naukowe informują o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="dużej zawartości"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="akrylamidu"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="chipsach, który może przyczyniać się do powstawania"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="nowotworów, w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="tym nowotworów"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="układu pokarmowego. Zdrowszą alternatywą tej popularnej przekąski mogą być na przykład dostępne w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="sklepach suszone owoce i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="warzywa. Z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="pomocą licznych poradników internetowych możesz samodzielnie przygotować"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="m.in. chipsy buraczane. "/>
+            <para/>
+            <tab FONTSIZE="8" SCALEH="100"/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="Reasumując, często nie jesteśmy świadomi zagrożeń wynikających ze spożywania nadmiernych ilości produktów, które wpisaliśmy do naszej codziennej diety. Mamy jednak możliwość wyboru między popularnymi artykułami spożywczymi a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" SCALEH="100" CH="ich zdrowszymi zamiennikami. Jednak ostateczny wybór należy do nas – świadomych konsumentów."/>
+            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="1371.89" YPOS="711.75" WIDTH="392.11" HEIGHT="155.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9.5" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 392.11 0 392.11 0 392.11 0 392.11 0 392.11 155.25 392.11 155.25 392.11 155.25 392.11 155.25 0 155.25 0 155.25 0 155.25 0 155.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 392.11 0 392.11 0 392.11 0 392.11 0 392.11 155.25 392.11 155.25 392.11 155.25 392.11 155.25 0 155.25 0 155.25 0 155.25 0 155.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
@@ -600,77 +836,222 @@
             <trail ALIGN="3"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="115.5" YPOS="1053.5" WIDTH="394.5" HEIGHT="191.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="14" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 394.5 0 394.5 0 394.5 0 394.5 0 394.5 191.25 394.5 191.25 394.5 191.25 394.5 191.25 0 191.25 0 191.25 0 191.25 0 191.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 394.5 0 394.5 0 394.5 0 394.5 0 394.5 191.25 394.5 191.25 394.5 191.25 394.5 191.25 0 191.25 0 191.25 0 191.25 0 191.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="14" CH="Uwaga !!!"/>
-            <para ALIGN="1"/>
-            <ITEXT FONTSIZE="14" CH="W"/>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="526.25" YPOS="709.5" WIDTH="399.75" HEIGHT="522.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9.6" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 399.75 0 399.75 0 399.75 0 399.75 0 399.75 522.75 399.75 522.75 399.75 522.75 399.75 522.75 0 522.75 0 522.75 0 522.75 0 522.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 399.75 0 399.75 0 399.75 0 399.75 0 399.75 522.75 399.75 522.75 399.75 522.75 399.75 522.75 0 522.75 0 522.75 0 522.75 0 522.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <tab FONTSIZE="9.6"/>
+            <ITEXT FONTSIZE="9.6" CH="Zgodnie z"/>
             <nbspace/>
-            <ITEXT FONTSIZE="14" CH="naszej szkole odbędzie się zbiórka puszek, które później wymienimy na piłki."/>
-            <para ALIGN="1"/>
-            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="14" CH="Zasady konkursu:"/>
-            <para ALIGN="1"/>
-            <ITEXT FONTSIZE="14" CH="Każda klasa do końca listopada zbiera puszki, które następnie będą ważone."/>
-            <para ALIGN="1"/>
-            <ITEXT FONTSIZE="14" CH="Klasa, która zbierze najwięcej kilogramów puszek, otrzyma nagrodę. Zbiórką zajmują się wolontariusze  z"/>
+            <ITEXT FONTSIZE="9.6" CH="daną Wam obietnicą (a"/>
             <nbspace/>
-            <ITEXT FONTSIZE="14" CH="kl. 1c."/>
-            <para ALIGN="1"/>
-            <ITEXT FONTSIZE="14" CH="Więcej informacji udziela opiekun Klubu Wolontariusza p. Dorota Rusek."/>
-            <trail ALIGN="1"/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="527.25" YPOS="709.5" WIDTH="399.75" HEIGHT="522.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9.6" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 399.75 0 399.75 0 399.75 0 399.75 0 399.75 522.75 399.75 522.75 399.75 522.75 399.75 522.75 0 522.75 0 522.75 0 522.75 0 522.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 399.75 0 399.75 0 399.75 0 399.75 0 399.75 522.75 399.75 522.75 399.75 522.75 399.75 522.75 0 522.75 0 522.75 0 522.75 0 522.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <tab FONTSIZE="9.6"/>
-            <ITEXT FONTSIZE="9.6" CH="Zgodnie z daną Wam obietnicą (a ja zawsze dotrzymuję słowa) kontynuuję Wasz ulubiony artykuł i serdecznie przedstawiam, już pewnie Wam znanych pierwszoklasistów. Szczęśliwa trójka zostanie opisana w tym numerze i wyjawi nam swoje najskrytsze myśli, mówiąc prawdę i tylko prawdę jak na spowiedzi. Kto wie, może nas czymś zaskoczą i dowiemy się paru ciekawych rzeczy?  Cóż myślę, że warto się przekonać…"/>
+            <ITEXT FONTSIZE="9.6" CH="ja zawsze dotrzymuję słowa) kontynuuję Wasz ulubiony artykuł i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="serdecznie przedstawiam, już pewnie Wam znanych pierwszoklasistów. Szczęśliwa trójka zostanie opisana w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="tym numerze i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="wyjawi nam swoje najskrytsze myśli, mówiąc prawdę i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="tylko prawdę jak na spowiedzi. Kto wie, może nas czymś zaskoczą i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="dowiemy się paru ciekawych rzeczy?  Cóż myślę, że warto się przekonać…"/>
             <para/>
             <para/>
-            <ITEXT FONTSIZE="9.6" CH="A na pierwszy ogień idzie:"/>
-            <para/>
-            <para/>
-            <tab FONTSIZE="9.6"/>
-            <ITEXT FONTSIZE="9.6" CH="Sebastian Dębiński: uczeń klasy Ic, której wychowawczynią jest szefowa naszej gazetki – pani Małgorzata Kuna. Ulubionym przedmiotem Seby jest w-f, znajdujący odzwierciedlenie w jego umiejętnościach, gdyż potrafi on świetnie jeździć na snowboardzie, a mało tego regularnie rozwija swoją sprawność fizyczną w zajęciach SKSu. Ten aktywny chłopak wyraźnie nie próżnuje i dzielnie reprezentuje naszą szkołę na różnego rodzaju zawodach, głównie z piłki ręcznej. Ma (jak sam mi przyznał) średnią mobilizację w tym semestrze, widocznie nie wypoczął wystarczająco :c. A jaki z tego wniosek? „Trzeba przedłużyć ferie”! Ale to tylko taka mała sugestia. Mimo wszystko Sebastian się nie poddaje i wyznacza sobie godny podziwu cel, jakim jest poprawa ocen! Zwłaszcza z geografii. Na szczęście przyznał, że gimnazjum jest o wiele fajniejsze od podstawówki, podając logiczne i satysfakcjonujące uzasadnienie, że wszystko mu się tu podoba. Cóż w takim razie bardzo się cieszymy i trzymamy kciuki za geografię :D."/>
-            <para/>
-            <para/>
-            <tab FONTSIZE="9.6"/>
-            <ITEXT FONTSIZE="9.6" CH="Gabriela Baum: chodzi do klasy Ib, którą opiekuje się pani Celina Małek. Gabrysia jest kolejną sportową duszą naszej szkoły. Rozsławia ją na zawodach z siatkówki, piłki ręcznej i jej ulubionej piłki nożnej. Jak łatwo się domyślić jej ulubionym przedmiotem jest … w-f. Niestety, dla tej dziewczyny 4 godziny zajęć wychowania fizycznego w tygodniu to za mało. Dlatego chętnie uczęszcza na SKS, gdzie doskonali swoje zdolności. W ferie również nie próżnowała. Wytrwale chodziła na warsztaty teatralne do GOKSIRu, spotykała się ze znajomymi i jeździła na łyżwach, czyli tak zwany aktywny odpoczynek chyba poskutkował, gdyż Gabrysia powróciła do nas z niemałym zapałem do nauki i poprawienia ocen z plastyki. Mamy nadzieję, że uda jej się spełnić to postanowienie, będziemy ją wspierać i dopingować, zwłaszcza, że jest osobą wyraźnie lubiącą rywalizację. Sama przyznała, że bardziej woli gimbazę od podstawówki, ponieważ jest tutaj więcej ciekawych konkursów, w których może wziąć udział."/>
+            <ITEXT FONTSIZE="9.6" CH="A"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="na pierwszy ogień idzie:"/>
             <para/>
             <para/>
             <tab FONTSIZE="9.6"/>
-            <ITEXT FONTSIZE="9.6" CH="Aleksandra Rudzka: również uczennica klasy Ic. Po spędzonych w Antoniowie feriach wróciła do nas wyraźnie podbudowana i (jak sama powiedziała) bardzo zmotywowana. Szczególnie chce polepszyć sytuację z ocenami z geografii i rozwijać wiedzę ze swojego ulubionego przedmiotu, jakim jest historia. Wyjawiła nam, że lepiej się tu czuje niż w podstawówce (co nas oczywiście nie dziwi). Udowadnia to dzielnie uczęszczając na zajęcia z wolontariatu. Uważa, że panuje tutaj cieplejsza atmosfera i otaczają ja wartościowi ludzie, od których może się wiele nauczyć (a i oczywiście mamy lepsze dyskoteki :D ). Ola niestety nie brała udziału w żadnych konkursach, za to wolny czas wypełniała słuchając muzyki. Widocznie otwarta na nowości i zmiany nie posiada jednego faworyzowanego gatunku, ale szeroki gust co do piosenek i wykonawców. Hmm krótko mówiąc mamy nadzieję, że spełnisz swoje postanowienia związane z ocenami i może znajdziesz jeszcze jakieś ciekawe zajęcia pozalekcyjne, w których chętnie weźmiesz udział."/>
+            <ITEXT FONTSIZE="9.6" CH="Sebastian Dębiński: uczeń klasy Ic, której wychowawczynią jest szefowa naszej gazetki – pani Małgorzata Kuna. Ulubionym przedmiotem Seby jest w-f, znajdujący odzwierciedlenie w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="jego umiejętnościach, gdyż potrafi on świetnie jeździć na snowboardzie, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="mało tego regularnie rozwija swoją sprawność fizyczną w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="zajęciach SKSu. Ten aktywny chłopak wyraźnie nie próżnuje i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="dzielnie reprezentuje naszą szkołę na różnego rodzaju zawodach, głównie z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="piłki ręcznej. Ma (jak sam mi przyznał) średnią mobilizację w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="tym semestrze, widocznie nie wypoczął wystarczająco :c. A"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="jaki z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="tego wniosek? „Trzeba przedłużyć ferie”! Ale to tylko taka mała sugestia. Mimo wszystko Sebastian się nie poddaje i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="wyznacza sobie godny podziwu cel, jakim jest poprawa ocen! Zwłaszcza z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="geografii. Na szczęście przyznał, że gimnazjum jest o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="wiele fajniejsze od podstawówki, podając logiczne i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="satysfakcjonujące uzasadnienie, że wszystko mu się tu podoba. Cóż w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="takim razie bardzo się cieszymy i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="trzymamy kciuki za geografię :D."/>
+            <para/>
+            <para/>
+            <tab FONTSIZE="9.6"/>
+            <ITEXT FONTSIZE="9.6" CH="Gabriela Baum: chodzi do klasy Ib, którą opiekuje się pani Celina Małek. Gabrysia jest kolejną sportową duszą naszej szkoły. Rozsławia ją na zawodach z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="siatkówki, piłki ręcznej i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="jej ulubionej piłki nożnej. Jak łatwo się domyślić jej ulubionym przedmiotem jest … w-f. Niestety, dla tej dziewczyny 4 godziny zajęć wychowania fizycznego w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="tygodniu to za mało. Dlatego chętnie uczęszcza na SKS, gdzie doskonali swoje zdolności. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="ferie również nie próżnowała. Wytrwale chodziła na warsztaty teatralne do GOKSIRu, spotykała się ze znajomymi i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="jeździła na łyżwach, czyli tak zwany aktywny odpoczynek chyba poskutkował, gdyż Gabrysia powróciła do nas z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="niemałym zapałem do nauki i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="poprawienia ocen z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="plastyki. Mamy nadzieję, że uda jej się spełnić to postanowienie, będziemy ją wspierać i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="dopingować, zwłaszcza, że jest osobą wyraźnie lubiącą rywalizację. Sama przyznała, że bardziej woli gimbazę od podstawówki, ponieważ jest tutaj więcej ciekawych konkursów, w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="których może wziąć udział."/>
+            <para/>
+            <para/>
+            <tab FONTSIZE="9.6"/>
+            <ITEXT FONTSIZE="9.6" CH="Aleksandra Rudzka: również uczennica klasy Ic. Po spędzonych w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="Antoniowie feriach wróciła do nas wyraźnie podbudowana i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="(jak sama powiedziała) bardzo zmotywowana. Szczególnie chce polepszyć sytuację z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="ocenami z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="geografii i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="rozwijać wiedzę ze swojego ulubionego przedmiotu, jakim jest historia. Wyjawiła nam, że lepiej się tu czuje niż w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="podstawówce (co nas oczywiście nie dziwi). Udowadnia to dzielnie uczęszczając na zajęcia z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="wolontariatu. Uważa, że panuje tutaj cieplejsza atmosfera i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="otaczają ja wartościowi ludzie, od których może się wiele nauczyć (a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="oczywiście mamy lepsze dyskoteki :D ). Ola niestety nie brała udziału w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="żadnych konkursach, za to wolny czas wypełniała słuchając muzyki. Widocznie otwarta na nowości i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="zmiany nie posiada jednego faworyzowanego gatunku, ale szeroki gust co do piosenek i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="wykonawców. Hmm krótko mówiąc mamy nadzieję, że spełnisz swoje postanowienia związane z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="ocenami i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="może znajdziesz jeszcze jakieś ciekawe zajęcia pozalekcyjne, w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.6" CH="których chętnie weźmiesz udział."/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="113.25" YPOS="1971.75" WIDTH="401.75" HEIGHT="535.499999999999" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="10.5" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 401.75 0 401.75 0 401.75 0 401.75 0 401.75 535.5 401.75 535.5 401.75 535.5 401.75 535.5 0 535.5 0 535.5 0 535.5 0 535.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 401.75 0 401.75 0 401.75 0 401.75 0 401.75 535.5 401.75 535.5 401.75 535.5 401.75 535.5 0 535.5 0 535.5 0 535.5 0 535.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="0" BACKITEM="-1">
-            <ITEXT FONT="FreeSerif Bold Italic" FONTSIZE="10.5" CH="Każdy z nas czeka całe swoje życie "/>
+            <ITEXT FONT="FreeSerif Bold Italic" FONTSIZE="10.5" CH="Każdy z"/>
+            <nbspace/>
+            <ITEXT FONT="FreeSerif Bold Italic" FONTSIZE="10.5" CH="nas czeka całe swoje życie "/>
             <breakline/>
-            <ITEXT FONT="FreeSerif Bold Italic" FONTSIZE="10.5" CH="na taki piękny i niezwykły wieczór…"/>
+            <ITEXT FONT="FreeSerif Bold Italic" FONTSIZE="10.5" CH="na taki piękny i"/>
+            <nbspace/>
+            <ITEXT FONT="FreeSerif Bold Italic" FONTSIZE="10.5" CH="niezwykły wieczór…"/>
             <para ALIGN="2"/>
             <para/>
             <tab FONTSIZE="10.5"/>
-            <ITEXT FONTSIZE="10.5" CH="18 stycznia 2014 roku o godz.16:00 w Gimnazjum Nr 1 im. Marszałka Józefa Piłsudskiego w Niedrzwicy Dużej rozpoczął się uroczysty Bal Gimnazjalny. "/>
+            <ITEXT FONTSIZE="10.5" CH="18 stycznia 2014 roku o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="godz.16:00 w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="Gimnazjum Nr 1 im. Marszałka Józefa Piłsudskiego w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="Niedrzwicy Dużej rozpoczął się uroczysty Bal Gimnazjalny. "/>
             <para/>
-            <ITEXT FONTSIZE="10.5" CH="Zgromadzeni goście, nauczyciele, rodzice, rodzeństwo, babcie  i dziadkowie, szepty w kuluarach, ostatnie poprawki fryzur…Wreszcie pierwsze tony poloneza, nasze pierwsze kroki tego tradycyjnego tańca…"/>
-            <para/>
-            <tab FONTSIZE="10.5"/>
-            <ITEXT FONTSIZE="10.5" CH="Zgromadzeni z podziwem przypatrywali się  wyszukanym kreacjom, bo tego dnia wszyscy bez wyjątku prezentowali się wspaniale. Błyskające flesze miały uchwycić nie tylko głównych bohaterów spotkania, ale także fantastyczną, dopracowaną dekorację sali. Bez wątpienia widok delikatnych kwiatów wiśni, efektownej pagody, kolorowych wachlarzy, lampionów, rozświetlonego bonsai, starego japońskiego miasta cieni i innych elementów zapierał  dech w piersiach. Widok tak niesamowity, że zdawało się, iż  tej nocy przenieśliśmy się do bajecznej Japonii. "/>
-            <para/>
-            <tab FONTSIZE="10.5"/>
-            <ITEXT FONTSIZE="10.5" CH="Uroczystość oficjalnie otworzyły słowa pani dyrektor Justyny Polaczek i pana wójta Adama Kuny. Następnie nadeszła pora na podziękowania skierowane do rodziców, którym dedykowana była piosenka „Cudownych rodziców mam” i wspólny taniec. Ledwie zasiedliśmy do pięknie przystrojone stołów, a już porwały nas rytmy taneczne. Z całą pewnością nikt nie ma prawa narzekać na nudę, bo co chwilę „serwowano” artystyczne niespodzianki: wtargnięcie na salę policjanta, który przedstawił prawdziwe, filmowe dowody na pomysłowość gimnazjalistów, atak terrorystyczny z powietrza i lądu zakończony piosenką, mini-spektaklem i poszukiwaniem kluczy. Tu dodać należy, że zapadną w naszej pamięci życiowe role (i rekwizyty) Wojciecha jako pana Wacława oraz Michała jako świętego Piotra."/>
-            <para/>
-            <tab FONTSIZE="10.5"/>
-            <ITEXT FONTSIZE="10.5" CH="Kulminacyjnym momentem niedrzwickich balów jest przyznanie statuetek dla tych, którzy przez trzy lata edukacji wsławili się szczególnymi osiągnięciami w różnych dziedzinach. Tym razem wręczanie podzielono na dwie części. Na szczególną uwagę zasługuje zwieńczenie pierwszej części - niesamowita jazda ekstremalna na rowerze w wykonaniu naszego kolegi, sławnego już w Polsce Pawła Pasierbowicza. Część drugą zakończyła kategoria „Niezastąpiony Roku” i tu – ku zdumieniu gimnazjalistów i publiczności – wszyscy zostali nominowani! Był to bardzo wzruszający moment. Szczerze także trzeba przyznać, iż konferansjerzy wykazali się wielką swobodą  i poczuciem humoru - publiczność szalała ze śmiechu."/>
-            <para/>
-            <tab FONTSIZE="10.5"/>
-            <ITEXT FONTSIZE="10.5" CH="Wreszcie nie można nie wspomnieć o kruchych ciasteczkach  z zatopionymi wewnątrz oryginalnymi japońskimi wróżbami – otrzymali je wszyscy zgromadzeni. Ciekawe, czy się sprawdzą!"/>
+            <ITEXT FONTSIZE="10.5" CH="Zgromadzeni goście, nauczyciele, rodzice, rodzeństwo, babcie  i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="dziadkowie, szepty w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="kuluarach, ostatnie poprawki fryzur…Wreszcie pierwsze tony poloneza, nasze pierwsze kroki tego tradycyjnego tańca…"/>
             <para/>
             <tab FONTSIZE="10.5"/>
-            <ITEXT FONTSIZE="10.5" CH="Poza tym nie zapomnimy, że wraz z wychowawcami, nauczycielami i panią dyrektor tańczyliśmy wspólnego &quot;wężyka&quot;, pociąg, a oprócz tego tańce - odbijańce. Ale się działo! Parkiet był rozgrzany do czerwoności. "/>
+            <ITEXT FONTSIZE="10.5" CH="Zgromadzeni z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="podziwem przypatrywali się  wyszukanym kreacjom, bo tego dnia wszyscy bez wyjątku prezentowali się wspaniale. Błyskające flesze miały uchwycić nie tylko głównych bohaterów spotkania, ale także fantastyczną, dopracowaną dekorację sali. Bez wątpienia widok delikatnych kwiatów wiśni, efektownej pagody, kolorowych wachlarzy, lampionów, rozświetlonego bonsai, starego japońskiego miasta cieni i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="innych elementów zapierał  dech w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="piersiach. Widok tak niesamowity, że zdawało się, iż  tej nocy przenieśliśmy się do bajecznej Japonii. "/>
             <para/>
             <tab FONTSIZE="10.5"/>
-            <ITEXT FONTSIZE="10.5" CH="Nieco po północy niebo rozświetliły papierowe lampiony - „światełko do nieba”. I był to ostatni akcent tego pełnego wrażeń wieczoru, którego uroda tkwi w naszej młodości, wspólnej pracy i wspólnej zabawie. "/>
+            <ITEXT FONTSIZE="10.5" CH="Uroczystość oficjalnie otworzyły słowa pani dyrektor Justyny Polaczek i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="pana wójta Adama Kuny. Następnie nadeszła pora na podziękowania skierowane do rodziców, którym dedykowana była piosenka „Cudownych rodziców mam” i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="wspólny taniec. Ledwie zasiedliśmy do pięknie przystrojone stołów, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="już porwały nas rytmy taneczne. Z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="całą pewnością nikt nie ma prawa narzekać na nudę, bo co chwilę „serwowano” artystyczne niespodzianki: wtargnięcie na salę policjanta, który przedstawił prawdziwe, filmowe dowody na pomysłowość gimnazjalistów, atak terrorystyczny z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="powietrza i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="lądu zakończony piosenką, mini-spektaklem i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="poszukiwaniem kluczy. Tu dodać należy, że zapadną w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="naszej pamięci życiowe role (i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="rekwizyty) Wojciecha jako pana Wacława oraz Michała jako świętego Piotra."/>
+            <para/>
+            <tab FONTSIZE="10.5"/>
+            <ITEXT FONTSIZE="10.5" CH="Kulminacyjnym momentem niedrzwickich balów jest przyznanie statuetek dla tych, którzy przez trzy lata edukacji wsławili się szczególnymi osiągnięciami w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="różnych dziedzinach. Tym razem wręczanie podzielono na dwie części. Na szczególną uwagę zasługuje zwieńczenie pierwszej części - niesamowita jazda ekstremalna na rowerze w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="wykonaniu naszego kolegi, sławnego już w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="Polsce Pawła Pasierbowicza. Część drugą zakończyła kategoria „Niezastąpiony Roku” i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="tu – ku zdumieniu gimnazjalistów i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="publiczności – wszyscy zostali nominowani! Był to bardzo wzruszający moment. Szczerze także trzeba przyznać, iż konferansjerzy wykazali się wielką swobodą  i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="poczuciem humoru - publiczność szalała ze śmiechu."/>
+            <para/>
+            <tab FONTSIZE="10.5"/>
+            <ITEXT FONTSIZE="10.5" CH="Wreszcie nie można nie wspomnieć o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="kruchych ciasteczkach  z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="zatopionymi wewnątrz oryginalnymi japońskimi wróżbami – otrzymali je wszyscy zgromadzeni. Ciekawe, czy się sprawdzą!"/>
+            <para/>
+            <tab FONTSIZE="10.5"/>
+            <ITEXT FONTSIZE="10.5" CH="Poza tym nie zapomnimy, że wraz z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="wychowawcami, nauczycielami i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="panią dyrektor tańczyliśmy wspólnego &quot;wężyka&quot;, pociąg, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="oprócz tego tańce - odbijańce. Ale się działo! Parkiet był rozgrzany do czerwoności. "/>
+            <para/>
+            <tab FONTSIZE="10.5"/>
+            <ITEXT FONTSIZE="10.5" CH="Nieco po północy niebo rozświetliły papierowe lampiony - „światełko do nieba”. I"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="był to ostatni akcent tego pełnego wrażeń wieczoru, którego uroda tkwi w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="naszej młodości, wspólnej pracy i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="wspólnej zabawie. "/>
             <para/>
             <para/>
-            <ITEXT FONTSIZE="10.5" CH="Wszystko, co piękne, szybko się kończy, niech więc w sercu pozostaną wspomnienia..."/>
+            <ITEXT FONTSIZE="10.5" CH="Wszystko, co piękne, szybko się kończy, niech więc w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10.5" CH="sercu pozostaną wspomnienia..."/>
             <para/>
             <para/>
             <ITEXT FONT="Mistral Regular" FONTSIZE="11.5" CH="Weronika"/>
@@ -711,58 +1092,49 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="966" YPOS="121.5" WIDTH="378.75" HEIGHT="213" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="10.5" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 378.75 0 378.75 0 378.75 0 378.75 0 378.75 213 378.75 213 378.75 213 378.75 213 0 213 0 213 0 213 0 213 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 378.75 0 378.75 0 378.75 0 378.75 0 378.75 213 378.75 213 378.75 213 378.75 213 0 213 0 213 0 213 0 213 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="10.5" CH="Odgadnij, jakie warzywa, owoce lub inne jadalne rzeczy przedstawiają się w"/>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="966" YPOS="104.25" WIDTH="378.75" HEIGHT="230.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9.2" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 378.75 0 378.75 0 378.75 0 378.75 0 378.75 230.25 378.75 230.25 378.75 230.25 378.75 230.25 0 230.25 0 230.25 0 230.25 0 230.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 378.75 0 378.75 0 378.75 0 378.75 0 378.75 230.25 378.75 230.25 378.75 230.25 378.75 230.25 0 230.25 0 230.25 0 230.25 0 230.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <tab FONTSIZE="9.2"/>
+            <ITEXT FONTSIZE="9.2" CH="It was cold in the morning. Kate ran into the living room and jumped on the sofa. “Mum, dad?” she shouted. Few seconds later she went out the room and arrived to her bother’s bedroom. “Pete?” She asked quietly. Nobody answered. She went around the small, untidy space and, suddenly, beheld a"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="10.5" CH="taki sposób. Pomocą są anagramy poszukiwanych słów znajdujące się w"/>
+            <ITEXT FONTSIZE="9.2" CH="brochure on his desk. It was an advertising of a"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="10.5" CH="na­wia­sie­."/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="10.5" CH="a. I’m round and red."/>
+            <ITEXT FONTSIZE="9.2" CH="sports camp! Kate was very surprised. When she’d read a"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10.5" CH="I’ve got sweet taste and you can find me in the garden at the beginning of autumn. (PLPEA)"/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="10.5" CH="b. I"/>
+            <ITEXT FONTSIZE="9.2" CH="brochure, she fell very sad.  The camp’s date indicated today’s morning. Kate loved her brother very much and she was disappointed that Pete went on the camp without her. In the next second she thought that parents took him away to railway station. A"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10.5" CH="am easy to take to school, just a"/>
+            <ITEXT FONTSIZE="9.2" CH="few minutes later Kate, resigned, decided to go out the house. She took her jacket on and got out the building. Suddenly she stood motionless, shocked. There were her parents in the garden! And there was Pete, too! They were making a"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10.5" CH="piece of bread or roll, butter in it, slice of ham, that’s what prepares every morning mum. (WISANCHD)"/>
+            <ITEXT FONTSIZE="9.2" CH="snowman. Kate was very surprised and happy. Then she attached to them and they had fun together. Parents explained Kate, that Pete got the brochure in his school but he didn’t want to go, although almost all of his colleagues wanted to go. Pete wanted to spend winter vacations with his family. Kate was very happy. “I’ll never pull out hasty conclusions”, she swore. “Never”. "/>
             <para/>
             <para/>
-            <ITEXT FONTSIZE="10.5" CH="c. Without me – neither bread nor roll. Without me no baking at all! (ROUFL)"/>
+            <ITEXT FONTSIZE="9.2" CH="Słówka związane ze sportami zimowymi:"/>
             <para/>
+            <ITEXT FONTSIZE="9.2" CH="Winter sports - sporty zimowe"/>
             <para/>
-            <ITEXT FONTSIZE="10.5" CH="d. I’m yellow and sour. There’s no tasty tea without me! (MNOLE)"/>
+            <ITEXT FONTSIZE="9.2" CH="skiing- narciarstwo"/>
             <para/>
-            <para/>
-            <ITEXT FONTSIZE="10.5" CH="e. I"/>
+            <ITEXT FONTSIZE="9.2" CH="ski-jumping- skoki narciarskie"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10.5" CH="am delicious with grated roll, I"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="10.5" CH="am not a"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="10.5" CH="flower, though it’s how I’m called. (LIFOCWERAU)"/>
             <para/>
+            <ITEXT FONTSIZE="9.2" CH="skating- łyżwiarstwo"/>
             <para/>
-            <ITEXT FONTSIZE="10.5" CH="f. I’m brown and oval. Christopher Colombo has brought me from America to Europe. (OTPAOT)"/>
+            <ITEXT FONTSIZE="9.2" CH="bobsleigh- saneczkarstwo"/>
             <para/>
-            <para/>
-            <ITEXT FONTSIZE="10.5" CH="g. I’m very healthy drink, I"/>
+            <ITEXT FONTSIZE="9.2" CH="snow-boarding- snowboard"/>
             <nbspace/>
-            <ITEXT FONTSIZE="10.5" CH="am white, I’m delicious, I"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="10.5" CH="think! (ILKM)"/>
+            <para/>
+            <ITEXT FONTSIZE="9.2" CH="ice hokey- hokej na lodzie"/>
+            <para/>
+            <ITEXT FONTSIZE="9.2" CH="figure skating- łyżwiarstwo figurowe"/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="964" YPOS="35" WIDTH="383.25" HEIGHT="88.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Cantarell Bold" ISIZE="26" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 383.25 0 383.25 0 383.25 0 383.25 0 383.25 88.75 383.25 88.75 383.25 88.75 383.25 88.75 0 88.75 0 88.75 0 88.75 0 88.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 383.25 0 383.25 0 383.25 0 383.25 0 383.25 88.75 383.25 88.75 383.25 88.75 383.25 88.75 0 88.75 0 88.75 0 88.75 0 88.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Cantarell Bold" FONTSIZE="26" CH="En­glish lan­gu­age isn't so dif­fi­cult"/>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="964" YPOS="35" WIDTH="383.25" HEIGHT="67.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Brit Comics pl Regular" ISIZE="26" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 383.25 0 383.25 0 383.25 0 383.25 0 383.25 67.75 383.25 67.75 383.25 67.75 383.25 67.75 0 67.75 0 67.75 0 67.75 0 67.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 383.25 0 383.25 0 383.25 0 383.25 0 383.25 67.75 383.25 67.75 383.25 67.75 383.25 67.75 0 67.75 0 67.75 0 67.75 0 67.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Brit Comics pl Regular" FONTSIZE="26" CH="En­glish lan­gu­age isn't so dif­fi­cult"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1275.1278195" YPOS="311" WIDTH="54.76218045" HEIGHT="15.56781955" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 54.7622 0 54.7622 0 54.7622 0 54.7622 0 54.7622 15.5678 54.7622 15.5678 54.7622 15.5678 54.7622 15.5678 0 15.5678 0 15.5678 0 15.5678 0 15.5678 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 54.7622 0 54.7622 0 54.7622 0 54.7622 0 54.7622 15.5678 54.7622 15.5678 54.7622 15.5678 54.7622 15.5678 0 15.5678 0 15.5678 0 15.5678 0 15.5678 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1285.1278195" YPOS="319" WIDTH="54.76218045" HEIGHT="15.56781955" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 54.7622 0 54.7622 0 54.7622 0 54.7622 0 54.7622 15.5678 54.7622 15.5678 54.7622 15.5678 54.7622 15.5678 0 15.5678 0 15.5678 0 15.5678 0 15.5678 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 54.7622 0 54.7622 0 54.7622 0 54.7622 0 54.7622 15.5678 54.7622 15.5678 54.7622 15.5678 54.7622 15.5678 0 15.5678 0 15.5678 0 15.5678 0 15.5678 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="Aerial pl Regular" FONTSIZE="7" CH="Aga­ta T."/>
             <trail/>
             <PageItemAttributes/>
@@ -1355,6 +1727,11 @@
             <trail/>
             <ImageEffect Code="3" Param="41"/>
             <ImageEffect Code="4" Param="50"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="446.2378195" YPOS="1217.28" WIDTH="54.76218045" HEIGHT="15.56781955" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 54.7622 0 54.7622 0 54.7622 0 54.7622 0 54.7622 15.5678 54.7622 15.5678 54.7622 15.5678 54.7622 15.5678 0 15.5678 0 15.5678 0 15.5678 0 15.5678 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 54.7622 0 54.7622 0 54.7622 0 54.7622 0 54.7622 15.5678 54.7622 15.5678 54.7622 15.5678 54.7622 15.5678 0 15.5678 0 15.5678 0 15.5678 0 15.5678 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Aerial pl Regular" FONTSIZE="7" CH="Aga­ta T."/>
+            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
