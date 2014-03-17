@@ -22,10 +22,10 @@
             <EXCEPTION WORD="Ostatnio" HYPHENATED="Os-tat-nio"/>
             <EXCEPTION WORD="Opowiada" HYPHENATED="O-po-wia-da"/>
         </HYPHEN>
-        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONTSIZE="11"/>
+        <STYLE NAME="Default Paragraph Style" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONTSIZE="11"/>
         <STYLE NAME="Cytat" ALIGN="3" LINESPMode="1" FONT="Liberation Sans Italic" FONTSIZE="13"/>
         <STYLE NAME="Header" ALIGN="1" LINESPMode="1" FONT="Liberation Sans Bold"/>
-        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Liberation Sans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Polish"/>
+        <CHARSTYLE CNAME="Default Character Style" FONT="Liberation Sans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Polish"/>
         <LAYERS NUMMER="0" LEVEL="0" NAME="Tło" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="0" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="0" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PDLanguage="3" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="hp deskjet 845c" filename="" separationName="Wszystkie" printerCommand="">
             <Separation Name="Cyjan (C)"/>
@@ -742,22 +742,62 @@
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="957.89" YPOS="710.75" WIDTH="392.11" HEIGHT="174.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9.5" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 392.11 0 392.11 0 392.11 0 392.11 0 392.11 174.75 392.11 174.75 392.11 174.75 392.11 174.75 0 174.75 0 174.75 0 174.75 0 174.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 392.11 0 392.11 0 392.11 0 392.11 0 392.11 174.75 392.11 174.75 392.11 174.75 392.11 174.75 0 174.75 0 174.75 0 174.75 0 174.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <tab FONTSIZE="9.5"/>
-            <ITEXT FONTSIZE="9.5" CH="W tym artykule chciałabym Wam podpowiedzieć, jak ubrać się w sezonie wiosna/lato 2014. Każda z nas chce się w jakiś sposób wyróżniać. Co prawda, jeszcze wiosna nie nadeszła, ale już niebawem z pewnością ją poczujemy. "/>
+            <ITEXT FONTSIZE="9.5" CH="W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.5" CH="tym artykule chciałabym Wam podpowiedzieć, jak ubrać się w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.5" CH="sezonie wiosna/lato 2014. Każda z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.5" CH="nas chce się w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.5" CH="jakiś sposób wyróżniać. Co prawda, jeszcze wiosna nie nadeszła, ale już niebawem z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.5" CH="pewnością ją poczujemy. "/>
             <para ALIGN="3"/>
             <tab FONTSIZE="9.5"/>
-            <ITEXT FONTSIZE="9.5" CH="W pierwsze dni tej pory roku najlepiej ubierać się nie za ciepło, nie za zimno. W tym sezonie modne będą getry w różnych kolorach, a w szczególności jednolite w kolorze szarym, jasno-brązowym lub beżowym. "/>
+            <ITEXT FONTSIZE="9.5" CH="W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.5" CH="pierwsze dni tej pory roku najlepiej ubierać się nie za ciepło, nie za zimno. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.5" CH="tym sezonie modne będą getry w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.5" CH="różnych kolorach, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.5" CH="w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.5" CH="szczególności jednolite w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.5" CH="kolorze szarym, jasno-brązowym lub beżowym. "/>
             <para/>
             <tab FONTSIZE="9.5"/>
-            <ITEXT FONTSIZE="9.5" CH="Do tego najlepiej pasuje bluzka bokserka oraz bluza lub sweterek, w zależności od temperatury. Jeżeli chodzi o buty, adidasy będą tu zarówno najwygodniejsze, jak i dopasowane do całego stroju. "/>
+            <ITEXT FONTSIZE="9.5" CH="Do tego najlepiej pasuje bluzka bokserka oraz bluza lub sweterek, w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.5" CH="zależności od temperatury. Jeżeli chodzi o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.5" CH="buty, adidasy będą tu zarówno najwygodniejsze, jak i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.5" CH="dopasowane do całego stroju. "/>
             <para/>
             <tab FONTSIZE="9.5"/>
-            <ITEXT FONTSIZE="9.5" CH="Natomiast latem, najmodniejsze będą jeansowe spodenki z wysokim stanem. W dalszym ciągu modne będą te z ćwiekami, a więc, jeżeli lubimy być modnie ubrane, warto wybrać właśnie te nimi ozdobione. "/>
+            <ITEXT FONTSIZE="9.5" CH="Natomiast latem, najmodniejsze będą jeansowe spodenki z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.5" CH="wysokim stanem. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.5" CH="dalszym ciągu modne będą te z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.5" CH="ćwiekami, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.5" CH="więc, jeżeli lubimy być modnie ubrane, warto wybrać właśnie te nimi ozdobione. "/>
             <para/>
             <tab FONTSIZE="9.5"/>
-            <ITEXT FONTSIZE="9.5" CH="Do spodenek idealnie pasuje luźna bluzka na wpust oraz trampki. Na te bardziej upalne dni, warto oczywiście wybrać modne sandałki, które również będą dostępne w żywych kolorach."/>
+            <ITEXT FONTSIZE="9.5" CH="Do spodenek idealnie pasuje luźna bluzka na wpust oraz trampki. Na te bardziej upalne dni, warto oczywiście wybrać modne sandałki, które również będą dostępne w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.5" CH="żywych kolorach."/>
             <para/>
             <tab FONTSIZE="9.5"/>
-            <ITEXT FONTSIZE="9.5" CH="Więcej użytecznych porad dla nastolatek w kolejnym artykule :)"/>
+            <ITEXT FONTSIZE="9.5" CH="Więcej użytecznych porad dla nastolatek w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9.5" CH="kolejnym artykule :)"/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1053,16 +1093,38 @@
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="957.89" YPOS="1015.28" WIDTH="397.61" HEIGHT="215.72" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="10" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 397.61 0 397.61 0 397.61 0 397.61 0 397.61 215.72 397.61 215.72 397.61 215.72 397.61 215.72 0 215.72 0 215.72 0 215.72 0 215.72 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 397.61 0 397.61 0 397.61 0 397.61 0 397.61 215.72 397.61 215.72 397.61 215.72 397.61 215.72 0 215.72 0 215.72 0 215.72 0 215.72 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Niedawno odbyło się podsumowanie projektu „Wolontariat sposobem na zmiany – budowanie sieci”. Gala odbyła się w naszym gimnazjum. Przygotowania trwały bardzo długo i wiele osób brało w nich udział. Koordynatorem działań była p. Dorota Rusek."/>
+            <ITEXT FONTSIZE="10" CH="Niedawno odbyło się podsumowanie projektu „Wolontariat sposobem na zmiany – budowanie sieci”. Gala odbyła się w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="naszym gimnazjum. Przygotowania trwały bardzo długo i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="wiele osób brało w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="nich udział. Koordynatorem działań była p. Dorota Rusek."/>
             <para ALIGN="3"/>
             <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Po powitaniach poszczególne kluby wolontariusza (z Wilkołaza, Borzechowa, Niedrzwicy Kościelnej, Krężnicy Jarej i z naszej szkoły) przedstawiły efekty całej swojej dotychczasowej pracy. Można było podziwiać nagrane filmy, przygotowane prezentacje multimedialne, wystawy eksponatów powstałych w trakcie zajęć, zrealizowane projekty, a przede wszystkim wielkie zaangażowanie młodzieży."/>
+            <ITEXT FONTSIZE="10" CH="Po powitaniach poszczególne kluby wolontariusza (z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="Wilkołaza, Borzechowa, Niedrzwicy Kościelnej, Krężnicy Jarej i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="naszej szkoły) przedstawiły efekty całej swojej dotychczasowej pracy. Można było podziwiać nagrane filmy, przygotowane prezentacje multimedialne, wystawy eksponatów powstałych w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="trakcie zajęć, zrealizowane projekty, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="przede wszystkim wielkie zaangażowanie młodzieży."/>
             <para ALIGN="3"/>
             <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Po części oficjalnej odbyła się debata z udziałem p. Wacława Czakona – prezesa fundacji „Szczęśliwe dzieciństwo”, p. Magdaleny Biedachy – dyrektora Niepublicznej Szkoły Podstawowej w Lublinie oraz dziennikarki Radia er. Wszyscy zgodnie wskazali młodzieży, jak ważne są działania, których się podejmujemy. Wolontariat to bardzo ciężka praca, ale jeszcze większa satysfakcja. "/>
+            <ITEXT FONTSIZE="10" CH="Po części oficjalnej odbyła się debata z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="udziałem p. Wacława Czakona – prezesa fundacji „Szczęśliwe dzieciństwo”, p. Magdaleny Biedachy – dyrektora Niepublicznej Szkoły Podstawowej w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="Lublinie oraz dziennikarki Radia er. Wszyscy zgodnie wskazali młodzieży, jak ważne są działania, których się podejmujemy. Wolontariat to bardzo ciężka praca, ale jeszcze większa satysfakcja. "/>
             <para ALIGN="3"/>
             <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Uroczystość zakończył pyszny poczęstunek, przygotowany przez wolontariuszki, rodziców i p. Jadwigę Janczarek."/>
+            <ITEXT FONTSIZE="10" CH="Uroczystość zakończył pyszny poczęstunek, przygotowany przez wolontariuszki, rodziców i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="p. Jadwigę Janczarek."/>
             <para ALIGN="3"/>
             <tab FONTSIZE="10"/>
             <ITEXT FONTSIZE="10" CH="Cały projekt był ważnym egzaminem dla młodzieży. Możemy ocenić go celująco."/>
@@ -1096,98 +1158,435 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="528" YPOS="1939.5" WIDTH="400.5" HEIGHT="567.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 400.5 0 400.5 0 400.5 0 400.5 0 400.5 567.75 400.5 567.75 400.5 567.75 400.5 567.75 0 567.75 0 567.75 0 567.75 0 567.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 400.5 0 400.5 0 400.5 0 400.5 0 400.5 567.75 400.5 567.75 400.5 567.75 400.5 567.75 0 567.75 0 567.75 0 567.75 0 567.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="58" BACKITEM="57">
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="1369.5" YPOS="1399.5" WIDTH="400.5" HEIGHT="472.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 400.5 0 400.5 0 400.5 0 400.5 0 400.5 472.5 400.5 472.5 400.5 472.5 400.5 472.5 0 472.5 0 472.5 0 472.5 0 472.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 400.5 0 400.5 0 400.5 0 400.5 0 400.5 472.5 400.5 472.5 400.5 472.5 400.5 472.5 0 472.5 0 472.5 0 472.5 0 472.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="57" BACKITEM="-1">
-            <ITEXT FONTSIZE="9" CH="Kolejny raz nasi uczniowie postanowili pochwalić się swoimi talentami. Jak się okazuje, są w gimnazjum głęboko skrywane pasje, o których większość z nas nie wie. Po to właśnie powstała Aleja Gwiazd, aby każdy, kto ma jakiś pomysł i szczególne zainteresowania mógł je pokazać innym, a tym samym zaistnieć na szkolnej scenie…"/>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="957.75" YPOS="1431" WIDTH="234.14" HEIGHT="96" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 234.14 0 234.14 0 234.14 0 234.14 0 234.14 96 234.14 96 234.14 96 234.14 96 0 96 0 96 0 96 0 96 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 234.14 0 234.14 0 234.14 0 234.14 0 234.14 96 234.14 96 234.14 96 234.14 96 0 96 0 96 0 96 0 96 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Gridy pl Regular" FONTSIZE="14" FEATURES="inherit underline" CH="Paweł Pasierbowicz"/>
             <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Natalia Krawczyk i Natalia Polaczek - zumba"/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Ich pasja narodziła się dosyć niedawno. Często zazdrościły profesjonalnym tancerzom, dlatego też w wolnych chwilach postanowiły same spróbować swoich sił. Miały już okazję występować przed większą publicznością. Wybrały zumbę, ponieważ to świetna zabawa. Ich rodzice nie mieli takich pasji w mło­do­ści­."/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Ania Moskwa i Michał Wiśniewski - taniec"/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Przygoda z tańcem towarzyskim trwa już 3 lata. Skąd się wzięła? Trudno określić. Chyba przyszła sama z siebie... Uczą się w GOKSiR pod okiem pani instruktor, która jest ich inspiracją. Biorą udział w różnych turniejach i konkursach. Co będzie w przyszłości? Czas pokaże…"/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Ania Jankowska - rysunki"/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Rysuje, szkicuje od 9 roku życia. Póki co sama dla siebie. Często, kiedy widzi jakąś rzecz, od razu chce ją przenieść na papier. Ma to chyba w genach, ponieważ jej mama rysowała w młodości. Nie inspiruje się nikim i jeszcze nigdzie nie publikowała swoich dzieł."/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Ania Jankowska oraz Adrian Bednarz - śpiew"/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Śpiewają razem od niedawna. Raczej przez przypadek, ponieważ podczas klasowego pokazu talentów spróbowali swoich sił wokalnych. Przyznali, że śpiewali tylko raz, co zupełnie nie przeszkadza im w pokazaniu swoich zainteresowań."/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Ewa Reszka - fotografia"/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Jej pasja narodziła się kilka lat temu, kiedy dostała w prezencie pierwszy aparat. Najczęściej fotografuje ludzi. Robi z tych zdjęć wiele prezentacji. Swoją przyszłość wiąże z fotografią, bo planuje pójść do tego typu szkoły i kształcić się w tym kierunku. Obecnie sama rozwija swój talent i jest dumna z tego, co robi."/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Zespół Gęsiory - śpiew"/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Kaczor, Piocz, Puncek śpiewaja razem od dawna – gatunek disco polo. Pomysł na nazwę pozostawimy bez komentarza… Ich talent polega na tym, że oni wcale nie umieją śpiewać, ale jest to dla nich fajna zabawa przy muzyce, którą lubią. W przyszłym roku planują wziąć udział w programie Disco Star w Polo TV. Nie zamierzają jednak zostać piosenkarzami, tylko tak teraz, by zająć swój wolny czas. Nie mają własnego utworu."/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Iza Grzegorzewska i Dawid Pietrzak - gotowanie"/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Iza od dziecka uwielbia gotować. Dawida wybrała do współpracy zupełnie spontanicznie. W przyszłości Iza zamierza gotować tylko dla swojej rodziny, ale jeżeli jej plany powiodą się, to pójdzie do szkoły gastronomicznej. Podczas pokazu talentów Dawid przygotuje danie niespodziankę, a Iza upiecze ciasto."/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Justyna Niezgoda - rysunki"/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Już dawno odkryła swój plastyczny talent. Najbardziej lubi rysować kwiaty oraz krajobrazy. Inspirację czerpie sama z siebie. Chce rozwijać się w kierunku szkicowania. Jest samoukiem. W przyszłości marzą jej się własne wernisaże."/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Izabela Sieńczyk - śpiew"/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Miała już okazję występować przed szerszą publicznością. Lubi wykonywać „lekkie” piosenki. Inspiruje się wieloma osobami, aż trudno jej wymienić konkretne nazwiska. W przyszłości chce spróbować swoich sił właśnie w śpiewaniu."/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Michał Sidor, Marcin Pietrzak, Kuba Antoń - zespół muzyczny &quot;MaJaMi&quot;"/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Grają razem od miesiąca. Ich pierwszy wspólny występ odbył się podczas Szkolnego Przeglądu Pieśni Patriotycznych. Tylko jeden z nich wiąże przyszłość ze śpiewaniem…  "/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Konrad Kędzierski - gra na keyboardzie"/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Z keyboardem jest związany od 8 lat. Gra też na gitarze. Dwa razy występował przed dużą publicznością. Na samym początku uczył się z instruktorem, teraz sam pró­bu­je­."/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Bartek Lipski - rap"/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Jego pasja narodziła się w 2011 roku. Wtedy zaczął interesować się rapem. Występował już podczas Dni Niedrzwicy. Jest samoukiem. W przyszłości nie zamierza zajmować się rapem, ewentualnie po godzinach pra­cy."/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Eliza Brzózka - śpiew"/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Zaczęła śpiewać w 3 klasie szkoły podstawowej. Teraz śpiewa w chórze. Kilkakrotnie występowała przed szerszą publicznością. Brała udział w wielu konkursach. Twierdzi, że nie ma talentu - śpiewa i tyle. Po­dob­no zgło­si­ła się do Ale­i, że­by Ib nie mia­ła kart­ków­ki z mat­my."/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Tomek Wójtowicz, Maciek Stępień - modelarstwo"/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Pasję do modelarstwa zapoczątkował Tomek. Rozpoczął składanie modeli w klasie 2, a reszta chłopaków w klasie 4. Obecnie uczy ich pan Bartek Bednarz w GOKSiR i on ich inspiruje. Najczęściej powstają modele samolotów. Chłopcy mieli już wystawy swoich prac. Lubią to, co robią."/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Paweł Pasierbowicz - rower"/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Styl stunt na rowerze. Zaczęło się od kolegów i  Internetu . Paweł sam się uczy jeździć. Startuje w nielicznych konkursach. Jeździ głównie po asfalcie, ale czasami również po lesie. Inspiruje go Rafał Pasierbem „Stunter 13” - mistrz świata w stuncie motocyklowym. W przyszłości chciałby kontynuować swoją pasję, tylko że na motorze. Wybrał rower, bo jest tani w utrzymaniu."/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Marcin Grudziński i Ola Próchnicka - taniec"/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Tańczą razem od 2,5 miesiąca taniec towarzyski. Piszą codziennie na fb, dzięki temu mają stały kontakt. Uczą się wzajemnie tańczyć. Marcin jest związany z Festą od 7 lat, a Ola swoją przygodę z tańcem towarzyskim zaczęła 2 lata temu. Biorą udział w wielu konkursach i turniejach. Nigdy wcześniej nie tańczyli razem. W wolnych chwilach Ola działa w harcerstwie, a Marcin gra na komputerze."/>
+            <tab FONTSIZE="9" FEATURES="inherit"/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="Styl stunt na rowerze. Zaczęło się od kolegów i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH=" Internetu. Paweł sam się uczy jeździć. Startuje w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="nielicznych konkursach. Jeździ głównie po asfalcie, ale czasami również po lesie. Inspiruje go Rafał „Stunter 13” - mistrz świata w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="stuncie motocyklowym. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="przyszłości chciałby kontynuować swoją pasję, zmieni jedynie sprzęt na motor. Wybrał rower, bo jest tani w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="utrzymaniu."/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="113.25" YPOS="1939.5" WIDTH="401.25" HEIGHT="567" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 401.25 0 401.25 0 401.25 0 401.25 0 401.25 567 401.25 567 401.25 567 401.25 567 0 567 0 567 0 567 0 567 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 401.25 0 401.25 0 401.25 0 401.25 0 401.25 567 401.25 567 401.25 567 401.25 567 0 567 0 567 0 567 0 567 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="55" BACKITEM="56">
+        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="1368" YPOS="1304" WIDTH="400.5" HEIGHT="105.56" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.801" LOCALSCY="0.5278" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="0" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="ag1.1.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 400.5 0 400.5 0 400.5 0 400.5 0 400.5 105.56 400.5 105.56 400.5 105.56 400.5 105.56 0 105.56 0 105.56 0 105.56 0 105.56 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 400.5 0 400.5 0 400.5 0 400.5 0 400.5 105.56 400.5 105.56 400.5 105.56 400.5 105.56 0 105.56 0 105.56 0 105.56 0 105.56 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="957" YPOS="1305" WIDTH="397.5" HEIGHT="565.56" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 397.5 0 397.5 0 397.5 0 397.5 0 397.5 565.56 397.5 565.56 397.5 565.56 397.5 565.56 0 565.56 0 565.56 0 565.56 0 565.56 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 397.5 0 397.5 0 397.5 0 397.5 0 397.5 565.56 397.5 565.56 397.5 565.56 397.5 565.56 0 565.56 0 565.56 0 565.56 0 565.56 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="55">
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="1368" YPOS="1419" WIDTH="400.5" HEIGHT="77.5599999999999" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Serif Regular" ISIZE="12" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 400.5 0 400.5 0 400.5 0 400.5 0 400.5 77.56 400.5 77.56 400.5 77.56 400.5 77.56 0 77.56 0 77.56 0 77.56 0 77.56 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 400.5 0 400.5 0 400.5 0 400.5 0 400.5 77.56 400.5 77.56 400.5 77.56 400.5 77.56 0 77.56 0 77.56 0 77.56 0 77.56 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <tab FONT="Liberation Serif Regular" FONTSIZE="12"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="12" CH="Kolejny raz nasi uczniowie postanowili pochwalić się swoimi talentami. Jak się okazuje, są w"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="12" CH="gimnazjum głęboko skrywane pasje, o"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="12" CH="których większość z"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="12" CH="nas nie wie. Po to właśnie powstała Aleja Gwiazd, aby każdy, kto ma jakiś pomysł i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="12" CH="szczególne zainteresowania mógł je pokazać innym, a"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="12" CH="tym samym zaistnieć na szkolnej scenie…"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="1576.89" YPOS="1499" WIDTH="188" HEIGHT="138.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0655776515151516" LOCALSCY="0.0655776515151516" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="1" TEXTFLOW="1" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../git/AlejaGwiazd/assets/Gęsiory-carousel1.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 188 0 188 0 188 0 188 0 188 138.5 188 138.5 188 138.5 188 138.5 0 138.5 0 138.5 0 138.5 0 138.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 188 0 188 0 188 0 188 0 188 138.5 188 138.5 188 138.5 188 138.5 0 138.5 0 138.5 0 138.5 0 138.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="1371" YPOS="1494" WIDTH="196.5" HEIGHT="150.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 196.5 0 196.5 0 196.5 0 196.5 0 196.5 150.75 196.5 150.75 196.5 150.75 196.5 150.75 0 150.75 0 150.75 0 150.75 0 150.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 196.5 0 196.5 0 196.5 0 196.5 0 196.5 150.75 196.5 150.75 196.5 150.75 196.5 150.75 0 150.75 0 150.75 0 150.75 0 150.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Gridy pl Regular" FONTSIZE="14" FEATURES="inherit underline" CH="Gęsiory"/>
+            <para/>
+            <tab FONTSIZE="9"/>
+            <ITEXT FONTSIZE="9" CH="Kaczor, Piocz, Puncek śpiewaja razem od dawna – gatunek disco polo. Pomysł na nazwę pozostawimy bez komentarza… Poprzez wspólną zabawę przy ulubionej muzyce doskonalą talent wokalny, taneczny, parodystyczny, ale chyba przede wszystkim kabaretowy. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="przyszłym roku planują wziąć udział w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="programie Disco Star w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="Polo TV. Nie zamierzają jednak zostać piosenkarzami, tylko &quot;tak teraz&quot;, by zająć swój wolny czas. Nie mają własnego utworu. Jeszcze. Na razie wystąpią u nas, my będziemy trzymać kciuki za ich udany debiut w mediach..."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="5" XPOS="1371" YPOS="1645.75" WIDTH="393.000715648204" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="1473" YPOS="1651" WIDTH="190.25" HEIGHT="105.559999999999" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 190.25 0 190.25 0 190.25 0 190.25 0 190.25 105.56 190.25 105.56 190.25 105.56 190.25 105.56 0 105.56 0 105.56 0 105.56 0 105.56 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 190.25 0 190.25 0 190.25 0 190.25 0 190.25 105.56 190.25 105.56 190.25 105.56 190.25 105.56 0 105.56 0 105.56 0 105.56 0 105.56 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Gridy pl Regular" FONTSIZE="14" FEATURES="inherit underline" CH="Justyna Niezgoda"/>
+            <para/>
+            <tab FONTSIZE="9"/>
+            <ITEXT FONTSIZE="9" CH="Już dawno odkryła swój plastyczny talent. Najbardziej lubi rysować kwiaty oraz krajobrazy. Inspirację czerpie sama z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="siebie. Chce rozwijać się w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="kierunku szkicowania. Jest samoukiem. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="przyszłości marzą jej się własne wernisaże. W szkolnym konkursie walentynkowym zdobyła wyróżnienie za cudowne serce wykonane z puzzli."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="1385.89" YPOS="1651.75" WIDTH="75" HEIGHT="99.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.03896484375" LOCALSCY="0.03896484375" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../2014-03-17 12.38.37.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 75 0 75 0 75 0 75 0 75 99.75 75 99.75 75 99.75 75 99.75 0 99.75 0 99.75 0 99.75 0 99.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 75 0 75 0 75 0 75 0 75 99.75 75 99.75 75 99.75 75 99.75 0 99.75 0 99.75 0 99.75 0 99.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="1752.125" YPOS="1653.875" WIDTH="98.25" HEIGHT="75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-270" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.03837890625" LOCALSCY="0.03837890625" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../2014-03-17 12.38.22.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 98.25 0 98.25 0 98.25 0 98.25 0 98.25 75 98.25 75 98.25 75 98.25 75 0 75 0 75 0 75 0 75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 98.25 0 98.25 0 98.25 0 98.25 0 98.25 75 98.25 75 98.25 75 98.25 75 0 75 0 75 0 75 0 75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="5" XPOS="1371" YPOS="1756.75" WIDTH="393.0007156" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="1498.5" YPOS="1771.5" WIDTH="259" HEIGHT="98.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 259 0 259 0 259 0 259 0 259 98.25 259 98.25 259 98.25 259 98.25 0 98.25 0 98.25 0 98.25 0 98.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 259 0 259 0 259 0 259 0 259 98.25 259 98.25 259 98.25 259 98.25 0 98.25 0 98.25 0 98.25 0 98.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Gridy pl Regular" FONTSIZE="14" FEATURES="inherit underline" CH="Ewa Reszka"/>
+            <para/>
+            <tab FONTSIZE="9" FEATURES="inherit"/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="Jej pasja narodziła się kilka lat temu, kiedy dostała w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="prezencie pierwszy aparat. Najczęściej fotografuje ludzi. Robi z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="tych zdjęć wiele prezentacji. Swoją przyszłość wiąże z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="fotografią, bo planuje pójść do tego typu szkoły i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="kształcić się w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="tym kierunku. Obecnie sama rozwija swój talent i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="jest dumna z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="tego, co robi."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="1377.25" YPOS="1763" WIDTH="112.25" HEIGHT="102.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0787719298245614" LOCALSCY="0.0787719298245614" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../Aleja Gwiazd- zdjęcie.JPG" PFILE2="" PFILE3="" PRFILE="Embedded sRGB IEC61966-2.1" EPROF="Embedded sRGB IEC61966-2.1" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 112.25 0 112.25 0 112.25 0 112.25 0 112.25 102.75 112.25 102.75 112.25 102.75 112.25 102.75 0 102.75 0 102.75 0 102.75 0 102.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 112.25 0 112.25 0 112.25 0 112.25 0 112.25 102.75 112.25 102.75 112.25 102.75 112.25 102.75 0 102.75 0 102.75 0 102.75 0 102.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="115" YPOS="1941.84" WIDTH="292.25" HEIGHT="98.4100000000005" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 292.25 0 292.25 0 292.25 0 292.25 0 292.25 98.41 292.25 98.41 292.25 98.41 292.25 98.41 0 98.41 0 98.41 0 98.41 0 98.41 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 292.25 0 292.25 0 292.25 0 292.25 0 292.25 98.41 292.25 98.41 292.25 98.41 292.25 98.41 0 98.41 0 98.41 0 98.41 0 98.41 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Gridy pl Regular" FONTSIZE="14" FEATURES="inherit underline" CH="Natalia Krawczyk i"/>
+            <nbspace/>
+            <ITEXT FONT="Gridy pl Regular" FONTSIZE="14" FEATURES="inherit underline" CH="Natalia Polaczek"/>
+            <para/>
+            <tab FONTSIZE="9" FEATURES="inherit"/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="Ich pasja narodziła się dosyć niedawno, choć miłość do tańca ujawniały już od najmłodszych lat w zespole tańca i pieśni FESTA. Natalię P. znamy z występu na ubiegłorocznej gali Alei w kategorii taniec towarzyski. Ma na tym polu zresztą wiele osiągnięć. Są koleżankami z klasy. Często zazdrościły profesjonalnym tancerzom, dlatego też w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="wolnych chwilach postanowiły same spróbować swoich sił.  Wybrały zumbę, ponieważ to świetna zabawa. Mają nadzieję, że swoją pasją zarażą innych."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="5" XPOS="116.11" YPOS="2048.03" WIDTH="393.0007156" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="118.25" YPOS="2150.84" WIDTH="264.25" HEIGHT="97.9100000000003" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 264.25 0 264.25 0 264.25 0 264.25 0 264.25 97.91 264.25 97.91 264.25 97.91 264.25 97.91 0 97.91 0 97.91 0 97.91 0 97.91 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 264.25 0 264.25 0 264.25 0 264.25 0 264.25 97.91 264.25 97.91 264.25 97.91 264.25 97.91 0 97.91 0 97.91 0 97.91 0 97.91 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Gridy pl Regular" FONTSIZE="14" FEATURES="inherit underline" CH="Ania Moskwa i"/>
+            <nbspace/>
+            <ITEXT FONT="Gridy pl Regular" FONTSIZE="14" FEATURES="inherit underline" CH="Michał Wiśniewski"/>
+            <para/>
+            <tab FONTSIZE="9" FEATURES="inherit"/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="Przygoda Ani i Michała z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="tańcem towarzyskim trwa już 3 lata. Skąd się wzięła? Trudno określić. Chyba przyszła sama z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="siebie... Uczą się w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="GOKSiR pod okiem pani instruktor, która jest ich inspiracją. Biorą udział w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="różnych turniejach i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="konkursach. Co będzie w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="przyszłości? Czas pokaże…"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="292.5" YPOS="2058" WIDTH="212.5" HEIGHT="85.8399999999997" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 212.5 0 212.5 0 212.5 0 212.5 0 212.5 85.84 212.5 85.84 212.5 85.84 212.5 85.84 0 85.84 0 85.84 0 85.84 0 85.84 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 212.5 0 212.5 0 212.5 0 212.5 0 212.5 85.84 212.5 85.84 212.5 85.84 212.5 85.84 0 85.84 0 85.84 0 85.84 0 85.84 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Gridy pl Regular" FONTSIZE="14" FEATURES="inherit underline" CH="Ania Jankowska"/>
+            <para/>
+            <tab FONTSIZE="9" FEATURES="inherit"/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="Rysuje, szkicuje od 9 roku życia. Póki co sama dla siebie. Często, kiedy widzi jakąś rzecz, od razu chce ją przenieść na papier. Ma to chyba w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="genach, ponieważ jej mama rysowała w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="młodości. Inspiracją dla niej są obrazy z życia. Postanowiła podzielić się z nami swoją wizją świata."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="119.75" YPOS="2080.5" WIDTH="84" HEIGHT="64.3399999999997" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0335061826884723" LOCALSCY="0.0335061826884723" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../2014-03-17 12.37.36.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 84 0 84 0 84 0 84 0 84 64.34 84 64.34 84 64.34 84 64.34 0 64.34 0 64.34 0 64.34 0 64.34 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 84 0 84 0 84 0 84 0 84 64.34 84 64.34 84 64.34 84 64.34 0 64.34 0 64.34 0 64.34 0 64.34 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="193.5" YPOS="2053.84" WIDTH="88.5" HEIGHT="79.1600000000003" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0345703125" LOCALSCY="0.0345703125" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../2014-03-17 12.36.39.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 88.5 0 88.5 0 88.5 0 88.5 0 88.5 79.16 88.5 79.16 88.5 79.16 88.5 79.16 0 79.16 0 79.16 0 79.16 0 79.16 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 88.5 0 88.5 0 88.5 0 88.5 0 88.5 79.16 88.5 79.16 88.5 79.16 88.5 79.16 0 79.16 0 79.16 0 79.16 0 79.16 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="5" XPOS="116.11" YPOS="2142.03" WIDTH="393.0007156" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="389.25" YPOS="2150" WIDTH="119.25" HEIGHT="72.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0631286394917946" LOCALSCY="0.0631286394917946" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../git/AlejaGwiazd/assets/Ania_i_Michał.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 119.25 0 119.25 0 119.25 0 119.25 0 119.25 72.75 119.25 72.75 119.25 72.75 119.25 72.75 0 72.75 0 72.75 0 72.75 0 72.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 119.25 0 119.25 0 119.25 0 119.25 0 119.25 72.75 119.25 72.75 119.25 72.75 119.25 72.75 0 72.75 0 72.75 0 72.75 0 72.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="5" XPOS="116.11" YPOS="2229.03" WIDTH="393.0007156" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="228" YPOS="2237.84" WIDTH="174" HEIGHT="133.16" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 174 0 174 0 174 0 174 0 174 133.16 174 133.16 174 133.16 174 133.16 0 133.16 0 133.16 0 133.16 0 133.16 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 174 0 174 0 174 0 174 0 174 133.16 174 133.16 174 133.16 174 133.16 0 133.16 0 133.16 0 133.16 0 133.16 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Gridy pl Regular" FONTSIZE="14" FEATURES="inherit underline" CH="Tomek Wójtowicz, Maciek Stępień, Bartek Frąk"/>
+            <para ALIGN="0"/>
+            <tab FONTSIZE="9" FEATURES="inherit"/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="Pasję do modelarstwa zapoczątkował Tomek. Rozpoczął składanie modeli w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="klasie 2, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="reszta chłopaków w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="klasie 4. Obecnie uczy ich pan Bartek Bednarz w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="GOKSiR i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="on ich inspiruje. Najczęściej powstają modele samolotów. Chłopcy mieli już wystawy swoich prac. Lubią to, co robią."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="5" XPOS="116.11" YPOS="2378.03" WIDTH="393.0007156" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="265.5" YPOS="2399.25" WIDTH="238.5" HEIGHT="103.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 238.5 0 238.5 0 238.5 0 238.5 0 238.5 103.5 238.5 103.5 238.5 103.5 238.5 103.5 0 103.5 0 103.5 0 103.5 0 103.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 238.5 0 238.5 0 238.5 0 238.5 0 238.5 103.5 238.5 103.5 238.5 103.5 238.5 103.5 0 103.5 0 103.5 0 103.5 0 103.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Gridy pl Regular" FONTSIZE="14" FEATURES="inherit underline" CH="Bartek Lipski"/>
+            <para/>
+            <tab FONTSIZE="9" FEATURES="inherit"/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="Jego pasja narodziła się w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="2011 roku. Wtedy zaczął interesować się rapem. Występował już podczas ubiegłorocznego koncertu Alei Gwiazd. Tam został dostrzeżony i zaproszony do występu podczas Dni Niedrzwicy. Jest samoukiem, chociaż jego wychowawczyni ma na to inne określenie. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="przyszłości nie zamierza zajmować się rapem, ewentualnie po godzinach pra­cy."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="123" YPOS="2380.84" WIDTH="155.25" HEIGHT="124.16" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.123296921549156" LOCALSCY="0.123296921549156" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../git/AlejaGwiazd/assets/Bartek-avatar.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 155.25 0 155.25 0 155.25 0 155.25 0 155.25 124.16 155.25 124.16 155.25 124.16 155.25 124.16 0 124.16 0 124.16 0 124.16 0 124.16 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 155.25 0 155.25 0 155.25 0 155.25 0 155.25 124.16 155.25 124.16 155.25 124.16 155.25 124.16 0 124.16 0 124.16 0 124.16 0 124.16 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="520.5" YPOS="1943.84" WIDTH="234.5" HEIGHT="79.6600000000005" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 234.5 0 234.5 0 234.5 0 234.5 0 234.5 79.66 234.5 79.66 234.5 79.66 234.5 79.66 0 79.66 0 79.66 0 79.66 0 79.66 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 234.5 0 234.5 0 234.5 0 234.5 0 234.5 79.66 234.5 79.66 234.5 79.66 234.5 79.66 0 79.66 0 79.66 0 79.66 0 79.66 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Gridy pl Regular" FONTSIZE="14" FEATURES="inherit underline" CH="Eliza Brzózka"/>
+            <para/>
+            <tab FONTSIZE="9" FEATURES="inherit"/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="Zaczęła śpiewać w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="3 klasie szkoły podstawowej. Teraz śpiewa w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="chórze. Kilkakrotnie występowała przed szerszą publicznością. Brała udział w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="wielu konkursach. Twierdzi, że nie ma talentu - śpiewa i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="tyle. Po­dob­no zgło­si­ła się do Ale­i, że­by Ib nie mia­ła kart­ków­ki z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="mat­my."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="795" YPOS="1943.5" WIDTH="104.25" HEIGHT="75.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.125833333333333" LOCALSCY="0.125833333333333" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../git/AlejaGwiazd/assets/Eliza_Brzózka.jpg" PFILE2="" PFILE3="" PRFILE="Embedded c2" EPROF="Embedded c2" IRENDER="0" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 104.25 0 104.25 0 104.25 0 104.25 0 104.25 75.5 104.25 75.5 104.25 75.5 104.25 75.5 0 75.5 0 75.5 0 75.5 0 75.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 104.25 0 104.25 0 104.25 0 104.25 0 104.25 75.5 104.25 75.5 104.25 75.5 104.25 75.5 0 75.5 0 75.5 0 75.5 0 75.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="5" XPOS="519.11" YPOS="2028.03" WIDTH="393.0007156" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="608.25" YPOS="2030.84" WIDTH="208.5" HEIGHT="104.410000000001" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 208.5 0 208.5 0 208.5 0 208.5 0 208.5 104.41 208.5 104.41 208.5 104.41 208.5 104.41 0 104.41 0 104.41 0 104.41 0 104.41 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 208.5 0 208.5 0 208.5 0 208.5 0 208.5 104.41 208.5 104.41 208.5 104.41 208.5 104.41 0 104.41 0 104.41 0 104.41 0 104.41 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Gridy pl Regular" FONTSIZE="14" FEATURES="inherit underline" CH="Iza Grzegorzewska i"/>
+            <nbspace/>
+            <ITEXT FONT="Gridy pl Regular" FONTSIZE="14" FEATURES="inherit underline" CH="Dawid Pietrzak"/>
+            <para/>
+            <tab FONTSIZE="9" FEATURES="inherit"/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="Iza od dziecka uwielbia gotować. Dawida wybrała do współpracy zupełnie spontanicznie. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="przyszłości Iza zamierza gotować tylko dla swojej rodziny, ale jeżeli jej plany powiodą się, to pójdzie do szkoły gastronomicznej. Podczas pokazu talentów Dawid przygotuje danie niespodziankę, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="Iza upiecze ciasto."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="5" XPOS="519.11" YPOS="2135.03" WIDTH="393.0007156" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="523.5" YPOS="2144.5" WIDTH="234" HEIGHT="97.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 234 0 234 0 234 0 234 0 234 97.5 234 97.5 234 97.5 234 97.5 0 97.5 0 97.5 0 97.5 0 97.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 234 0 234 0 234 0 234 0 234 97.5 234 97.5 234 97.5 234 97.5 0 97.5 0 97.5 0 97.5 0 97.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Gridy pl Regular" FONTSIZE="14" FEATURES="inherit underline" CH="Marcin Pietrzak, Kuba Antoń, Michał Sidor - &quot;MaJaMi&quot;"/>
+            <para/>
+            <tab FONTSIZE="9" FEATURES="inherit"/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="Grają razem od miesiąca (w tym składzie od dwóch godzin). Ich pierwszy wspólny występ odbył się podczas Szkolnego Przeglądu Pieśni Patriotycznych. Tylko jeden z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="nich wiąże przyszłość z muzyką (jeszcze nie wiemy, który…). Wyróżnia ich najwyższa w szkole średnia - wzrostu.  "/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="772.5" YPOS="2139.84" WIDTH="132.25" HEIGHT="102.41" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0582868525896416" LOCALSCY="0.0582868525896416" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../git/AlejaGwiazd/assets/MaJaMi-avatar.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 132.25 0 132.25 0 132.25 0 132.25 0 132.25 102.41 132.25 102.41 132.25 102.41 132.25 102.41 0 102.41 0 102.41 0 102.41 0 102.41 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 132.25 0 132.25 0 132.25 0 132.25 0 132.25 102.41 132.25 102.41 132.25 102.41 132.25 102.41 0 102.41 0 102.41 0 102.41 0 102.41 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="5" XPOS="519.11" YPOS="2246.03" WIDTH="393.0007156" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="621" YPOS="2254.75" WIDTH="283.5" HEIGHT="95.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 283.5 0 283.5 0 283.5 0 283.5 0 283.5 95.25 283.5 95.25 283.5 95.25 283.5 95.25 0 95.25 0 95.25 0 95.25 0 95.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 283.5 0 283.5 0 283.5 0 283.5 0 283.5 95.25 283.5 95.25 283.5 95.25 283.5 95.25 0 95.25 0 95.25 0 95.25 0 95.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Gridy pl Regular" FONTSIZE="14" FEATURES="inherit underline" CH="Marcin Grudziński i"/>
+            <nbspace/>
+            <ITEXT FONT="Gridy pl Regular" FONTSIZE="14" FEATURES="inherit underline" CH="Ola Próchnicka"/>
+            <para/>
+            <tab FONTSIZE="9" FEATURES="inherit"/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="Tańczą razem od 2,5 miesiąca taniec towarzyski. Piszą codziennie na fb, dzięki temu mają stały kontakt. Uczą się wzajemnie tańczyć. Marcin jest związany z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="Festą od 7 lat, ale w ubiegłym roku tańczył na gali Alei z inną partnerką."/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="Ola swoją przygodę z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="tańcem towarzyskim zaczęła 2 lata temu. Biorą udział w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="wielu konkursach i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="turniejach. Nigdy wcześniej nie tańczyli razem. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="wolnych chwilach Ola działa w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="harcerstwie, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="Marcin gra na komputerze."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="523.5" YPOS="2251.84" WIDTH="86.4999999999999" HEIGHT="95" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0607416879795396" LOCALSCY="0.0607416879795396" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../git/AlejaGwiazd/assets/Ola_i_Marcin.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 86.5 0 86.5 0 86.5 0 86.5 0 86.5 95 86.5 95 86.5 95 86.5 95 0 95 0 95 0 95 0 95 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 86.5 0 86.5 0 86.5 0 86.5 0 86.5 95 86.5 95 86.5 95 86.5 95 0 95 0 95 0 95 0 95 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="5" XPOS="519.11" YPOS="2356.03" WIDTH="393.0007156" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="520.5" YPOS="2366" WIDTH="267" HEIGHT="65.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 267 0 267 0 267 0 267 0 267 65.25 267 65.25 267 65.25 267 65.25 0 65.25 0 65.25 0 65.25 0 65.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 267 0 267 0 267 0 267 0 267 65.25 267 65.25 267 65.25 267 65.25 0 65.25 0 65.25 0 65.25 0 65.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Gridy pl Regular" FONTSIZE="14" FEATURES="inherit underline" CH="Izabela Sieńczyk"/>
+            <para/>
+            <tab FONTSIZE="9" FEATURES="inherit"/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="Miała już okazję występować przed szerszą publicznością. Lubi wykonywać „lekkie” piosenki. Inspiruje się wieloma osobami, aż trudno jej wymienić konkretne nazwiska. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="przyszłości chce spróbować swoich sił właśnie w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="śpiewaniu."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="5" XPOS="519.11" YPOS="2429.03" WIDTH="393.0007156" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="617.25" YPOS="2442.75" WIDTH="282" HEIGHT="72.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 282 0 282 0 282 0 282 0 282 72.5 282 72.5 282 72.5 282 72.5 0 72.5 0 72.5 0 72.5 0 72.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 282 0 282 0 282 0 282 0 282 72.5 282 72.5 282 72.5 282 72.5 0 72.5 0 72.5 0 72.5 0 72.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Gridy pl Regular" FONTSIZE="14" FEATURES="inherit underline" CH="Konrad Kędzierski"/>
+            <para/>
+            <tab FONTSIZE="14" FEATURES="inherit"/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="Z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="keyboardem jest związany od 8 lat. Gra też na gitarze. Dwa razy występował przed dużą publicznością. Na początku uczył się z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="instruktorem, teraz sam pró­bu­je­ rozwijać swoją pasję."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="553.75" YPOS="2431.75" WIDTH="106.5" HEIGHT="75.75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0394736842105263" LOCALSCY="0.0394736842105263" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../git/AlejaGwiazd/assets/Konrad-avatar.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 106.5 0 106.5 0 106.5 0 106.5 0 106.5 75.75 106.5 75.75 106.5 75.75 106.5 75.75 0 75.75 0 75.75 0 75.75 0 75.75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 106.5 0 106.5 0 106.5 0 106.5 0 106.5 75.75 106.5 75.75 106.5 75.75 106.5 75.75 0 75.75 0 75.75 0 75.75 0 75.75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="957.75" YPOS="1538.56" WIDTH="394.75" HEIGHT="267" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 394.75 0 394.75 0 394.75 0 394.75 0 394.75 267 394.75 267 394.75 267 394.75 267 0 267 0 267 0 267 0 267 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 394.75 0 394.75 0 394.75 0 394.75 0 394.75 267 394.75 267 394.75 267 394.75 267 0 267 0 267 0 267 0 267 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Lemonade pl Regular" FONTSIZE="23" CH="Wywiad z Pawłem Pasierbowiczem "/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Bold" CH="Redaktorki:"/>
+            <ITEXT FONT="Liberation Serif Italic" CH=" Wiemy, że od dawna interesujesz się jazdą na rowerze, trochę w innym stylu niż tradycyjny. Skąd się wzięła Twoja pasja?"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Bold" CH="Paweł:"/>
+            <ITEXT FONT="Liberation Serif Italic" CH=" Moja pasja wzięła się stąd, że od dzieciństwa lubiłem rowery i nagle znudziło mi się takie normalne jeżdżenie."/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Bold" CH="Redaktorki:"/>
+            <ITEXT FONT="Liberation Serif Italic" CH=" Od kiedy w ogóle zajmujesz się jazdą na rowerze?"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Bold" CH="Paweł:"/>
+            <ITEXT FONT="Liberation Serif Italic" CH=" Od około 2-3 lat."/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Bold" CH="Redaktorki:"/>
+            <ITEXT FONT="Liberation Serif Italic" CH=" Co w tym sporcie najbardziej Ci się podoba? "/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Bold" CH="Paweł:"/>
+            <ITEXT FONT="Liberation Serif Italic" CH=" Kiedy uda mi się coś nowego zrobić, jak się czegoś nowego nauczę."/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Bold" CH="Redaktorki:"/>
+            <ITEXT FONT="Liberation Serif Italic" CH=" Ile czasu dziennie spędzasz na jeździe rowerem? "/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Bold" CH="Paweł:"/>
+            <ITEXT FONT="Liberation Serif Italic" CH=" Około 3 godzin."/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Bold" CH="Redaktorki:"/>
+            <ITEXT FONT="Liberation Serif Italic" CH=" Czy oprócz tego masz jakieś inne hobby?"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Bold" CH="Paweł:"/>
+            <ITEXT FONT="Liberation Serif Italic" CH=" Zajmuję się mechaniką."/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Bold" CH="Redaktorki:"/>
+            <ITEXT FONT="Liberation Serif Italic" CH=" Jak przeżyłeś rozłąkę z rowerem przez okres zimowy?"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Bold" CH="Paweł:"/>
+            <ITEXT FONT="Liberation Serif Italic" CH=" Jeździłem cały czas na rowerze, nawet w zimie, także właściwie się z nim nie rozstawałem."/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Bold" CH="Redaktorki:"/>
+            <ITEXT FONT="Liberation Serif Italic" CH=" Dziękujemy za rozmowę. Życzymy Ci dalszego rozwijania Twojej pasji."/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Bold" CH="Paweł:"/>
+            <ITEXT FONT="Liberation Serif Italic" CH=" Dziękuję i oczywiście wszystkich zachęcam do spędzania wolnego czasu właśnie na rowerze."/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Italic" CH="Redaktorki: Sylwia i Agata"/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="957.75" YPOS="1306.5" WIDTH="243.75" HEIGHT="106.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 243.75 0 243.75 0 243.75 0 243.75 0 243.75 106.5 243.75 106.5 243.75 106.5 243.75 106.5 0 106.5 0 106.5 0 106.5 0 106.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 243.75 0 243.75 0 243.75 0 243.75 0 243.75 106.5 243.75 106.5 243.75 106.5 243.75 106.5 0 106.5 0 106.5 0 106.5 0 106.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Gridy pl Regular" FONTSIZE="14" FEATURES="inherit underline" CH="Ania Jankowska oraz Adrian Bednarz"/>
+            <para/>
+            <tab FONTSIZE="14" FEATURES="inherit"/>
+            <ITEXT FONTSIZE="9" FEATURES="inherit" CH="Śpiewają razem od niedawna. Raczej przez przypadek. Podczas klasowego pokazu talentów spróbowali siły połączonych głosów i uznali, że warto pójść w tym kierunku. Reperuar nie jest łatwy, ale efekt zestawienia takich głosów powala."/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="1210.5" YPOS="1306" WIDTH="150.39" HEIGHT="105.56" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.0703264490339772" LOCALSCY="0.0703264490339772" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../git/AlejaGwiazd/assets/Ania_i_Adrian.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 150.39 0 150.39 0 150.39 0 150.39 0 150.39 105.56 150.39 105.56 150.39 105.56 150.39 105.56 0 105.56 0 105.56 0 105.56 0 105.56 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 150.39 0 150.39 0 150.39 0 150.39 0 150.39 105.56 150.39 105.56 150.39 105.56 150.39 105.56 0 105.56 0 105.56 0 105.56 0 105.56 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="5" XPOS="959" YPOS="1421.75" WIDTH="393.0007156" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="1208" YPOS="1430.56" WIDTH="140.5" HEIGHT="100.19" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.139152777777778" LOCALSCY="0.139152777777778" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../git/AlejaGwiazd/assets/Misiek-avatar.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 140.5 0 140.5 0 140.5 0 140.5 0 140.5 100.19 140.5 100.19 140.5 100.19 140.5 100.19 0 100.19 0 100.19 0 100.19 0 100.19 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 140.5 0 140.5 0 140.5 0 140.5 0 140.5 100.19 140.5 100.19 140.5 100.19 140.5 100.19 0 100.19 0 100.19 0 100.19 0 100.19 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="5" XPOS="959" YPOS="1803.75" WIDTH="393.0007156" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="960" YPOS="1807.5" WIDTH="284.25" HEIGHT="66" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Friends pl Regular" ISIZE="19" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 284.25 0 284.25 0 284.25 0 284.25 0 284.25 66 284.25 66 284.25 66 284.25 66 0 66 0 66 0 66 0 66 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 284.25 0 284.25 0 284.25 0 284.25 0 284.25 66 284.25 66 284.25 66 284.25 66 0 66 0 66 0 66 0 66 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Friends pl Regular" FONTSIZE="19" CH="To miejsce czeka na "/>
+            <ITEXT FONT="Friends pl Regular" FONTSIZE="19" FEATURES="inherit underline" CH="Cie­bie­!!!"/>
+            <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="1276.75" YPOS="1805.75" WIDTH="68.1399999999996" HEIGHT="63" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.176470588235294" LOCALSCY="0.176470588235294" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../ludź.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 68.14 0 68.14 0 68.14 0 68.14 0 68.14 63 68.14 63 68.14 63 68.14 63 0 63 0 63 0 63 0 63 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 68.14 0 68.14 0 68.14 0 68.14 0 68.14 63 68.14 63 68.14 63 68.14 63 0 63 0 63 0 63 0 63 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
