@@ -209,16 +209,61 @@
             <ITEXT CH="Dro­dzy Czy­tel­ni­cy!!!"/>
             <para PARENT="Strona tytułowa_default-style" ALIGN="1"/>
             <tab/>
-            <ITEXT CH="Po raz ko­lej­ny wy­da­je­my spe­cjal­ny nu­mer na­szej szkol­nej ga­zet­ki z oka­zji VI edy­cji kon­kur­su eko­lo­gicz­no-re­gio­nal­ne­go pod pa­tro­na­tem Lu­bel­skie­go Ku­ra­to­ra Oświa­ty. Ce­lem kon­kur­su jest po­zna­nie eko-ta­jem­nic re­gio­nu Lu­belsz­czy­zny oraz wa­lo­rów przy­rod­ni­czych swo­jej Ma­łej Oj­czy­zny. W tym za­kre­sie przed­sta­wia­my wie­le wy­jąt­ko­wych i nie­po­wta­rzal­nych miejsc oraz za­kąt­ków, któ­re z pew­no­ścią wzbu­dzą Wa­szą cie­ka­wość. Po­zna­cie sze­reg eko-in­sty­tu­cji i or­ga­ni­za­cji, któ­re wspie­ra­ją śro­do­wi­ska lo­kal­ne na po­zio­mie ochro­ny przy­ro­dy. "/>
+            <ITEXT CH="Po raz ko­lej­ny wy­da­je­my spe­cjal­ny nu­mer na­szej szkol­nej ga­zet­ki z"/>
+            <nbspace/>
+            <ITEXT CH="oka­zji VI edy­cji kon­kur­su eko­lo­gicz­no-re­gio­nal­ne­go pod pa­tro­na­tem Lu­bel­skie­go Ku­ra­to­ra Oświa­ty. Ce­lem kon­kur­su jest po­zna­nie eko-ta­jem­nic re­gio­nu Lu­belsz­czy­zny oraz wa­lo­rów przy­rod­ni­czych swo­jej Ma­łej Oj­czy­zny. W"/>
+            <nbspace/>
+            <ITEXT CH="tym za­kre­sie przed­sta­wia­my wie­le wy­jąt­ko­wych i"/>
+            <nbspace/>
+            <ITEXT CH="nie­po­wta­rzal­nych miejsc oraz za­kąt­ków, któ­re z"/>
+            <nbspace/>
+            <ITEXT CH="pew­no­ścią wzbu­dzą Wa­szą cie­ka­wość. Po­zna­cie sze­reg eko-in­sty­tu­cji i"/>
+            <nbspace/>
+            <ITEXT CH="or­ga­ni­za­cji, któ­re wspie­ra­ją śro­do­wi­ska lo­kal­ne na po­zio­mie ochro­ny przy­ro­dy. "/>
             <para PARENT="Strona tytułowa_default-style"/>
             <tab/>
-            <ITEXT CH="Ży­wi­my na­dzie­ję, że ta krót­ka pra­ca przy­czy­ni się do grun­tow­nych po­szu­ki­wań wie­dzy prak­tycz­nej, któ­ra, być mo­że, za­szcze­pi w wie­lu z Was żył­kę praw­dzi­wych eko­lo­gów. "/>
+            <ITEXT CH="Ży­wi­my na­dzie­ję, że ta krót­ka pra­ca przy­czy­ni się do grun­tow­nych po­szu­ki­wań wie­dzy prak­tycz­nej, któ­ra, być mo­że, za­szcze­pi w"/>
+            <nbspace/>
+            <ITEXT CH="wie­lu z"/>
+            <nbspace/>
+            <ITEXT CH="Was żył­kę praw­dzi­wych eko­lo­gów. "/>
             <para PARENT="Strona tytułowa_default-style"/>
             <tab/>
             <ITEXT CH="Ży­czy­my mi­łej lek­tu­ry!"/>
             <para PARENT="Strona tytułowa_default-style"/>
             <ITEXT CH="Na­ta­lia P. "/>
             <para PARENT="Strona tytułowa_P1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="1376.89" YPOS="383.25" WIDTH="263.36" HEIGHT="214.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Serif Italic" ISIZE="13" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 263.36 0 263.36 0 263.36 0 263.36 0 263.36 214.5 263.36 214.5 263.36 214.5 263.36 214.5 0 214.5 0 214.5 0 214.5 0 214.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 263.36 0 263.36 0 263.36 0 263.36 0 263.36 214.5 263.36 214.5 263.36 214.5 263.36 214.5 0 214.5 0 214.5 0 214.5 0 214.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="13" CH="Wszystko, co piękne w naszym regionie, "/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="13" CH="walory przyrodnicze wprost nieocenione"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="13" CH="chcemy pokazywać i chwalić się nimi"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="13" CH="i wiosną i latem i nawet w środku zimy."/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="13" CH="Pomniki przyrody, lśniące tafle wody"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="13" CH="staramy się szanować i Państwu prezentować."/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="13" CH="Bogactwo naszej gminy wspólnie obejrzymy"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="13" CH="a również pokażemy walory lubelskiej ziemi."/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="13" CH="Staramy się wszyscy chronić, co nam bliskie"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="13" CH="dbać o swoje sprawy i eko – postawy"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="13" CH="Kto się chce przyłączyć niech po stronach błądzi"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="13" CH="czyta i studiuje i nas akceptuje."/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="13" CH="Jest tu tego dużo: zdjęcia, teksty zwięzłe"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="13" CH="A w centrum przyrody nasze wielkie serce!!!!"/>
+            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
