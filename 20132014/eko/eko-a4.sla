@@ -10,6 +10,7 @@
         <COLOR NAME="Blue" RGB="#0000ff" Spot="0" Register="0"/>
         <COLOR NAME="Cool Black" CMYK="#990000ff" Spot="0" Register="0"/>
         <COLOR NAME="Cyan" CMYK="#ff000000" Spot="0" Register="0"/>
+        <COLOR NAME="FromGetText#4d4d4f" RGB="#4d4d4f" Spot="0" Register="0"/>
         <COLOR NAME="Green" RGB="#00ff00" Spot="0" Register="0"/>
         <COLOR NAME="Magenta" CMYK="#00ff0000" Spot="0" Register="0"/>
         <COLOR NAME="Red" RGB="#ff0000" Spot="0" Register="0"/>
@@ -19,11 +20,18 @@
         <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
         <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
         <HYPHEN/>
-        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Liberation Sans Regular" FONTSIZE="20"/>
+        <STYLE NAME="Default Paragraph Style" ALIGN="0" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Liberation Sans Regular" FONTSIZE="20"/>
         <STYLE NAME="Kopia Default Paragraph Style z (1)" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONTSIZE="11"/>
         <STYLE NAME="Strona tytułowa_P1" ALIGN="2" LINESPMode="0" LINESP="14.4" FONT="Liberation Serif Regular" FONTSIZE="12" FCOLOR="Black" KERN="0"/>
         <STYLE NAME="Strona tytułowa_default-style" LINESPMode="0" LINESP="14.4" FONT="Liberation Serif Regular" FONTSIZE="12" FCOLOR="Black" KERN="0"/>
         <STYLE NAME="Kopia Default Paragraph Style z (2)" ALIGN="3" LINESPMode="1" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONTSIZE="11"/>
+        <STYLE NAME="Kalendarzyk ekologiczny-1_P2" ALIGN="1" LINESPMode="0" LINESP="13.2" VOR="0" NACH="0" FONT="Roboto Regular" FONTSIZE="11" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="Kalendarzyk ekologiczny-1_P3" LINESPMode="0" LINESP="14.4" VOR="0" NACH="0" FONT="Liberation Serif Regular" FONTSIZE="12" FCOLOR="FromGetText#4d4d4f" KERN="0"/>
+        <STYLE NAME="Kalendarzyk ekologiczny-1_P1" LINESPMode="0" LINESP="15.84" VOR="0" NACH="0" FONT="Roboto Regular" FONTSIZE="11" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="Kalendarzyk ekologiczny-1_P4" LINESPMode="0" LINESP="13.2" VOR="0" NACH="0" FONT="Roboto Regular" FONTSIZE="11" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="Kalendarzyk ekologiczny-1_default-style" LINESPMode="0" LINESP="13.2" VOR="0" NACH="10.0062992125984" FONT="Roboto Regular" FONTSIZE="11" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="Kalendarzyk ekologiczny-1_No_20_List_1" LINESPMode="0" LINESP="15" FONT="Roboto Regular" FONTSIZE="11" FCOLOR="Black" KERN="0"/>
+        <STYLE NAME="Kalendarzyk ekologiczny-1_List_20_Paragraph" LINESPMode="0" LINESP="15.84" INDENT="36" FIRST="0" VOR="0" NACH="10.0062992125984" FONT="Roboto Regular" FONTSIZE="11" FCOLOR="Black" KERN="0"/>
         <CHARSTYLE CNAME="Default Character Style" FONT="10.15 Saturday Night BRK Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Polish"/>
         <CHARSTYLE CNAME="Kopia Default Character Style z (1)" FONT="Liberation Sans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Polish"/>
         <CHARSTYLE CNAME="Kopia Default Character Style z (2)" FONT="Liberation Sans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Polish"/>
@@ -148,125 +156,153 @@
             <PageItemAttributes/>
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="739.5" YPOS="491" WIDTH="342" HEIGHT="268.5" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Serif Italic" ISIZE="16" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 342 0 342 0 342 0 342 0 342 268.5 342 268.5 342 268.5 342 268.5 0 268.5 0 268.5 0 268.5 0 268.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 342 0 342 0 342 0 342 0 342 268.5 342 268.5 342 268.5 342 268.5 0 268.5 0 268.5 0 268.5 0 268.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="8.92579434052811" gYpos="466.314466420437" gWidth="509.7077444" gHeight="756.24479307" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="Wszystko, co piękne w naszym regionie, "/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="Wszystko, co piękne w"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="naszym regionie, "/>
             <para LINESPMode="1"/>
             <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="walory przyrodnicze wprost nieocenione"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="chcemy pokazywać i chwalić się nimi"/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="chcemy pokazywać i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="chwalić się nimi"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="i wiosną i latem i nawet w środku zimy."/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="wiosną i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="latem i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="nawet w"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="środku zimy."/>
             <para LINESPMode="1"/>
             <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="Pomniki przyrody, lśniące tafle wody"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="staramy się szanować i Państwu prezentować."/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="staramy się szanować i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="Państwu prezentować."/>
             <para LINESPMode="1"/>
             <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="Bogactwo naszej gminy wspólnie obejrzymy"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="a również pokażemy walory lubelskiej ziemi."/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="a"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="również pokażemy walory lubelskiej ziemi."/>
             <para LINESPMode="1"/>
             <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="Staramy się wszyscy chronić, co nam bliskie"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="dbać o swoje sprawy i eko – postawy"/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="dbać o"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="swoje sprawy i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="eko – postawy"/>
             <para LINESPMode="1"/>
             <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="Kto się chce przyłączyć niech po stronach błądzi"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="czyta i studiuje i nas akceptuje."/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="czyta i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="studiuje i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="nas akceptuje."/>
             <para LINESPMode="1"/>
             <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="Jest tu tego dużo: zdjęcia, teksty zwięzłe"/>
             <para LINESPMode="1"/>
-            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="A w centrum przyrody nasze wielkie serce!!!!"/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="A"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="w"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Italic" FONTSIZE="16" CH="centrum przyrody nasze wielkie serce!!!!"/>
             <trail LINESPMode="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="144.393167701863" YPOS="995.013162005277" WIDTH="505.475776397516" HEIGHT="416.986837994723" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="14.5" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 505.476 0 505.476 0 505.476 0 505.476 0 505.476 416.987 505.476 416.987 505.476 416.987 505.476 416.987 0 416.987 0 416.987 0 416.987 0 416.987 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 505.476 0 505.476 0 505.476 0 505.476 0 505.476 416.987 505.476 416.987 505.476 416.987 505.476 416.987 0 416.987 0 416.987 0 416.987 0 416.987 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="1.89316770186335" gYpos="58.403162005277" gWidth="508" gHeight="478.28" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <tab FONTSIZE="14.5"/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="Na terenie całej Polski istnieje wiele kompleksów, których zadaniem jest ochrona unikalnych form przyrody ożywionej i"/>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="144.393167701863" YPOS="995.013162005277" WIDTH="505.475776397516" HEIGHT="416.986837994723" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="14" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 505.476 0 505.476 0 505.476 0 505.476 0 505.476 416.987 505.476 416.987 505.476 416.987 505.476 416.987 0 416.987 0 416.987 0 416.987 0 416.987 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 505.476 0 505.476 0 505.476 0 505.476 0 505.476 416.987 505.476 416.987 505.476 416.987 505.476 416.987 0 416.987 0 416.987 0 416.987 0 416.987 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="1.89316770186335" gYpos="58.403162005277" gWidth="508" gHeight="478.28" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <tab FONTSIZE="14"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="Na terenie całej Polski istnieje wiele kompleksów, których zadaniem jest ochrona unikalnych form przyrody ożywionej i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="nieożywionej, występujących tylko na danym obszarze, będących dla niego charakterystycznymi. Powołane w"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="nieożywionej, występujących tylko na danym obszarze, będących dla niego charakterystycznymi. Powołane w"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="tym celu instytucje, zgodnie z"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="tym celu instytucje, zgodnie z"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="obowiązującą aktualnie Ustawą z"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="obowiązującą aktualnie Ustawą z"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="dnia 16 kwietnia 2004 r. mają za zadanie:"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="dnia 16 kwietnia 2004 r. mają za zadanie:"/>
             <para ALIGN="3"/>
-            <tab FONT="Liberation Sans Regular" FONTSIZE="14.5"/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="•"/>
+            <tab FONT="Liberation Sans Regular" FONTSIZE="14"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="•"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="utrzymać stabilności ekosystemów i"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="utrzymać stabilności ekosystemów i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="trwałości procesów ekologicznych"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="trwałości procesów ekologicznych"/>
             <para ALIGN="3"/>
-            <tab FONT="Liberation Sans Regular" FONTSIZE="14.5"/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="•"/>
+            <tab FONT="Liberation Sans Regular" FONTSIZE="14"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="•"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="zachować różnorodności biologicznej, - zapewnić ciągłość istnienia wszystkich gatunków roślin, zwierząt i"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="zachować różnorodności biologicznej, - zapewnić ciągłość istnienia wszystkich gatunków roślin, zwierząt i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="grzybów wraz z"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="grzybów wraz z"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="ich siedliskami"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="ich siedliskami"/>
             <para ALIGN="3"/>
-            <tab FONT="Liberation Sans Regular" FONTSIZE="14.5"/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="•"/>
+            <tab FONT="Liberation Sans Regular" FONTSIZE="14"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="•"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="chronić walory krajobrazowe, zadrzewienia oraz zieleń w"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="chronić walory krajobrazowe, zadrzewienia oraz zieleń w"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="miastach i"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="miastach i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="wsiach"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="wsiach"/>
             <para ALIGN="3"/>
-            <tab FONT="Liberation Sans Regular" FONTSIZE="14.5"/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="•"/>
+            <tab FONT="Liberation Sans Regular" FONTSIZE="14"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="•"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="utrzymywać lub przywracać do właściwego stanu ochrony siedlisk przyrodniczych, a"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="utrzymywać lub przywracać do właściwego stanu ochrony siedlisk przyrodniczych, a"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="także pozostałych zasobów, tworów i"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="także pozostałych zasobów, tworów i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="składników przyrody"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="składników przyrody"/>
             <para ALIGN="3"/>
-            <tab FONT="Liberation Sans Regular" FONTSIZE="14.5"/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="•"/>
+            <tab FONT="Liberation Sans Regular" FONTSIZE="14"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="•"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="chronić w"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="chronić w"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="celu zachowania dla przyszłych pokoleń dziedzictwo geologiczne i"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="celu zachowania dla przyszłych pokoleń dziedzictwo geologiczne i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="paleontologiczne"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="paleontologiczne"/>
             <para ALIGN="3"/>
-            <tab FONT="Liberation Sans Regular" FONTSIZE="14.5"/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="•"/>
+            <tab FONT="Liberation Sans Regular" FONTSIZE="14"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="•"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="prowadzić działalność informacyjną, promocyjną i"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="prowadzić działalność informacyjną, promocyjną i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="edukacyjną (m.in. kształtowanie właściwych postaw człowieka wobec środowiska naturalnego"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="edukacyjną (m.in. kształtowanie właściwych postaw człowieka wobec środowiska naturalnego"/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
-            <tab FONT="Liberation Sans Regular" FONTSIZE="14.5"/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="Aby właściwie osiągać te cele i"/>
+            <tab FONT="Liberation Sans Regular" FONTSIZE="14"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="Aby właściwie osiągać te cele i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="stale nadzorować bezpieczeństwo chronionych gatunków, powołuje się różne instytucje, których zasady funkcjonowania określane są przez zrzeszane przez nie obiekty przyrody ożywionej i"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="stale nadzorować bezpieczeństwo chronionych gatunków, powołuje się różne instytucje, których zasady funkcjonowania określane są przez zrzeszane przez nie obiekty przyrody ożywionej i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="nieożywionej. Wśród form ochrony przyrody udokumentowanych w"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="nieożywionej. Wśród form ochrony przyrody udokumentowanych w"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14.5" CH="Polsce wyodrębniamy: "/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="Polsce wyodrębniamy: "/>
             <para ALIGN="3"/>
-            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14.5" CH="• Parki narodowe"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14" CH="• Parki narodowe"/>
             <para ALIGN="3"/>
-            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14.5" CH="• Rezerwaty przyrody"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14" CH="• Rezerwaty przyrody"/>
             <para ALIGN="3"/>
-            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14.5" CH="• Parki krajobrazowe"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14" CH="• Parki krajobrazowe"/>
             <para ALIGN="3"/>
-            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14.5" CH="• Obszary chronionego krajobrazu"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14" CH="• Obszary chronionego krajobrazu"/>
             <para ALIGN="3"/>
-            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14.5" CH="• Obszary Natura 2000"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14" CH="• Obszary Natura 2000"/>
             <para ALIGN="3"/>
-            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14.5" CH="• Użytki ekologiczne"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14" CH="• Użytki ekologiczne"/>
             <para ALIGN="3"/>
-            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14.5" CH="• Zespoły przyrodniczo – krajobrazowe"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14" CH="• Zespoły przyrodniczo – krajobrazowe"/>
             <para ALIGN="3"/>
-            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14.5" CH="• Stanowiska dokumentacyjne"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14" CH="• Stanowiska dokumentacyjne"/>
             <para ALIGN="3"/>
-            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14.5" CH="• Pomniki przyrody"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14" CH="• Pomniki przyrody"/>
             <trail ALIGN="3"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -275,35 +311,355 @@
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="737.3931677" YPOS="1309.5" WIDTH="505.4757764" HEIGHT="389.50000001" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="14.5" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 505.476 0 505.476 0 505.476 0 505.476 0 505.476 389.5 505.476 389.5 505.476 389.5 505.476 389.5 0 389.5 0 389.5 0 389.5 0 389.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 505.476 0 505.476 0 505.476 0 505.476 0 505.476 389.5 505.476 389.5 505.476 389.5 505.476 389.5 0 389.5 0 389.5 0 389.5 0 389.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="14.5" CH="W dzisiejszych czasach na terenie całej Polski  istnieje wiele instytucji  zajmujących się ochroną środowiska naturalnego. Mimo to młodzież nie dysponuje wiedzą na temat ich funkcjonowania. Dlatego też pragnęlibyśmy zadać Panu kilka pytań na ten temat. "/>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="737.3931677" YPOS="1032.5" WIDTH="505.4757764" HEIGHT="389.50000001" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="14.5" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 505.476 0 505.476 0 505.476 0 505.476 0 505.476 389.5 505.476 389.5 505.476 389.5 505.476 389.5 0 389.5 0 389.5 0 389.5 0 389.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 505.476 0 505.476 0 505.476 0 505.476 0 505.476 389.5 505.476 389.5 505.476 389.5 505.476 389.5 0 389.5 0 389.5 0 389.5 0 389.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="14.5" CH="W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="14.5" CH="dzisiejszych czasach na terenie całej Polski  istnieje wiele instytucji  zajmujących się ochroną środowiska naturalnego. Mimo to młodzież nie dysponuje wiedzą na temat ich funkcjonowania. Dlatego też pragnęlibyśmy zadać Panu kilka pytań na ten temat. "/>
             <para ALIGN="3"/>
             <para/>
             <para/>
             <ITEXT FONTSIZE="14.5" CH="1.  Od kiedy RDLP prowadzi swoją działalność?"/>
             <para/>
-            <ITEXT FONTSIZE="14.5" CH="2. Czym zajmuje się Regionalna Dyrekcja Lasów Państwowych w Lublinie? Jakie są kompetencje RDLP? Czy prowadzi działalność proekologiczną?"/>
+            <ITEXT FONTSIZE="14.5" CH="2. Czym zajmuje się Regionalna Dyrekcja Lasów Państwowych w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="14.5" CH="Lublinie? Jakie są kompetencje RDLP? Czy prowadzi działalność proekologiczną?"/>
             <para/>
-            <ITEXT FONTSIZE="14.5" CH="3. Jaki obszar znajduje się o obrębie działań RDLP?"/>
+            <ITEXT FONTSIZE="14.5" CH="3. Jaki obszar znajduje się o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="14.5" CH="obrębie działań RDLP?"/>
             <para/>
-            <ITEXT FONTSIZE="14.5" CH="4. Jakie rzadkie gatunki fauny i flory są charakterystyczne dla Lubelszczyzny?"/>
+            <ITEXT FONTSIZE="14.5" CH="4. Jakie rzadkie gatunki fauny i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="14.5" CH="flory są charakterystyczne dla Lubelszczyzny?"/>
             <para/>
-            <ITEXT FONTSIZE="14.5" CH="5. Czy RDLP współpracuje z organizacjami młodzieżowymi, np. wolontariatami?"/>
+            <ITEXT FONTSIZE="14.5" CH="5. Czy RDLP współpracuje z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="14.5" CH="organizacjami młodzieżowymi, np. wolontariatami?"/>
             <para/>
-            <ITEXT FONTSIZE="14.5" CH="6. Czy RDLP prowadzi działalność na rzecz edukacji publicznej w szczególności w zakresie ochrony środowiska? "/>
+            <ITEXT FONTSIZE="14.5" CH="6. Czy RDLP prowadzi działalność na rzecz edukacji publicznej w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="14.5" CH="szczególności w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="14.5" CH="zakresie ochrony środowiska? "/>
             <para/>
-            <ITEXT FONTSIZE="14.5" CH="7. W jaki sposób w praktyce RDLP realizuje zamierzone cele? "/>
+            <ITEXT FONTSIZE="14.5" CH="7. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="14.5" CH="jaki sposób w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="14.5" CH="praktyce RDLP realizuje zamierzone cele? "/>
             <para/>
             <para/>
             <ITEXT FONTSIZE="14.5" CH="Agata T."/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="735.5" YPOS="1237.61" WIDTH="515.5" HEIGHT="61.3899999999999" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Nimbus Mono L Regular" ISIZE="38" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.5 0 515.5 0 515.5 0 515.5 0 515.5 61.39 515.5 61.39 515.5 61.39 515.5 61.39 0 61.39 0 61.39 0 61.39 0 61.39 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.5 0 515.5 0 515.5 0 515.5 0 515.5 61.39 515.5 61.39 515.5 61.39 515.5 61.39 0 61.39 0 61.39 0 61.39 0 61.39 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="735.5" YPOS="942.5" WIDTH="515.5" HEIGHT="90" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Nimbus Mono L Regular" ISIZE="38" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.5 0 515.5 0 515.5 0 515.5 0 515.5 90 515.5 90 515.5 90 515.5 90 0 90 0 90 0 90 0 90 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.5 0 515.5 0 515.5 0 515.5 0 515.5 90 515.5 90 515.5 90 515.5 90 0 90 0 90 0 90 0 90 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="Nimbus Mono L Regular" FONTSIZE="38" CH="Kilka słów od eksperta"/>
             <para ALIGN="1"/>
-            <ITEXT FONTSIZE="23" CH="rozmowa z Rzecznikiem Regionalnej Dyrekcji Lasów Państwowych w Lublinie"/>
+            <ITEXT FONTSIZE="23" CH="rozmowa z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="23" CH="Rzecznikiem Regionalnej Dyrekcji Lasów Państwowych w Lublinie"/>
             <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="7" PTYPE="4" XPOS="141" YPOS="3670.5" WIDTH="511.5" HEIGHT="677.059999999999" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="11" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 511.5 0 511.5 0 511.5 0 511.5 0 511.5 677.06 511.5 677.06 511.5 677.06 511.5 677.06 0 677.06 0 677.06 0 677.06 0 677.06 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 511.5 0 511.5 0 511.5 0 511.5 0 511.5 677.06 511.5 677.06 511.5 677.06 511.5 677.06 0 677.06 0 677.06 0 677.06 0 677.06 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="STYCZEŃ"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="9 stycznia"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Dzień Ligi Ochrony Przyrody"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="28 stycznia"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH=" - 2 lutego"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Światowy Tydzień Mokradeł"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <breakline/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="LUTY"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P4" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="2 lutego"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Światowy Dzień Obszarów Wodno-Błotnych "/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="11 lutego"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Dzień Dokarmiania Zwierzyny Leśnej"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P3" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="MARZEC"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="21 marca"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Światowy Dzień Leśnika"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="21 marca"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Dzień Wierzby"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="22 marca"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Dzień Ochrony Morza Bałtyckiego "/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <breakline/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="KWIECIEŃ"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P4" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="1 kwietnia"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Międzynarodowy Dzień Ptaków"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="1-7 kwietnia"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Tydzień Czystości Wód"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="5 kwietnia"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Dzień Leśnika i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Drzewiarza"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="22 kwietnia"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Dzień Ziemi - Earth Day"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="25 kwietnia"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Międzynarodowy Dzień Świadomości Zagrożenia Hałasem"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P3" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="MAJ"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="5 maja"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Światowy Dzień Ochrony Środowiska Naturalnego, "/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="12 maja"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Światowy Dzień Ptaków Wędrownych "/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="15 maja"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Święto Polskiej Niezapominajki"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="22 maja"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Dzień Praw Zwierząt (org. Klub Gaja)"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="22 maja"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Międzynarodowy Dzień Różnorodności Biologicznej"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="24 maja"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Europejski Dzień Parków Narodowych"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="24 maja"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Europejski Dzień Parków Wodnych"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="31 maja"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Dzień Bociana Białego"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P3" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="CZERWIEC"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="1-7 czerwca"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Dni Lasu i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Zadrzewień"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="2 czerwca"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Dzień Leśnika"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="2 czerwca"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Międzynarodowy Dzień ochrony Środowiska Naturalnego"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="5 czerwca"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Światowy Dzień Ochrony Środowiska "/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="17 czerwca"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Światowy Dzień Walki z"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Pustynnieniem i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Suszą"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="18 czerwca"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Dzień Europejskiego Protestu Przeciw GMO"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P3" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="WRZESIEŃ"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="16 września"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Międzynarodowy Dzień Ochrony Warstwy Ozonowej - World Ozone Day"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="19 września"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Dzień Dzikiej Fauny, Flory i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Naturalnych Siedlisk"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="III weekend września"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Sprzątanie Świata"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="22 września"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Europejski Dzień bez Samochodu "/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P3" LINESPMode="1"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P3" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="PAŹDZIERNIK"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Październik miesiącem Dobroci dla Zwierząt"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="1 października"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Światowy Dzień Ptaków"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="2 października"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Europejski Dzień Ptaków"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="2 października"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Światowy Dzień Zwierząt Hodowlanych"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="3 października"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Światowy Dzień Siedlisk"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="4 października"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Światowy Dzień Franciszka - Patrona Ekologów"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="4 października"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Światowy Dzień Zwierząt"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="4-11 października"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Światowy Tydzień Zwierząt"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="10 października"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Święto Drzewa"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="13 października"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Dzień Zapobiegania Klęskom Żywiołowym"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="14 października"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Międzynarodowy Dzień Zmniejszania Skutków Klęsk Żywiołowych "/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="25 października"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Dzień Ustawy o"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Ochronie Zwierząt"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P3" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="LISTOPAD"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="25 listopada"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Dzień Bez Futra "/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="29 listopada"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Dzień ogłoszenia św."/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Franciszka patronem ekologów"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P3" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="GRUDZIEŃ"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P4" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="29 grudnia"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" FCOLOR="FromGetText#4d4d4f" CH="Międzynarodowy Dzień Różnorodności Biologicznej (ONZ)"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_P1" LINESPMode="1"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_default-style" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" CH="UWAGA!!!"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_default-style" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" CH="W"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" CH="roku 2014 przypadają ważne rocznice obchodzone przez instytucje ekologiczne Lubelszczyzny:"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_default-style" LINESPMode="1"/>
+            <ITEXT FONTSIZE="11" CH="- "/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" CH="70-lecia powstania Regionalnej Dyrekcji Lasów Państwowych w"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" CH="Lublinie,"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_No_20_List_1" LINESPMode="1"/>
+            <ITEXT FONTSIZE="11" CH="- "/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" CH="40-lecia powstania Roztoczańskiego Parku Narodowego – w"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" CH="maju br. Roztoczański PN w"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" CH="porozumieniu z"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" CH="Narodowym Bankiem Polskim wyemituje okolicznościową, srebrną dwudziestozłotówkę. Będzie należała ona do limitowanej edycji kolekcjonerskiej, jej wartość szacuje się na ok. 250"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" CH="zł."/>
+            <para PARENT="Kalendarzyk ekologiczny-1_No_20_List_1" LINESPMode="1"/>
+            <ITEXT FONTSIZE="11" CH="- "/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" CH="30-lecia Roztoczańskiej Konnej Straży Ochrony Przyrody - "/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" CH="z"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" CH="tej okazji w"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" CH="dniach 9-10 sierpnia br. odbędą się uroczyste obchody powstania i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" CH="działalności naszego Stowarzyszenia. Będą one połączone z"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" CH="&quot;Dniami Parku&quot; Roztoczańskiego Parku Narodowego. W"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" CH="trakcie imprezy odbędą się zawody jeździeckie."/>
+            <para PARENT="Kalendarzyk ekologiczny-1_No_20_List_1" LINESPMode="1"/>
+            <ITEXT FONTSIZE="11" CH="- "/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" CH="55-lecia utworzenia Rezerwatów krajobrazowych „Nad Tanwią” i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" CH="„Czartowe Pole”,"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_No_20_List_1" LINESPMode="1"/>
+            <ITEXT FONTSIZE="11" CH="- "/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="11" CH="25-lecia utworzenia Parku Krajobrazowego Puszczy Solskiej. "/>
+            <para PARENT="Kalendarzyk ekologiczny-1_No_20_List_1" LINESPMode="1"/>
+            <para PARENT="Kalendarzyk ekologiczny-1_List_20_Paragraph" LINESPMode="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="7" PTYPE="4" XPOS="144" YPOS="3589.5" WIDTH="507" HEIGHT="75" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Linux Libertine O Regular" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 507 0 507 0 507 0 507 0 507 75 507 75 507 75 507 75 0 75 0 75 0 75 0 75 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 507 0 507 0 507 0 507 0 507 75 507 75 507 75 507 75 0 75 0 75 0 75 0 75 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Linux Libertine O Regular" FONTSIZE="26" CH="Kalendarzyk ekologiczny,"/>
+            <para ALIGN="1" LINESPMode="1"/>
+            <ITEXT FONT="Linux Libertine O Regular" CH="czyli święta, o"/>
+            <nbspace/>
+            <ITEXT FONT="Linux Libertine O Regular" CH="których nie może zapomnieć żaden miłośnik przyrody. "/>
+            <trail ALIGN="1" LINESPMode="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="141" YPOS="1414.5" WIDTH="283.5" HEIGHT="285" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.436825885978428" LOCALSCY="0.436825885978428" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="mapa.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 283.5 0 283.5 0 283.5 0 283.5 0 283.5 285 283.5 285 283.5 285 283.5 285 0 285 0 285 0 285 0 285 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 283.5 0 283.5 0 283.5 0 283.5 0 283.5 285 283.5 285 283.5 285 283.5 285 0 285 0 285 0 285 0 285 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="429" YPOS="1425" WIDTH="222" HEIGHT="79.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="18" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 222 0 222 0 222 0 222 0 222 79.5 222 79.5 222 79.5 222 79.5 0 79.5 0 79.5 0 79.5 0 79.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 222 0 222 0 222 0 222 0 222 79.5 222 79.5 222 79.5 222 79.5 0 79.5 0 79.5 0 79.5 0 79.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="18" CH="Rozmieszczenie parków narodowych w"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="18" CH="Polsce"/>
+            <para ALIGN="1" LINESPMode="1"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="10" CH="źródło: http://turystyka.bikeboard.pl/images/galerie/wv36ld_parki_04.jpg"/>
+            <trail ALIGN="1" LINESPMode="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="429" YPOS="1508.5" WIDTH="222" HEIGHT="25.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 222 0 222 0 222 0 222 0 222 25.5 222 25.5 222 25.5 222 25.5 0 25.5 0 25.5 0 25.5 0 25.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 222 0 222 0 222 0 222 0 222 25.5 222 25.5 222 25.5 222 25.5 0 25.5 0 25.5 0 25.5 0 25.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Parki Lubelszczyzny:"/>
+            <para ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
