@@ -672,7 +672,7 @@
             <para ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="140" YPOS="1887.5" WIDTH="514" HEIGHT="412" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="10" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 514 0 514 0 514 0 514 0 514 412 514 412 514 412 514 412 0 412 0 412 0 412 0 412 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 514 0 514 0 514 0 514 0 514 412 514 412 514 412 514 412 0 412 0 412 0 412 0 412 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="138" YPOS="1979.5" WIDTH="514" HEIGHT="412" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="10" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 514 0 514 0 514 0 514 0 514 412 514 412 514 412 514 412 0 412 0 412 0 412 0 412 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 514 0 514 0 514 0 514 0 514 412 514 412 514 412 514 412 0 412 0 412 0 412 0 412 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <tab FONTSIZE="10"/>
             <ITEXT FONTSIZE="10" CH="Jednym z dwóch parków narodowych zlokalizowanych na terenie Lubelszczyzny jest Roztoczański PN. Obejmuje najcenniejsze przyrodniczo obszary Roztocza. Bardzo ciekawa tradycja i istnienie na jego obszarze Ośrodka Edukacyjno-Muzealnego dodatkowo podnoszą atrakcyjność tej instytucji. Do tego parku powinien więc obowiązkowo udać  się każdy miłośnik przyrody zamieszkujący Lubelszczyznę. "/>
             <para ALIGN="3"/>
@@ -700,19 +700,13 @@
             <trail ALIGN="2"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="141" YPOS="1825.5" WIDTH="510" HEIGHT="64.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Okolaks Bold" ISIZE="28" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 510 0 510 0 510 0 510 0 510 64.5 510 64.5 510 64.5 510 64.5 0 64.5 0 64.5 0 64.5 0 64.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 510 0 510 0 510 0 510 0 510 64.5 510 64.5 510 64.5 510 64.5 0 64.5 0 64.5 0 64.5 0 64.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Okolaks Bold" FONTSIZE="20" KERN="0" CH="Przyrodnicze perły Lubelszczyzny"/>
-            <ITEXT CH=":"/>
+        <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="301.5" YPOS="1825.5" WIDTH="349.5" HEIGHT="151.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Okolaks Bold" ISIZE="28" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 349.5 0 349.5 0 349.5 0 349.5 0 349.5 151.5 349.5 151.5 349.5 151.5 349.5 151.5 0 151.5 0 151.5 0 151.5 0 151.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 349.5 0 349.5 0 349.5 0 349.5 0 349.5 151.5 349.5 151.5 349.5 151.5 349.5 151.5 0 151.5 0 151.5 0 151.5 0 151.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Okolaks Bold" FONTSIZE="16" KERN="0" CH="Przyrodnicze perły Lubelszczyzny"/>
+            <ITEXT FONTSIZE="16" CH=":"/>
             <para/>
-            <ITEXT FONT="Okolaks Bold" FONTSIZE="28" CH="Roztoczański Park Narodowy"/>
-            <trail/>
-            <PageItemAttributes/>
-        </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="967" YPOS="1831.5" WIDTH="278.28" HEIGHT="138.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Okolaks Bold" ISIZE="28" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 278.28 0 278.28 0 278.28 0 278.28 0 278.28 138.5 278.28 138.5 278.28 138.5 278.28 138.5 0 138.5 0 138.5 0 138.5 0 138.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 278.28 0 278.28 0 278.28 0 278.28 0 278.28 138.5 278.28 138.5 278.28 138.5 278.28 138.5 0 138.5 0 138.5 0 138.5 0 138.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Okolaks Bold" FONTSIZE="20" KERN="0" CH="Przyrodnicze perły Lubelszczyzny"/>
-            <ITEXT CH=":"/>
-            <para/>
-            <ITEXT FONT="Okolaks Bold" FONTSIZE="28" CH="Poleski Park Narodowy"/>
+            <ITEXT FONT="Okolaks Bold" FONTSIZE="36" CH="Roztoczański"/>
+            <breakline/>
+            <ITEXT FONT="Okolaks Bold" FONTSIZE="36" CH="Park Narodowy"/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -755,8 +749,74 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="752.5" YPOS="1825.5" WIDTH="203.78" HEIGHT="147.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.760309278350515" LOCALSCY="0.760309278350515" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="poleski.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 203.78 0 203.78 0 203.78 0 203.78 0 203.78 147.5 203.78 147.5 203.78 147.5 203.78 147.5 0 147.5 0 147.5 0 147.5 0 147.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 203.78 0 203.78 0 203.78 0 203.78 0 203.78 147.5 203.78 147.5 203.78 147.5 203.78 147.5 0 147.5 0 147.5 0 147.5 0 147.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="4" PTYPE="2" XPOS="726.5" YPOS="1825.5" WIDTH="203.78" HEIGHT="147.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.760309278350515" LOCALSCY="0.760309278350515" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="poleski.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 203.78 0 203.78 0 203.78 0 203.78 0 203.78 147.5 203.78 147.5 203.78 147.5 203.78 147.5 0 147.5 0 147.5 0 147.5 0 147.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 203.78 0 203.78 0 203.78 0 203.78 0 203.78 147.5 203.78 147.5 203.78 147.5 203.78 147.5 0 147.5 0 147.5 0 147.5 0 147.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="141.5" YPOS="1823.5" WIDTH="157" HEIGHT="153" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.487261146496815" LOCALSCY="0.487261146496815" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="rozt.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 157 0 157 0 157 0 157 0 157 153 157 153 157 153 157 153 0 153 0 153 0 153 0 153 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 157 0 157 0 157 0 157 0 157 153 157 153 157 153 157 153 0 153 0 153 0 153 0 153 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="904.5" YPOS="1823.78" WIDTH="345" HEIGHT="146.22" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Okolaks Bold" ISIZE="28" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 345 0 345 0 345 0 345 0 345 146.22 345 146.22 345 146.22 345 146.22 0 146.22 0 146.22 0 146.22 0 146.22 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 345 0 345 0 345 0 345 0 345 146.22 345 146.22 345 146.22 345 146.22 0 146.22 0 146.22 0 146.22 0 146.22 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Okolaks Bold" FONTSIZE="16" KERN="0" CH="Przyrodnicze perły Lubelszczyzny"/>
+            <ITEXT FONTSIZE="16" CH=":"/>
+            <para/>
+            <ITEXT FONT="Okolaks Bold" FONTSIZE="36" CH="Poleski"/>
+            <breakline/>
+            <ITEXT FONT="Okolaks Bold" FONTSIZE="36" CH="Park Narodowy"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="142.5" YPOS="2776.5" WIDTH="274.5" HEIGHT="291" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Serif Regular" ISIZE="10" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 274.5 0 274.5 0 274.5 0 274.5 0 274.5 291 274.5 291 274.5 291 274.5 291 0 291 0 291 0 291 0 291 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 274.5 0 274.5 0 274.5 0 274.5 0 274.5 291 274.5 291 274.5 291 274.5 291 0 291 0 291 0 291 0 291 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Niedrzwica to przepiękna okolica,"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Przez którą przepływa rzeka-Nędznica."/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Wzdłuż jej granicy ciągnie się szlak rowerowy"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="- „Doliną Nędznicy”."/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Wokoło zielone lasy,"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Stawy pamiętające przedwojenne czasy,"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Pola pełne rzepaku i zboża,"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Łąki niczym kolorowa zorza."/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="A w lecie-białe łabędzie przylatują do nas z ciepłych krajów,"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Bociany zakładają gniazda hen wysoko,"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="A cudowne krajobrazy rozciągają się szeroko."/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Wspaniałe, stare folwarki,"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Stoją dumnie zachęcając do walki ,"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="O naszą rodzimą ziemię."/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="O środowisko, o zabytki, o kulturę i tradycję."/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="My-prawdziwi niedrzwiczacy,"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Jesteśmy zwarci i gotowi do pracy."/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Zrobimy co w naszej mocy,"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Aby udzielić Niedrzwicy pomocy."/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Chcemy, by była czysta i ekologiczna,"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Zadbana i ładnie wysprzątana."/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Będziemy dla innych przykładem, wzorem do naśladowania,"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Bo tak piękna miejscowość jest godna szanowania."/>
+            <para/>
+            <para/>
+            <ITEXT CH="Patrycja"/>
+            <trail ALIGN="2"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
