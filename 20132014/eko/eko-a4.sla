@@ -1419,5 +1419,71 @@
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="738" YPOS="1275" WIDTH="513" HEIGHT="31.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="23" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 513 0 513 0 513 0 513 0 513 31.5 513 31.5 513 31.5 513 31.5 0 31.5 0 31.5 0 31.5 0 31.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 513 0 513 0 513 0 513 0 513 31.5 513 31.5 513 31.5 513 31.5 0 31.5 0 31.5 0 31.5 0 31.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="23" CH="Rezerwat Przyrody „Czartowe Pole”"/>
+            <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="735.5" YPOS="1306" WIDTH="514.5" HEIGHT="177.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 514.5 0 514.5 0 514.5 0 514.5 0 514.5 177.5 514.5 177.5 514.5 177.5 514.5 177.5 0 177.5 0 177.5 0 177.5 0 177.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 514.5 0 514.5 0 514.5 0 514.5 0 514.5 177.5 514.5 177.5 514.5 177.5 514.5 177.5 0 177.5 0 177.5 0 177.5 0 177.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <tab FONTSIZE="9"/>
+            <ITEXT FONTSIZE="9" CH="Na terenie gminy Józefów, mieszczącej się w obrębie Roztoczańskiego Parku Narodowego  leży Rezerwat Przyrody „Czartowe Pole”. Tajemnicza nazwa związana jest z lokalną legendą, odnoszącą się do obejmowanej przez park polany, głoszącą, jakoby „jeno czarci tam hasali” (czego skutkiem miały być liczne powodzie i pożary). Powołany został Zarządzeniem Ministra Leśnictwa i Przemysłu Drzewnego z dnia"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="21 lipca"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="1958"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="roku. Jako cel powołania podaje się  zachowanie"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="przełomu"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="i doliny"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="roztoczańskiej rzeki"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="Sopot. Jego powierzchnia wynosi 80,07 ha. Ścisłej ochronie podlega 26,66 ha. Teren w znacznej mierze porastany jest przez lasy łęgowe (w których występuje olsza czarna), można jednak wyróżnić również podmokłe łąki i bór sosnowy, wraz ze spadkiem terenu przechodzący w mieszany bór wilgotny (dominującym gatunkiem jest tu jodła pospolita, której egzemplarze osiągają wiek 120-160 lat). Podczas wędrówki po rezerwacie jesteśmy w stanie zaobserwować rzadkie rośliny:"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="wawrzynek wilczełyko,"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="zachyłek Roberta, zanokcica skalna"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="zielona,"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="parzydło leśne,"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="storczyk plamisty,"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="paprotnik kolczysty"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="narecznicę szerokolistną.Spośród przedstawicieli fauny wyróżniamy m.in. pliszkę górską, pokrzywnicę, zimorodka, kruka, a w rzece - pstrąga potokowego. Na terenie rezerwatu znajdują się również interesujące zabytki. Są to:"/>
+            <para/>
+            <ITEXT FONTSIZE="9" CH="• ruiny starej papierni"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="Zamoyskich "/>
+            <para/>
+            <ITEXT FONTSIZE="9" CH="• pomnik upamiętniający manewry wojsk polskich w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="1931"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="roku"/>
+            <para/>
+            <ITEXT FONTSIZE="9" CH="• cmentarz partyzantów poległych w walkach w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="1943"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="roku."/>
+            <para/>
+            <para/>
+            <tab FONTSIZE="9"/>
+            <ITEXT FONTSIZE="9" CH="W rezerwacie została poprowadzona turystyczna ścieżka przyrodniczo-dydaktyczna. Jej długość wynosi około 2 km.  Podróżując nią turyści mają okazję ujrzeć zapierające dech w piersi krajobrazy, które zdobią Lubelszczyznę. "/>
+            <para/>
+            <para/>
+            <ITEXT FONTSIZE="9" CH="Agata T."/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
     </DOCUMENT>
 </SCRIBUSUTF8NEW>
