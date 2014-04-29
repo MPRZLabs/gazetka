@@ -931,84 +931,198 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="142.5" YPOS="2776.5" WIDTH="274.5" HEIGHT="291" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Serif Regular" ISIZE="10" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 274.5 0 274.5 0 274.5 0 274.5 0 274.5 291 274.5 291 274.5 291 274.5 291 0 291 0 291 0 291 0 291 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 274.5 0 274.5 0 274.5 0 274.5 0 274.5 291 274.5 291 274.5 291 274.5 291 0 291 0 291 0 291 0 291 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Niedrzwica to przepiękna okolica,"/>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="145.5" YPOS="2747.5" WIDTH="274.5" HEIGHT="267.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Liberation Serif Regular" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 274.5 0 274.5 0 274.5 0 274.5 0 274.5 267.5 274.5 267.5 274.5 267.5 274.5 267.5 0 267.5 0 267.5 0 267.5 0 267.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 274.5 0 274.5 0 274.5 0 274.5 0 274.5 267.5 274.5 267.5 274.5 267.5 274.5 267.5 0 267.5 0 267.5 0 267.5 0 267.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="Niedrzwica to przepiękna okolica,"/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Przez którą przepływa rzeka-Nędznica."/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="Przez którą przepływa rzeka-Nędznica."/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Wzdłuż jej granicy ciągnie się szlak rowerowy"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="Wzdłuż jej granicy ciągnie się szlak rowerowy"/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="- „Doliną Nędznicy”."/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="- „Doliną Nędznicy”."/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Wokoło zielone lasy,"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="Wokoło zielone lasy,"/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Stawy pamiętające przedwojenne czasy,"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="Stawy pamiętające przedwojenne czasy,"/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Pola pełne rzepaku i"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="Pola pełne rzepaku i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="zboża,"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="zboża,"/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Łąki niczym kolorowa zorza."/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="Łąki niczym kolorowa zorza."/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="A"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="A"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="w"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="w"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="lecie-białe łabędzie przylatują do nas z"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="lecie-białe łabędzie przylatują do nas z"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="ciepłych krajów,"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="ciepłych krajów,"/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Bociany zakładają gniazda hen wysoko,"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="Bociany zakładają gniazda hen wysoko,"/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="A"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="A"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="cudowne krajobrazy rozciągają się szeroko."/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="cudowne krajobrazy rozciągają się szeroko."/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Wspaniałe, stare folwarki,"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="Wspaniałe, stare folwarki,"/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Stoją dumnie zachęcając do walki ,"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="Stoją dumnie zachęcając do walki ,"/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="O"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="O"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="naszą rodzimą ziemię."/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="naszą rodzimą ziemię."/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="O"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="O"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="środowisko, o"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="środowisko, o"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="zabytki, o"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="zabytki, o"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="kulturę i"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="kulturę i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="tradycję."/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="tradycję."/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="My-prawdziwi niedrzwiczacy,"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="My-prawdziwi niedrzwiczacy,"/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Jesteśmy zwarci i"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="Jesteśmy zwarci i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="gotowi do pracy."/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="gotowi do pracy."/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Zrobimy co w"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="Zrobimy co w"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="naszej mocy,"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="naszej mocy,"/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Aby udzielić Niedrzwicy pomocy."/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="Aby udzielić Niedrzwicy pomocy."/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Chcemy, by była czysta i"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="Chcemy, by była czysta i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="ekologiczna,"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="ekologiczna,"/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Zadbana i"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="Zadbana i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="ładnie wysprzątana."/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="ładnie wysprzątana."/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Będziemy dla innych przykładem, wzorem do naśladowania,"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="Będziemy dla innych przykładem, wzorem do naśladowania,"/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Bo tak piękna miejscowość jest godna szanowania."/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="9" CH="Bo tak piękna miejscowość jest godna szanowania."/>
             <para/>
             <para/>
-            <ITEXT CH="Patrycja"/>
+            <ITEXT FONTSIZE="9" CH="Patrycja"/>
             <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="141" YPOS="3081" WIDTH="514" HEIGHT="177" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 514 0 514 0 514 0 514 0 514 177 514 177 514 177 514 177 0 177 0 177 0 177 0 177 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 514 0 514 0 514 0 514 0 514 177 514 177 514 177 514 177 0 177 0 177 0 177 0 177 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <tab FONTSIZE="9"/>
+            <ITEXT FONTSIZE="9" CH="Pomysł wybudowania Gminnej Oczyszczalni Ścieków zrodził  się pod koniec lat 90-tych. Zamiar ten ziścił się dnia 13 listopada 2011 roku, kiedy to odbyło się jej oficjalne otwarcie.  "/>
+            <para ALIGN="3"/>
+            <tab FONTSIZE="9"/>
+            <ITEXT FONTSIZE="9" CH="Po licznych kontrowersjach na temat usytuowania oczyszczalni, ostatecznie w latach 2006-2010 złożono  wniosek do Urzędu Marszałkowskiego o dofinansowanie w ramach Regionalnego Programu Operacyjnego Województwa Lubelskiego."/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="Inwestycja dofinansowana była ze środków RPO Województwa Lubelskiego. W końcu latem 2010 roku rozpoczęto pierwsze prace budowlane. Wartość realizacji całego projektu wyniosła ostatecznie 8"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="060"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="424,65zł, a kwota dofinansowania z EFRR 5"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="360"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="9" CH="239,13zł. "/>
+            <para ALIGN="3"/>
+            <tab FONTSIZE="9"/>
+            <ITEXT FONTSIZE="9" CH="Wraz z budynkiem instytucji oddano do użytku 6,5 km sieci kanalizacji sanitarnej oraz 750 m. kanalizacji deszczowej."/>
+            <para ALIGN="3"/>
+            <tab FONTSIZE="9"/>
+            <ITEXT FONTSIZE="9" CH="Obecnie powzięte są plany rozbudowy oczyszczalni w celu podłączenia większej liczby użytkowników, co zwiększy bezpieczeństwo ekologiczne gminy i obniży koszty utrzymania oczyszczalni wraz z całą infrastrukturą oraz w przyszłości spowoduje uzyskanie optymalnych opłat za korzystanie z usług oczyszczalni."/>
+            <para ALIGN="3"/>
+            <tab FONTSIZE="9"/>
+            <ITEXT FONTSIZE="9" CH="Budowa oczyszczalni w Niedrzwicy Dużej jest największą inwestycją gminną w ciągu ostatnich lat. "/>
+            <para ALIGN="3"/>
+            <para/>
+            <ITEXT FONTSIZE="9" CH="Patrycja"/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="140.9" YPOS="2705.67" WIDTH="284.5" HEIGHT="46.8299999999999" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTFILL="Black" TXTSHX="2" TXTSHY="-4" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESP="1" LINESPMode="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Kickflip BRK Regular" ISIZE="42" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 284.5 0 284.5 0 284.5 0 284.5 0 284.5 46.83 284.5 46.83 284.5 46.83 284.5 46.83 0 46.83 0 46.83 0 46.83 0 46.83 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 284.5 0 284.5 0 284.5 0 284.5 0 284.5 46.83 284.5 46.83 284.5 46.83 284.5 46.83 0 46.83 0 46.83 0 46.83 0 46.83 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Kickflip BRK Regular" FONTSIZE="42" FEATURES="inherit" FCOLOR="Black" TXTSHX="2" TXTSHY="-4" CH="Niedrzwica"/>
+            <trail ALIGN="0" LINESPMode="0" LINESP="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="359" YPOS="2706.67" WIDTH="296" HEIGHT="33.3299999999999" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" TXTKERN="20" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="17" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 296 0 296 0 296 0 296 0 296 33.33 296 33.33 296 33.33 296 33.33 0 33.33 0 33.33 0 33.33 0 33.33 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 296 0 296 0 296 0 296 0 296 33.33 296 33.33 296 33.33 296 33.33 0 33.33 0 33.33 0 33.33 0 33.33 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="2" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="17" FEATURES="inherit smallcaps" KERN="20" CH="Pełna Uroku i Ekologii"/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="139.5" YPOS="3045" WIDTH="264.75" HEIGHT="28.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Latin Modern Sans 10 Bold" ISIZE="18" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 264.75 0 264.75 0 264.75 0 264.75 0 264.75 28.5 264.75 28.5 264.75 28.5 264.75 28.5 0 28.5 0 28.5 0 28.5 0 28.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 264.75 0 264.75 0 264.75 0 264.75 0 264.75 28.5 264.75 28.5 264.75 28.5 264.75 28.5 0 28.5 0 28.5 0 28.5 0 28.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Latin Modern Sans 10 Bold" FONTSIZE="18" CH="Gminna Oczyszczalnia Ścieków"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="737" YPOS="2705.67" WIDTH="514" HEIGHT="247.83" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="8" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 514 0 514 0 514 0 514 0 514 247.83 514 247.83 514 247.83 514 247.83 0 247.83 0 247.83 0 247.83 0 247.83 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 514 0 514 0 514 0 514 0 514 247.83 514 247.83 514 247.83 514 247.83 0 247.83 0 247.83 0 247.83 0 247.83 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="9" FCOLOR="Red" FSHADE="100" CH="UWAGA!!"/>
+            <para ALIGN="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="9" CH="WIADOMOŚĆ Z OSTATNIEJ CHWILI - GIMNAZJUM NR 1 W NIEDRZWICY DUŻEJ PRZYCZYNIŁO SIĘ DO ROWOJU EPIDEMII RECYKLINGU I DBANIA O ŚRODOWISKO!"/>
+            <para ALIGN="1"/>
+            <para ALIGN="1"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="9" CH="ZBIÓRKA NAKRĘTEK - PRZYCZYNA"/>
+            <para ALIGN="1"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Właściwie można powiedzieć, że zbiórka nakrętek w naszym gimnazjum była od zawsze. Wszystko zaczęło się od ogłoszenia niewinnej akcji, którą każdy mógł wspomóc wrzucając plastikowe zakrętki do postawionego na szkolnym korytarzu wielkiego pudła. I tak właśnie wyglądał początek, alboteż przyczyna epidemii recyklingu i nie tylko... Chodzą słuchy, że za pierwszym razem zebrano tak dużą ilość nakrętek, że niektórym nauczycielom do tej pory śnią się po nocach ich przerażająco wielkie stosy, które następnie są transportowane ogromną ciężarówką do Gdańska na rzecz chorego chłopca. Dzięki tej akcji nie tylko zadbaliśmy o nasze środowisko, ale również wspomogliśmy drugiego człowieka. Na podstawie własnego doświadczenia mogę stwierdzić, że to właśnie działanie najbardziej przyczyniło się do otwarcia młodych ludzi na potrzeby otaczającego ich środowiska. Pokazało, że wystarczy naprawdę niewiele, aby dokonać czegoś o gigantycznym znaczeniu dla siebie, świata i innych ludzi. Dlatego poruszeni i zapaleni do pracy gimnazjaliści zaczęli sami proponować, realizować i rozpowszechniać akcje przynoszące wspaniałe skutki. Pozbierali porozrzucane wokoło szkoły i najbliższej okolicy puszki, które potem zamienili na piłki do grania. Nauczyli się rozsądnie gospodarować wolnym czasem, tak aby zrobić coś pożytecznego. Celebrując &quot;Dzień Ziemi&quot; posadzili wokoło gimnazjum młode drzewka, krzewy i kwiatki oraz wyplewili ogródki. I w ten właśnie sposób epidemia recyklingu przeobraziła się w epidemię dbania o własne środowisko. Pojemniki na nakrętki i puszki stały się codziennością w naszym gimnazjum i nikogo nie dziwi ich obecność. Każdy gimnazjalista wie co zrobić z „niepotrzebnymi” nakrętkami czy puszkami. "/>
+            <para ALIGN="3"/>
+            <ITEXT FONTSIZE="8" CH="Patrycja"/>
+            <para ALIGN="2"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="9" CH="A OTO NAKRĘTKOWY ZAWRÓT GŁOWY "/>
+            <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="140.28" YPOS="3269.67" WIDTH="512.72" HEIGHT="196.83" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="8" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 512.72 0 512.72 0 512.72 0 512.72 0 512.72 196.83 512.72 196.83 512.72 196.83 512.72 196.83 0 196.83 0 196.83 0 196.83 0 196.83 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 512.72 0 512.72 0 512.72 0 512.72 0 512.72 196.83 512.72 196.83 512.72 196.83 512.72 196.83 0 196.83 0 196.83 0 196.83 0 196.83 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="9" CH="KONKURS TESCO - EWOLUCJA"/>
+            <para ALIGN="1"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Od dwóch lat nasza szkoła uczestniczy w konkursie filmowym Tesco dla szkół, który w tym roku przebiegał pod hasłem „Talent do niemarnowania”. Naszym zadaniem było nakręcenie tematycznego video, które następnie zostało zamieszczone na stronie internetowej http://www.tescodlaszkol.pl/. Cel tego przedsięwzięcia zakładał propagowanie i szerzenie zdrowego stylu życia oraz zachęcenie zarówno młodzieży jak i dorosłych do racjonalnego odżywiania oraz niemarnowania żywności. Każdy"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" CH=" uczeń „miał obowiązek” systematycznego głosowania na filmik naszego gimnazjum. Do tej pory można go zobaczyć korzystając z linku:"/>
+            <para/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="16" FEATURES="inherit underline" CH="www.goo.gl/5Xaorz"/>
+            <para ALIGN="1"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Więc jeśli się komuś bardzo nudzi i nie ma pojęcia co ze sobą zrobić, albo ma niezmierną ochotę się zwyczajnie pośmiać już wie gdzie może szukać atrakcji. Z jednej strony poważni,"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" CH=" niosący z sobą głębokie przesłanie młodzi ludzie, z drugiej kipiący pozytywną energią i chęcią działania gimnazjaliści. Czy to nie jest wybuchowa mieszanka? - Na pewno! Każdy śmiałek, który zdobędzie się na odwagę i obejrzy film oparty na autentycznych faktach pt. &quot;Rozsądne głodomory&quot; narażony jest na stanie się ofiarą epidemii zdrowego odżywiania. Jak podają najnowsze informacje stopniowo opanowuje ona cały świat. Efekty jej działania zauważalne są przede wszystkim w mojej szkole. Otóż ostatnio w Gimnazjum nr 1 w Niedrzwicy Dużej zaobserwowano bardzo dziwne zjawisko. Uczniowie zaczęli segregować śmieci, zjadać całe porcje obiadu, przestali kupować pepsi, a zamiast tego coraz częściej można ich spotkać na korytarzu pijących wodę mineralną. Mało tego przejęci ochroną środowiska zgniatają niepotrzebne butelki i wyrzucają do odpowiednio oznaczonych kontenerów. I to nie jest żart proszę państwa! Ta historia wydarzyła się na prawdę. Jeśli nie wierzycie, i nie brak wam odwagi przyjedźcie tutaj, bo to co tu spotkacie może na dobre odmienić wasze życie i postrzeganie świata. Zapewniam, że wrócicie do domu jako zupełnie inni ludzie. Zaufajcie mi - wiem coś o tym. Sama przeżyłam to doświadczenie i przeżywam ciągle gdy tylko jestem w szkole .... i nie tylko..."/>
+            <nbspace/>
+            <ITEXT FONTSIZE="8" CH=" To wspaniałe widzieć jak dzięki naszym staraniom świat staje się piękniejszy - spróbuj i TY! Zapewniam, że nie pożałujesz. A może pewnego dnia tak jak my zarazisz kogoś swoją pasją pomagania światu być czystszym i przyjemniejszym?"/>
+            <para/>
+            <ITEXT FONTSIZE="8" CH="Patrycja"/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="736.5" YPOS="2968" WIDTH="513" HEIGHT="81" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="8" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 513 0 513 0 513 0 513 0 513 81 513 81 513 81 513 81 0 81 0 81 0 81 0 81 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 513 0 513 0 513 0 513 0 513 81 513 81 513 81 513 81 0 81 0 81 0 81 0 81 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="9" CH="ZBIÓRKA TELEFONÓW - KULMINACJA"/>
+            <para ALIGN="1"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Od niedawna w naszym gimnazjum Samorząd Uczniowski organizuje zbiórkę starych, używanych, niekoniecznie działających telefonów. Każdy może wspomóc akcję oddając niepotrzebne komórki, które następnie zostaną przekazane do profesjonalnego recyklingu. Muszę przyznać, że to przedsięwzięcie cieszy się ogromnym powodzeniem. Mało tego możliwość wygrania aparatu fotograficznego firmy Canon dodatkowo zachęca uczniów do wsparcia akcji. Osobiście nie pamiętam dnia, aby do drzwi sali, w której miałam lekcje nie zapukała trzyosobowa delegacja zbierająca telefony. Aż trzyosobowa? - tak duża? Nic dziwnego. Jeden uczeń nie da rady utrzymać wielkiego pudła - potrzeba co najmniej dwóch! Nie ma klasy, która nie oddałaby chociaż paru telefonów. Tak się wszyscy w to wkręcili, że z niecierpliwością czekają, aż znajome pudło &quot;dumnie wkroczy&quot; do sali."/>
+            <para/>
+            <ITEXT FONTSIZE="8" CH="Patrycja"/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="6" PTYPE="2" XPOS="1002" YPOS="2794.5" WIDTH="118.5" HEIGHT="162" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.1975" LOCALSCY="0.1975" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="IMG_3036.JPG" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 118.5 0 118.5 0 118.5 0 118.5 0 118.5 162 118.5 162 118.5 162 118.5 162 0 162 0 162 0 162 0 162 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 118.5 0 118.5 0 118.5 0 118.5 0 118.5 162 118.5 162 118.5 162 118.5 162 0 162 0 162 0 162 0 162 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="6" PTYPE="2" XPOS="1122" YPOS="2949" WIDTH="153.33" HEIGHT="121.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="-90" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.1916625" LOCALSCY="0.1916625" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="IMG_3038.JPG" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 153.33 0 153.33 0 153.33 0 153.33 0 153.33 121.5 153.33 121.5 153.33 121.5 153.33 121.5 0 121.5 0 121.5 0 121.5 0 121.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 153.33 0 153.33 0 153.33 0 153.33 0 153.33 121.5 153.33 121.5 153.33 121.5 153.33 121.5 0 121.5 0 121.5 0 121.5 0 121.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="415.5" YPOS="3139.67" WIDTH="191.5" HEIGHT="119.83" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.199716666666667" LOCALSCY="0.199716666666667" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="../../../../../media/michcioperz/USB DISK/gazetka ekologiczna 2014/IMG_3012.JPG" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 191.5 0 191.5 0 191.5 0 191.5 0 191.5 119.83 191.5 119.83 191.5 119.83 191.5 119.83 0 119.83 0 119.83 0 119.83 0 119.83 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 191.5 0 191.5 0 191.5 0 191.5 0 191.5 119.83 191.5 119.83 191.5 119.83 191.5 119.83 0 119.83 0 119.83 0 119.83 0 119.83 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="428.5" YPOS="2752" WIDTH="213.5" HEIGHT="157.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.2625" LOCALSCY="0.2625" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="IMG_3031.JPG" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 213.5 0 213.5 0 213.5 0 213.5 0 213.5 157.5 213.5 157.5 213.5 157.5 213.5 157.5 0 157.5 0 157.5 0 157.5 0 157.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 213.5 0 213.5 0 213.5 0 213.5 0 213.5 157.5 213.5 157.5 213.5 157.5 213.5 157.5 0 157.5 0 157.5 0 157.5 0 157.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="2" XPOS="429" YPOS="2913" WIDTH="211" HEIGHT="157.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.2625" LOCALSCY="0.2625" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="IMG_3033.JPG" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 211 0 211 0 211 0 211 0 211 157.5 211 157.5 211 157.5 211 157.5 0 157.5 0 157.5 0 157.5 0 157.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 211 0 211 0 211 0 211 0 211 157.5 211 157.5 211 157.5 211 157.5 0 157.5 0 157.5 0 157.5 0 157.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
     </DOCUMENT>
