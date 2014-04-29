@@ -220,95 +220,95 @@
             <trail LINESPMode="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="144.393167701863" YPOS="995.013162005277" WIDTH="505.475776397516" HEIGHT="416.986837994723" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="14" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 505.476 0 505.476 0 505.476 0 505.476 0 505.476 416.987 505.476 416.987 505.476 416.987 505.476 416.987 0 416.987 0 416.987 0 416.987 0 416.987 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 505.476 0 505.476 0 505.476 0 505.476 0 505.476 416.987 505.476 416.987 505.476 416.987 505.476 416.987 0 416.987 0 416.987 0 416.987 0 416.987 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="1.89316770186335" gYpos="58.403162005277" gWidth="508" gHeight="478.28" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <tab FONTSIZE="14"/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="Na terenie całej Polski istnieje wiele kompleksów, których zadaniem jest ochrona unikalnych form przyrody ożywionej i"/>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="144.393167701863" YPOS="995.013162005277" WIDTH="505.475776397516" HEIGHT="195.986837994723" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 505.476 0 505.476 0 505.476 0 505.476 0 505.476 195.987 505.476 195.987 505.476 195.987 505.476 195.987 0 195.987 0 195.987 0 195.987 0 195.987 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 505.476 0 505.476 0 505.476 0 505.476 0 505.476 195.987 505.476 195.987 505.476 195.987 505.476 195.987 0 195.987 0 195.987 0 195.987 0 195.987 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="1.89316770186335" gYpos="58.403162005277" gWidth="508" gHeight="478.28" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <tab FONTSIZE="9"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="Na terenie całej Polski istnieje wiele kompleksów, których zadaniem jest ochrona unikalnych form przyrody ożywionej i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="nieożywionej, występujących tylko na danym obszarze, będących dla niego charakterystycznymi. Powołane w"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="nieożywionej, występujących tylko na danym obszarze, będących dla niego charakterystycznymi. Powołane w"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="tym celu instytucje, zgodnie z"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="tym celu instytucje, zgodnie z"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="obowiązującą aktualnie Ustawą z"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="obowiązującą aktualnie Ustawą z"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="dnia 16 kwietnia 2004 r. mają za zadanie:"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="dnia 16 kwietnia 2004 r. mają za zadanie:"/>
             <para ALIGN="3"/>
-            <tab FONT="Liberation Sans Regular" FONTSIZE="14"/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="•"/>
+            <tab FONT="Liberation Sans Regular" FONTSIZE="9"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="•"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="utrzymać stabilności ekosystemów i"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="utrzymać stabilności ekosystemów i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="trwałości procesów ekologicznych"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="trwałości procesów ekologicznych"/>
             <para ALIGN="3"/>
-            <tab FONT="Liberation Sans Regular" FONTSIZE="14"/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="•"/>
+            <tab FONT="Liberation Sans Regular" FONTSIZE="9"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="•"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="zachować różnorodności biologicznej, - zapewnić ciągłość istnienia wszystkich gatunków roślin, zwierząt i"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="zachować różnorodności biologicznej, - zapewnić ciągłość istnienia wszystkich gatunków roślin, zwierząt i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="grzybów wraz z"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="grzybów wraz z"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="ich siedliskami"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="ich siedliskami"/>
             <para ALIGN="3"/>
-            <tab FONT="Liberation Sans Regular" FONTSIZE="14"/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="•"/>
+            <tab FONT="Liberation Sans Regular" FONTSIZE="9"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="•"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="chronić walory krajobrazowe, zadrzewienia oraz zieleń w"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="chronić walory krajobrazowe, zadrzewienia oraz zieleń w"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="miastach i"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="miastach i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="wsiach"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="wsiach"/>
             <para ALIGN="3"/>
-            <tab FONT="Liberation Sans Regular" FONTSIZE="14"/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="•"/>
+            <tab FONT="Liberation Sans Regular" FONTSIZE="9"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="•"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="utrzymywać lub przywracać do właściwego stanu ochrony siedlisk przyrodniczych, a"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="utrzymywać lub przywracać do właściwego stanu ochrony siedlisk przyrodniczych, a"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="także pozostałych zasobów, tworów i"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="także pozostałych zasobów, tworów i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="składników przyrody"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="składników przyrody"/>
             <para ALIGN="3"/>
-            <tab FONT="Liberation Sans Regular" FONTSIZE="14"/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="•"/>
+            <tab FONT="Liberation Sans Regular" FONTSIZE="9"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="•"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="chronić w"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="chronić w"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="celu zachowania dla przyszłych pokoleń dziedzictwo geologiczne i"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="celu zachowania dla przyszłych pokoleń dziedzictwo geologiczne i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="paleontologiczne"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="paleontologiczne"/>
             <para ALIGN="3"/>
-            <tab FONT="Liberation Sans Regular" FONTSIZE="14"/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="•"/>
+            <tab FONT="Liberation Sans Regular" FONTSIZE="9"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="•"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="prowadzić działalność informacyjną, promocyjną i"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="prowadzić działalność informacyjną, promocyjną i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="edukacyjną (m.in. kształtowanie właściwych postaw człowieka wobec środowiska naturalnego"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="edukacyjną (m.in. kształtowanie właściwych postaw człowieka wobec środowiska naturalnego"/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
-            <tab FONT="Liberation Sans Regular" FONTSIZE="14"/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="Aby właściwie osiągać te cele i"/>
+            <tab FONT="Liberation Sans Regular" FONTSIZE="9"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="Aby właściwie osiągać te cele i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="stale nadzorować bezpieczeństwo chronionych gatunków, powołuje się różne instytucje, których zasady funkcjonowania określane są przez zrzeszane przez nie obiekty przyrody ożywionej i"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="stale nadzorować bezpieczeństwo chronionych gatunków, powołuje się różne instytucje, których zasady funkcjonowania określane są przez zrzeszane przez nie obiekty przyrody ożywionej i"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="nieożywionej. Wśród form ochrony przyrody udokumentowanych w"/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="nieożywionej. Wśród form ochrony przyrody udokumentowanych w"/>
             <nbspace/>
-            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="14" CH="Polsce wyodrębniamy: "/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="9" CH="Polsce wyodrębniamy: "/>
             <para ALIGN="3"/>
-            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14" CH="• Parki narodowe"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="9" CH="• Parki narodowe"/>
             <para ALIGN="3"/>
-            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14" CH="• Rezerwaty przyrody"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="9" CH="• Rezerwaty przyrody"/>
             <para ALIGN="3"/>
-            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14" CH="• Parki krajobrazowe"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="9" CH="• Parki krajobrazowe"/>
             <para ALIGN="3"/>
-            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14" CH="• Obszary chronionego krajobrazu"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="9" CH="• Obszary chronionego krajobrazu"/>
             <para ALIGN="3"/>
-            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14" CH="• Obszary Natura 2000"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="9" CH="• Obszary Natura 2000"/>
             <para ALIGN="3"/>
-            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14" CH="• Użytki ekologiczne"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="9" CH="• Użytki ekologiczne"/>
             <para ALIGN="3"/>
-            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14" CH="• Zespoły przyrodniczo – krajobrazowe"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="9" CH="• Zespoły przyrodniczo – krajobrazowe"/>
             <para ALIGN="3"/>
-            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14" CH="• Stanowiska dokumentacyjne"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="9" CH="• Stanowiska dokumentacyjne"/>
             <para ALIGN="3"/>
-            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="14" CH="• Pomniki przyrody"/>
+            <ITEXT FONT="Liberation Serif Bold" FONTSIZE="9" CH="• Pomniki przyrody"/>
             <trail ALIGN="3"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -317,54 +317,54 @@
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="737.3931677" YPOS="1032.5" WIDTH="505.4757764" HEIGHT="389.50000001" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="14.5" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 505.476 0 505.476 0 505.476 0 505.476 0 505.476 389.5 505.476 389.5 505.476 389.5 505.476 389.5 0 389.5 0 389.5 0 389.5 0 389.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 505.476 0 505.476 0 505.476 0 505.476 0 505.476 389.5 505.476 389.5 505.476 389.5 505.476 389.5 0 389.5 0 389.5 0 389.5 0 389.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONTSIZE="14.5" CH="W"/>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="141" YPOS="1455" WIDTH="513" HEIGHT="249" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 513 0 513 0 513 0 513 0 513 249 513 249 513 249 513 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 513 0 513 0 513 0 513 0 513 249 513 249 513 249 513 249 0 249 0 249 0 249 0 249 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="9" CH="W"/>
             <nbspace/>
-            <ITEXT FONTSIZE="14.5" CH="dzisiejszych czasach na terenie całej Polski  istnieje wiele instytucji  zajmujących się ochroną środowiska naturalnego. Mimo to młodzież nie dysponuje wiedzą na temat ich funkcjonowania. Dlatego też pragnęlibyśmy zadać Panu kilka pytań na ten temat. "/>
+            <ITEXT FONTSIZE="9" CH="dzisiejszych czasach na terenie całej Polski  istnieje wiele instytucji  zajmujących się ochroną środowiska naturalnego. Mimo to młodzież nie dysponuje wiedzą na temat ich funkcjonowania. Dlatego też pragnęlibyśmy zadać Panu kilka pytań na ten temat. "/>
             <para ALIGN="3"/>
             <para/>
             <para/>
-            <ITEXT FONTSIZE="14.5" CH="1.  Od kiedy RDLP prowadzi swoją działalność?"/>
+            <ITEXT FONTSIZE="9" CH="1.  Od kiedy RDLP prowadzi swoją działalność?"/>
             <para/>
-            <ITEXT FONTSIZE="14.5" CH="2. Czym zajmuje się Regionalna Dyrekcja Lasów Państwowych w"/>
+            <ITEXT FONTSIZE="9" CH="2. Czym zajmuje się Regionalna Dyrekcja Lasów Państwowych w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="14.5" CH="Lublinie? Jakie są kompetencje RDLP? Czy prowadzi działalność proekologiczną?"/>
+            <ITEXT FONTSIZE="9" CH="Lublinie? Jakie są kompetencje RDLP? Czy prowadzi działalność proekologiczną?"/>
             <para/>
-            <ITEXT FONTSIZE="14.5" CH="3. Jaki obszar znajduje się o"/>
+            <ITEXT FONTSIZE="9" CH="3. Jaki obszar znajduje się o"/>
             <nbspace/>
-            <ITEXT FONTSIZE="14.5" CH="obrębie działań RDLP?"/>
+            <ITEXT FONTSIZE="9" CH="obrębie działań RDLP?"/>
             <para/>
-            <ITEXT FONTSIZE="14.5" CH="4. Jakie rzadkie gatunki fauny i"/>
+            <ITEXT FONTSIZE="9" CH="4. Jakie rzadkie gatunki fauny i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="14.5" CH="flory są charakterystyczne dla Lubelszczyzny?"/>
+            <ITEXT FONTSIZE="9" CH="flory są charakterystyczne dla Lubelszczyzny?"/>
             <para/>
-            <ITEXT FONTSIZE="14.5" CH="5. Czy RDLP współpracuje z"/>
+            <ITEXT FONTSIZE="9" CH="5. Czy RDLP współpracuje z"/>
             <nbspace/>
-            <ITEXT FONTSIZE="14.5" CH="organizacjami młodzieżowymi, np. wolontariatami?"/>
+            <ITEXT FONTSIZE="9" CH="organizacjami młodzieżowymi, np. wolontariatami?"/>
             <para/>
-            <ITEXT FONTSIZE="14.5" CH="6. Czy RDLP prowadzi działalność na rzecz edukacji publicznej w"/>
+            <ITEXT FONTSIZE="9" CH="6. Czy RDLP prowadzi działalność na rzecz edukacji publicznej w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="14.5" CH="szczególności w"/>
+            <ITEXT FONTSIZE="9" CH="szczególności w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="14.5" CH="zakresie ochrony środowiska? "/>
+            <ITEXT FONTSIZE="9" CH="zakresie ochrony środowiska? "/>
             <para/>
-            <ITEXT FONTSIZE="14.5" CH="7. W"/>
+            <ITEXT FONTSIZE="9" CH="7. W"/>
             <nbspace/>
-            <ITEXT FONTSIZE="14.5" CH="jaki sposób w"/>
+            <ITEXT FONTSIZE="9" CH="jaki sposób w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="14.5" CH="praktyce RDLP realizuje zamierzone cele? "/>
+            <ITEXT FONTSIZE="9" CH="praktyce RDLP realizuje zamierzone cele? "/>
             <para/>
             <para/>
-            <ITEXT FONTSIZE="14.5" CH="Agata T."/>
+            <ITEXT FONTSIZE="9" CH="Agata T."/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="735.5" YPOS="942.5" WIDTH="515.5" HEIGHT="90" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Nimbus Mono L Regular" ISIZE="38" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.5 0 515.5 0 515.5 0 515.5 0 515.5 90 515.5 90 515.5 90 515.5 90 0 90 0 90 0 90 0 90 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.5 0 515.5 0 515.5 0 515.5 0 515.5 90 515.5 90 515.5 90 515.5 90 0 90 0 90 0 90 0 90 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT FONT="Nimbus Mono L Regular" FONTSIZE="38" CH="Kilka słów od eksperta"/>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="404.25" YPOS="1338.5" WIDTH="246.75" HEIGHT="106.5" RADRECT="0" FRTYPE="0" CLIPEDIT="1" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" IFONT="Nimbus Mono L Regular" ISIZE="24" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 246.75 0 246.75 0 246.75 0 246.75 0 246.75 106.5 246.75 106.5 246.75 106.5 246.75 106.5 0 106.5 0 106.5 0 106.5 0 106.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 246.75 0 246.75 0 246.75 0 246.75 0 246.75 106.5 246.75 106.5 246.75 106.5 246.75 106.5 0 106.5 0 106.5 0 106.5 0 106.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Nimbus Mono L Regular" FONTSIZE="24" CH="Kilka słów od eksperta"/>
             <para ALIGN="1"/>
-            <ITEXT FONTSIZE="23" CH="rozmowa z"/>
+            <ITEXT FONTSIZE="14" CH="rozmowa z"/>
             <nbspace/>
-            <ITEXT FONTSIZE="23" CH="Rzecznikiem Regionalnej Dyrekcji Lasów Państwowych w Lublinie"/>
+            <ITEXT FONTSIZE="14" CH="Rzecznikiem Regionalnej Dyrekcji Lasów Państwowych w Lublinie"/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -650,11 +650,11 @@
             <trail ALIGN="1" LINESPMode="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="141" YPOS="1414.5" WIDTH="283.5" HEIGHT="285" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.436825885978428" LOCALSCY="0.436825885978428" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="mapa.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 283.5 0 283.5 0 283.5 0 283.5 0 283.5 285 283.5 285 283.5 285 283.5 285 0 285 0 285 0 285 0 285 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 283.5 0 283.5 0 283.5 0 283.5 0 283.5 285 283.5 285 283.5 285 283.5 285 0 285 0 285 0 285 0 285 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="2" XPOS="141" YPOS="1195.5" WIDTH="249" HEIGHT="251" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.38366718027735" LOCALSCY="0.38366718027735" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="mapa.jpg" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 249 0 249 0 249 0 249 0 249 251 249 251 249 251 249 251 0 251 0 251 0 251 0 251 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 249 0 249 0 249 0 249 0 249 251 249 251 249 251 249 251 0 251 0 251 0 251 0 251 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="429" YPOS="1425" WIDTH="222" HEIGHT="79.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="18" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 222 0 222 0 222 0 222 0 222 79.5 222 79.5 222 79.5 222 79.5 0 79.5 0 79.5 0 79.5 0 79.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 222 0 222 0 222 0 222 0 222 79.5 222 79.5 222 79.5 222 79.5 0 79.5 0 79.5 0 79.5 0 79.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="402.75" YPOS="1203" WIDTH="251.25" HEIGHT="79.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LINESPMode="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="18" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 251.25 0 251.25 0 251.25 0 251.25 0 251.25 79.5 251.25 79.5 251.25 79.5 251.25 79.5 0 79.5 0 79.5 0 79.5 0 79.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 251.25 0 251.25 0 251.25 0 251.25 0 251.25 79.5 251.25 79.5 251.25 79.5 251.25 79.5 0 79.5 0 79.5 0 79.5 0 79.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONT="Liberation Sans Regular" FONTSIZE="18" CH="Rozmieszczenie parków narodowych w"/>
             <nbspace/>
             <ITEXT FONT="Liberation Sans Regular" FONTSIZE="18" CH="Polsce"/>
@@ -663,8 +663,12 @@
             <trail ALIGN="1" LINESPMode="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="429" YPOS="1508.5" WIDTH="222" HEIGHT="25.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 222 0 222 0 222 0 222 0 222 25.5 222 25.5 222 25.5 222 25.5 0 25.5 0 25.5 0 25.5 0 25.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 222 0 222 0 222 0 222 0 222 25.5 222 25.5 222 25.5 222 25.5 0 25.5 0 25.5 0 25.5 0 25.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <ITEXT CH="Parki Lubelszczyzny:"/>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="413" YPOS="1282.5" WIDTH="222" HEIGHT="54" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="16" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 222 0 222 0 222 0 222 0 222 54 222 54 222 54 222 54 0 54 0 54 0 54 0 54 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 222 0 222 0 222 0 222 0 222 54 222 54 222 54 222 54 0 54 0 54 0 54 0 54 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="16" FEATURES="inherit smallcaps" CH="Parki Lubelszczyzny:"/>
+            <para ALIGN="1"/>
+            <ITEXT FONTSIZE="12" FEATURES="inherit smallcaps" CH="Roztoczański Park Narodowy"/>
+            <para ALIGN="1"/>
+            <ITEXT FONTSIZE="12" FEATURES="inherit smallcaps" CH="Poleski Park Narodowy"/>
             <para ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -709,6 +713,22 @@
             <ITEXT CH=":"/>
             <para/>
             <ITEXT FONT="Okolaks Bold" FONTSIZE="28" CH="Poleski Park Narodowy"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="737" YPOS="2158" WIDTH="510" HEIGHT="423" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 510 0 510 0 510 0 510 0 510 423 510 423 510 423 510 423 0 423 0 423 0 423 0 423 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 510 0 510 0 510 0 510 0 510 423 510 423 510 423 510 423 0 423 0 423 0 423 0 423 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="5" XPOS="141" YPOS="1448.25" WIDTH="257.267492116668" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="3" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="33" PLINEEND="0" PLINEJOIN="128" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="5" XPOS="398.995540487413" YPOS="1196.25" WIDTH="252.271951612587" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="3" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="360" PLINEART="33" PLINEEND="0" PLINEJOIN="128" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="5" XPOS="398.25" YPOS="1196.25" WIDTH="252.75" HEIGHT="1" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="3" PCOLOR="None" PCOLOR2="Black" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="90" PLINEART="33" PLINEEND="0" PLINEJOIN="128" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="0" POCOOR="" NUMCO="0" COCOOR="" NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
