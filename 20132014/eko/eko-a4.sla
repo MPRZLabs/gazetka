@@ -364,7 +364,9 @@
             <para ALIGN="1"/>
             <ITEXT FONTSIZE="14" CH="rozmowa z"/>
             <nbspace/>
-            <ITEXT FONTSIZE="14" CH="Rzecznikiem Regionalnej Dyrekcji Lasów Państwowych w Lublinie"/>
+            <ITEXT FONTSIZE="14" CH="Rzecznikiem Regionalnej Dyrekcji Lasów Państwowych w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="14" CH="Lublinie"/>
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -674,26 +676,94 @@
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="3" PTYPE="4" XPOS="138" YPOS="1979.5" WIDTH="514" HEIGHT="412" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="10" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 514 0 514 0 514 0 514 0 514 412 514 412 514 412 514 412 0 412 0 412 0 412 0 412 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 514 0 514 0 514 0 514 0 514 412 514 412 514 412 514 412 0 412 0 412 0 412 0 412 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Jednym z dwóch parków narodowych zlokalizowanych na terenie Lubelszczyzny jest Roztoczański PN. Obejmuje najcenniejsze przyrodniczo obszary Roztocza. Bardzo ciekawa tradycja i istnienie na jego obszarze Ośrodka Edukacyjno-Muzealnego dodatkowo podnoszą atrakcyjność tej instytucji. Do tego parku powinien więc obowiązkowo udać  się każdy miłośnik przyrody zamieszkujący Lubelszczyznę. "/>
+            <ITEXT FONTSIZE="10" CH="Jednym z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="dwóch parków narodowych zlokalizowanych na terenie Lubelszczyzny jest Roztoczański PN. Obejmuje najcenniejsze przyrodniczo obszary Roztocza. Bardzo ciekawa tradycja i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="istnienie na jego obszarze Ośrodka Edukacyjno-Muzealnego dodatkowo podnoszą atrakcyjność tej instytucji. Do tego parku powinien więc obowiązkowo udać  się każdy miłośnik przyrody zamieszkujący Lubelszczyznę. "/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
             <ITEXT FONTSIZE="10" CH="HISTORIA POWSTANIA "/>
             <para ALIGN="3"/>
             <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Tradycja ochrony przyrody na obszarze Roztocza sięga  końca XVI wieku, kiedy obszary te zostały włączone do założonej przez Kanclerza Wielkiego Koronnego, Jana Zamoyskiego, Ordynacji. Utworzono tu wówczas tzw. „zwierzyniec” – formę rezerwatu, w obrębie którego żyły "/>
-            <ITEXT FONTSIZE="10" FCOLOR="Registration" CH="jelenie, dziki, wilki, rysie, żbiki i tarpany.  Obejmował on powierzchnię obecnego obwodu ochronnego Bukowa Góra oraz część obwodu ochronnego Florianka. W wyniku braku funduszy na utrzymywanie działalności pod koniec XVIII bądź na początku XIX w. „zwierzyniec” został zamknięty, a zwierzęta w nim żyjące zostały wypuszczone do okolicznych lasów albo rozdane okolicznym mieszkańcom. Mimo to tradycje ochrony przyrody były jednak ciągle kultywowane na tym obszarze. Duże zainteresowanie badaczy terenem Roztocza, spowodowane mnogością unikalnych gatunków roślin i zwierząt przyczyniło się do powołania w 1974 r. Roztoczańskiego Parku Narodowego, obejmującego 8482 ha. "/>
+            <ITEXT FONTSIZE="10" CH="Tradycja ochrony przyrody na obszarze Roztocza sięga  końca XVI wieku, kiedy obszary te zostały włączone do założonej przez Kanclerza Wielkiego Koronnego, Jana Zamoyskiego, Ordynacji. Utworzono tu wówczas tzw. „zwierzyniec” – formę rezerwatu, w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="obrębie którego żyły "/>
+            <ITEXT FONTSIZE="10" FCOLOR="Registration" CH="jelenie, dziki, wilki, rysie, żbiki i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" FCOLOR="Registration" CH="tarpany.  Obejmował on powierzchnię obecnego obwodu ochronnego Bukowa Góra oraz część obwodu ochronnego Florianka. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" FCOLOR="Registration" CH="wyniku braku funduszy na utrzymywanie działalności pod koniec XVIII bądź na początku XIX w. „zwierzyniec” został zamknięty, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" FCOLOR="Registration" CH="zwierzęta w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" FCOLOR="Registration" CH="nim żyjące zostały wypuszczone do okolicznych lasów albo rozdane okolicznym mieszkańcom. Mimo to tradycje ochrony przyrody były jednak ciągle kultywowane na tym obszarze. Duże zainteresowanie badaczy terenem Roztocza, spowodowane mnogością unikalnych gatunków roślin i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" FCOLOR="Registration" CH="zwierząt przyczyniło się do powołania w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" FCOLOR="Registration" CH="1974 r. Roztoczańskiego Parku Narodowego, obejmującego 8482"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" FCOLOR="Registration" CH="ha. "/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
             <ITEXT FONTSIZE="10" FCOLOR="Registration" CH="ŚWIAT ROŚLIN"/>
             <para ALIGN="3"/>
             <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Flora roślin Roztoczańskiego Parku Narodowego liczy ponad 1000 gatunków. Są wśród nich rośliny górskie (np. tojad dzióbaty, czosnek siatkowaty), borealne (zimoziół północny, widłak wroniec, pomocnik baldaszkowaty), atlantyckie (rosiczka pośrednia, sporek wiosenny, sit sztywny) oraz pontyjskie (przetacznik ząbkowany, szczodrzeniec ruski). Wiele z nich to gatunki reliktowe – pozostałości okresów zlodowaceń i ocieplenia klimatu. Ścisłej ochronie gatunkowej podlega 45 gatunków, a 65 uznano za rzadkie. Szczególną wagę przywiązuje się w parku do ochrony takich roślin jak m.in. śnieżyczka przebiśnieg, rosiczka długolistna i okrągłolistna, lilia złotogłów, rojnik złotogłów, wszystkie (15) gatunków występujących tu storczyków, na czele z obuwikiem pospolitym (mającym w uroczysku Maziarki jedno z największych stanowisk w Polsce). "/>
+            <ITEXT FONTSIZE="10" CH="Flora roślin Roztoczańskiego Parku Narodowego liczy ponad 1000 gatunków. Są wśród nich rośliny górskie (np. tojad dzióbaty, czosnek siatkowaty), borealne (zimoziół północny, widłak wroniec, pomocnik baldaszkowaty), atlantyckie (rosiczka pośrednia, sporek wiosenny, sit sztywny) oraz pontyjskie (przetacznik ząbkowany, szczodrzeniec ruski). Wiele z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="nich to gatunki reliktowe – pozostałości okresów zlodowaceń i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="ocieplenia klimatu. Ścisłej ochronie gatunkowej podlega 45 gatunków, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="65 uznano za rzadkie. Szczególną wagę przywiązuje się w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="parku do ochrony takich roślin jak"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="m.in. śnieżyczka przebiśnieg, rosiczka długolistna i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="okrągłolistna, lilia złotogłów, rojnik złotogłów, wszystkie (15) gatunków występujących tu storczyków, na czele z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="obuwikiem pospolitym (mającym w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="uroczysku Maziarki jedno z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="największych stanowisk w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="Polsce). "/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
             <ITEXT FONTSIZE="10" CH="ŚWIAT ZWIERZĄT"/>
             <para ALIGN="3"/>
             <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="W faunie RPN przeważają gatunki leśne. Spośród ssaków liczne są jeleniowate: jelenie, sarny, daniele i łosie, oraz drapieżniki, w tym wilki, wydry i rysie. Dość często występują gryzonie: bóbr, popielica, orzesznica i rzadko spotykana w kraju koszatka. Latające ssaki – nietoperze – reprezentują 15 gatunków z 21 mieszkających na terenie Polski. Do najcenniejszych gatunków awifauny parku zalicza się: bociana czarnego, orlika krzykliwego, trzmielojada, derkacza, jarząbka, brodźca samotnego, sieweczkę rzeczną, dzięcioła białogrzbietego i gwałtownie zanikającą kraskę. W Roztoczańskim Parku Narodowym  zamieszkuje blisko 300 gatunków zwierząt podlegających ochronie , w tym wiele bezkręgowców, jak np. nadobnica alpejska czy jelonek rogacz. RPN jest również jedyną w Polsce ostoją konika polskiego, która to rasa postała w wyniku skrzyżowania wymarłego już tarpana z końmi z okolicznych zagród chłopskich."/>
+            <ITEXT FONTSIZE="10" CH="W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="faunie RPN przeważają gatunki leśne. Spośród ssaków liczne są jeleniowate: jelenie, sarny, daniele i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="łosie, oraz drapieżniki, w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="tym wilki, wydry i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="rysie. Dość często występują gryzonie: bóbr, popielica, orzesznica i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="rzadko spotykana w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="kraju koszatka. Latające ssaki – nietoperze – reprezentują 15 gatunków z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="21 mieszkających na terenie Polski. Do najcenniejszych gatunków awifauny parku zalicza się: bociana czarnego, orlika krzykliwego, trzmielojada, derkacza, jarząbka, brodźca samotnego, sieweczkę rzeczną, dzięcioła białogrzbietego i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="gwałtownie zanikającą kraskę. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="Roztoczańskim Parku Narodowym  zamieszkuje blisko 300 gatunków zwierząt podlegających ochronie , w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="tym wiele bezkręgowców, jak np. nadobnica alpejska czy jelonek rogacz. RPN jest również jedyną w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="Polsce ostoją konika polskiego, która to rasa postała w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="wyniku skrzyżowania wymarłego już tarpana z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="końmi z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="okolicznych zagród chłopskich."/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
             <ITEXT FONTSIZE="10" CH="Agata T."/>
@@ -712,25 +782,119 @@
         </PAGEOBJECT>
         <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="735.75" YPOS="2164" WIDTH="515.25" HEIGHT="422" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="10" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 515.25 0 515.25 0 515.25 0 515.25 0 515.25 422 515.25 422 515.25 422 515.25 422 0 422 0 422 0 422 0 422 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 515.25 0 515.25 0 515.25 0 515.25 0 515.25 422 515.25 422 515.25 422 515.25 422 0 422 0 422 0 422 0 422 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="W południowej części Polesia Lubelskiego, na równinach Pojezierza Łęczyńsko-Włodawskiego rozciąga się tajemnicza kraina torfowisk i jezior z krajobrazem miejscami przypominającym typową dla obszarów Północy tundrę. W żadnym innym regionie Polski nie występują w tak dużym nagromadzeniu i w pierwotnej formie zarastające jeziora z wolna zmieniające się w torfowiska. "/>
+            <ITEXT FONTSIZE="10" CH="W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="południowej części Polesia Lubelskiego, na równinach Pojezierza Łęczyńsko-Włodawskiego rozciąga się tajemnicza kraina torfowisk i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="jezior z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="krajobrazem miejscami przypominającym typową dla obszarów Północy tundrę. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="żadnym innym regionie Polski nie występują w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="tak dużym nagromadzeniu i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="pierwotnej formie zarastające jeziora z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="wolna zmieniające się w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="torfowiska. "/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
             <ITEXT CH="HISTORIA POWSTANIA"/>
             <para ALIGN="3"/>
             <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Z połączenia kilku rezerwatów torfowiskowych w 1990 roku powstał Poleski Park Narodowy. Żyje tu wiele rzadkich i cennych gatunków fauny i flory, związanych z ekosystemami wodno-torfowiskowymi. PPN stanowi pierwszy w Polsce park narodowy o charakterze wodno-torfowiskowym. Ta niezwykła kraina od 2002 r. jest wpisana na listę UNESCO. Od 1994 roku powierzchnia tej instytucji liczy 9647 ha."/>
+            <ITEXT FONTSIZE="10" CH="Z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="połączenia kilku rezerwatów torfowiskowych w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="1990 roku powstał Poleski Park Narodowy. Żyje tu wiele rzadkich i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="cennych gatunków fauny i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="flory, związanych z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="ekosystemami wodno-torfowiskowymi. PPN stanowi pierwszy w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="Polsce park narodowy o"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="charakterze wodno-torfowiskowym. Ta niezwykła kraina od 2002 r. jest wpisana na listę UNESCO. Od 1994 roku powierzchnia tej instytucji liczy 9647"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="ha."/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
             <ITEXT FONTSIZE="10" CH="ŚWIAT ROŚLIN"/>
             <para ALIGN="3"/>
             <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Wśród występujących tutaj ponad 900 gatunków roślin do szczególnie rzadkich należą krzewy, relikty polodowcowe: brzoza niska, wierzba lapońska, wierzba borówkolistna. Zaliczają się one do grupy 50 tutejszych gatunków objętych całkowitą ochroną. Są wśród nich także turzyce strunowa, torfowa i bagienna, 14 gatunków storczyków, aż 8 mięsożernych roślin: po 3 gatunki rosiczek i pływaczy, aldrowanda pęcherzykowata i tłustosz pospolity dwubarwny. Zagrożona wymarciem w skali kraju jest paproć gnidosz królewski, zanikająca na skutek odwodnienia gleby. Z rzadkich, chronionych gatunków towarzyszą jej m.in. ciemiężyca zielona, pełnik europejski, goryczka wąskolistna, mieczyk dachówkowaty, kosaciec syberyjski. W Poleskim Parku Narodowym nie brakuje oczywiście zespołów roślinności wodnej i szuwarowej. Zwarte kępy na wodzie tworzą szuwary turzycy sztywnej.  Najczęściej jest spotykany szuwar trzcinowy zwany przez miejscowych oczeretem. Jeziora wyścielają pięknie kwitnące grążele żółte i grzybienie białe. Zespoły z osoką aloesowatą, żabiściekiem pływającym i owadożernym pływaczem zwyczajnym stanowią ostatnie stadium zarastania wolnej powierzchni wodnej."/>
+            <ITEXT FONTSIZE="10" CH="Wśród występujących tutaj ponad 900 gatunków roślin do szczególnie rzadkich należą krzewy, relikty polodowcowe: brzoza niska, wierzba lapońska, wierzba borówkolistna. Zaliczają się one do grupy 50 tutejszych gatunków objętych całkowitą ochroną. Są wśród nich także turzyce strunowa, torfowa i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="bagienna, 14 gatunków storczyków, aż 8 mięsożernych roślin: po 3 gatunki rosiczek i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="pływaczy, aldrowanda pęcherzykowata i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="tłustosz pospolity dwubarwny. Zagrożona wymarciem w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="skali kraju jest paproć gnidosz królewski, zanikająca na skutek odwodnienia gleby. Z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="rzadkich, chronionych gatunków towarzyszą jej"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="m.in. ciemiężyca zielona, pełnik europejski, goryczka wąskolistna, mieczyk dachówkowaty, kosaciec syberyjski. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="Poleskim Parku Narodowym nie brakuje oczywiście zespołów roślinności wodnej i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="szuwarowej. Zwarte kępy na wodzie tworzą szuwary turzycy sztywnej.  Najczęściej jest spotykany szuwar trzcinowy zwany przez miejscowych oczeretem. Jeziora wyścielają pięknie kwitnące grążele żółte i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="grzybienie białe. Zespoły z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="osoką aloesowatą, żabiściekiem pływającym i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="owadożernym pływaczem zwyczajnym stanowią ostatnie stadium zarastania wolnej powierzchni wodnej."/>
             <para ALIGN="3"/>
             <para ALIGN="3"/>
             <ITEXT FONTSIZE="10" CH="ŚWIAT ZWIERZĄT"/>
             <para ALIGN="3"/>
             <tab FONTSIZE="10"/>
-            <ITEXT FONTSIZE="10" CH="Słaba dostępność sporej części powierzchni Poleskiego Parku Narodowego wynikająca ze specyficznych warunków naturalnych nie pozwala w pełni ocenić różnorodności świata zwierzęcego. Do tej pory stwierdzono tu 570 gatunków zwierząt, z czego ssaki reprezentują 49 gatunków, ptaki – 194, płazy – 13, gady – 6, a ryby – 21. Spośród zwierząt kopytnych zauważa się łosie (dziś tworzące na terenie parku jedną z najgęstszych populacji w kraju – żyje tu około 180 osobników), sarny, dziki i jelenie. Największe w PPN jezioro Łukie jest miejscem atrakcyjnym dla ornitologów. Jesienią można tu bowiem dostrzec stada łabędzi niemych, przedstawicieli licznych gatunków kaczek, rybitw i perkozów, a także bieliki. Na poleskich bagnach lęgowiska zakłada blisko 150 gatunków ptaków, m.in. bąk, gęś gęgawa, puchacz, bocian czarny, kormoran, bekas, czaple siwa i biała oraz zagrożone wyginięciem w skali światowej wodniczka, derkacz i kaczka podgorzałka. Jedno z największych stanowisk w Europie ma w obrębie parku rzadki gad – żółw błotny. W wodach parku żyją 4 gatunki ryb objętych ochroną. Torfianki zamieszkuje bardzo rzadka w skali kraju strzelba przekopowa (błotna).  Muliste dna zbiorników wybierają kozy, piskorze i różanki."/>
+            <ITEXT FONTSIZE="10" CH="Słaba dostępność sporej części powierzchni Poleskiego Parku Narodowego wynikająca ze specyficznych warunków naturalnych nie pozwala w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="pełni ocenić różnorodności świata zwierzęcego. Do tej pory stwierdzono tu 570 gatunków zwierząt, z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="czego ssaki reprezentują 49 gatunków, ptaki – 194, płazy – 13, gady – 6, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="ryby – 21. Spośród zwierząt kopytnych zauważa się łosie (dziś tworzące na terenie parku jedną z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="najgęstszych populacji w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="kraju – żyje tu około 180 osobników), sarny, dziki i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="jelenie. Największe w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="PPN jezioro Łukie jest miejscem atrakcyjnym dla ornitologów. Jesienią można tu bowiem dostrzec stada łabędzi niemych, przedstawicieli licznych gatunków kaczek, rybitw i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="perkozów, a"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="także bieliki. Na poleskich bagnach lęgowiska zakłada blisko 150 gatunków ptaków,"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="m.in. bąk, gęś gęgawa, puchacz, bocian czarny, kormoran, bekas, czaple siwa i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="biała oraz zagrożone wyginięciem w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="skali światowej wodniczka, derkacz i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="kaczka podgorzałka. Jedno z"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="największych stanowisk w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="Europie ma w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="obrębie parku rzadki gad – żółw błotny. W"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="wodach parku żyją 4 gatunki ryb objętych ochroną. Torfianki zamieszkuje bardzo rzadka w"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="skali kraju strzelba przekopowa (błotna).  Muliste dna zbiorników wybierają kozy, piskorze i"/>
+            <nbspace/>
+            <ITEXT FONTSIZE="10" CH="różanki."/>
             <para ALIGN="3"/>
             <para/>
             <ITEXT CH="Agata T."/>
@@ -780,35 +944,63 @@
             <para/>
             <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Stawy pamiętające przedwojenne czasy,"/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Pola pełne rzepaku i zboża,"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Pola pełne rzepaku i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="zboża,"/>
             <para/>
             <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Łąki niczym kolorowa zorza."/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="A w lecie-białe łabędzie przylatują do nas z ciepłych krajów,"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="A"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="w"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="lecie-białe łabędzie przylatują do nas z"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="ciepłych krajów,"/>
             <para/>
             <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Bociany zakładają gniazda hen wysoko,"/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="A cudowne krajobrazy rozciągają się szeroko."/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="A"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="cudowne krajobrazy rozciągają się szeroko."/>
             <para/>
             <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Wspaniałe, stare folwarki,"/>
             <para/>
             <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Stoją dumnie zachęcając do walki ,"/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="O naszą rodzimą ziemię."/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="O"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="naszą rodzimą ziemię."/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="O środowisko, o zabytki, o kulturę i tradycję."/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="O"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="środowisko, o"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="zabytki, o"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="kulturę i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="tradycję."/>
             <para/>
             <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="My-prawdziwi niedrzwiczacy,"/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Jesteśmy zwarci i gotowi do pracy."/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Jesteśmy zwarci i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="gotowi do pracy."/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Zrobimy co w naszej mocy,"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Zrobimy co w"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="naszej mocy,"/>
             <para/>
             <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Aby udzielić Niedrzwicy pomocy."/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Chcemy, by była czysta i ekologiczna,"/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Chcemy, by była czysta i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="ekologiczna,"/>
             <para/>
-            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Zadbana i ładnie wysprzątana."/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Zadbana i"/>
+            <nbspace/>
+            <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="ładnie wysprzątana."/>
             <para/>
             <ITEXT FONT="Liberation Serif Regular" FONTSIZE="10" CH="Będziemy dla innych przykładem, wzorem do naśladowania,"/>
             <para/>
