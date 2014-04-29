@@ -1305,112 +1305,111 @@
             <trail/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="736.5" YPOS="940.5" WIDTH="513" HEIGHT="331.39" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 513 0 513 0 513 0 513 0 513 331.39 513 331.39 513 331.39 513 331.39 0 331.39 0 331.39 0 331.39 0 331.39 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 513 0 513 0 513 0 513 0 513 331.39 513 331.39 513 331.39 513 331.39 0 331.39 0 331.39 0 331.39 0 331.39 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <para/>
-            <tab FONTSIZE="9"/>
-            <ITEXT FONTSIZE="9" CH="Na terenie Roztocza Środkowego i"/>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="736.5" YPOS="940.5" WIDTH="513" HEIGHT="261.39" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="8" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 513 0 513 0 513 0 513 0 513 261.39 513 261.39 513 261.39 513 261.39 0 261.39 0 261.39 0 261.39 0 261.39 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 513 0 513 0 513 0 513 0 513 261.39 513 261.39 513 261.39 513 261.39 0 261.39 0 261.39 0 261.39 0 261.39 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Na terenie Roztocza Środkowego i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="Równiny Biłgorajskiej, obejmując gminy: "/>
+            <ITEXT FONTSIZE="8" CH="Równiny Biłgorajskiej, obejmując gminy: "/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="Józefów,"/>
+            <ITEXT FONTSIZE="8" CH="Józefów,"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH=" Aleksandrów,"/>
+            <ITEXT FONTSIZE="8" CH=" Aleksandrów,"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH=" Łukowa,"/>
+            <ITEXT FONTSIZE="8" CH=" Łukowa,"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH=" Obsza,"/>
+            <ITEXT FONTSIZE="8" CH=" Obsza,"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH=" Susiec,"/>
+            <ITEXT FONTSIZE="8" CH=" Susiec,"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH=" Narol i"/>
+            <ITEXT FONTSIZE="8" CH=" Narol i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="Cieszanów, leży Park Krajobrazowy Puszczy Solskiej. Instytucja ta została powołana w"/>
+            <ITEXT FONTSIZE="8" CH="Cieszanów, leży Park Krajobrazowy Puszczy Solskiej. Instytucja ta została powołana w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="1988 roku w"/>
+            <ITEXT FONTSIZE="8" CH="1988 roku w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="celu ochrony unikalnych walorów przyrodniczych, historycznych, kulturowych i"/>
+            <ITEXT FONTSIZE="8" CH="celu ochrony unikalnych walorów przyrodniczych, historycznych, kulturowych i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="krajobrazowych owego obszaru. Na szczególną uwagę zasługują zwarte puszczańskie kompleksy leśne cechujące się unikalną florą i"/>
+            <ITEXT FONTSIZE="8" CH="krajobrazowych owego obszaru. Na szczególną uwagę zasługują zwarte puszczańskie kompleksy leśne cechujące się unikalną florą i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="fauną oraz bogactwo krajobrazowe dolin rzek kształcących przełomy tektoniczne zwane lokalnie „szumami” lub „szypotami”w"/>
+            <ITEXT FONTSIZE="8" CH="fauną oraz bogactwo krajobrazowe dolin rzek kształcących przełomy tektoniczne zwane lokalnie „szumami” lub „szypotami”w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="strefie obrzeżnej Roztocza i"/>
+            <ITEXT FONTSIZE="8" CH="strefie obrzeżnej Roztocza i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="Kotliny Sandomierskiej. Lasy stanowią "/>
+            <ITEXT FONTSIZE="8" CH="Kotliny Sandomierskiej. Lasy stanowią "/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="85,6% parku. Warto zaznaczyć, że w"/>
+            <ITEXT FONTSIZE="8" CH="85,6% parku. Warto zaznaczyć, że w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="przeważającej ilości są to kompleksy borów sosnowych o"/>
+            <ITEXT FONTSIZE="8" CH="przeważającej ilości są to kompleksy borów sosnowych o"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="dużym zróżnicowaniu siedlisk. Powierzchnia Parku Krajobrazowego Puszczy Solskiej wynosi 28980"/>
+            <ITEXT FONTSIZE="8" CH="dużym zróżnicowaniu siedlisk. Powierzchnia Parku Krajobrazowego Puszczy Solskiej wynosi 28980"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="ha. W"/>
+            <ITEXT FONTSIZE="8" CH="ha. W"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="jego obrębie funkcjonują rezerwaty:"/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="• rezerwat przyrody Nad Tanwią"/>
+            <ITEXT FONTSIZE="8" CH="jego obrębie funkcjonują rezerwaty:"/>
+            <para ALIGN="3"/>
+            <ITEXT FONTSIZE="8" CH="• rezerwat przyrody Nad Tanwią"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="(rezerwat krajobrazowy)"/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="• rezerwat przyrody Czartowe Pole"/>
+            <ITEXT FONTSIZE="8" CH="(rezerwat krajobrazowy)"/>
+            <para ALIGN="3"/>
+            <ITEXT FONTSIZE="8" CH="• rezerwat przyrody Czartowe Pole"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="(rezerwat krajobrazowy)"/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="• rezerwat przyrody Bukowy Las"/>
+            <ITEXT FONTSIZE="8" CH="(rezerwat krajobrazowy)"/>
+            <para ALIGN="3"/>
+            <ITEXT FONTSIZE="8" CH="• rezerwat przyrody Bukowy Las"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="(rezerwat leśny) – chroni typowy dla Roztocza fragment lasu bukowo-jodłowego."/>
-            <para/>
-            <tab FONTSIZE="9"/>
-            <ITEXT FONTSIZE="9" CH="Flora parku jest bardzo zróżnicowana. Do najciekawszych znajdujących się tam roślin objętych ochroną należy: czosnek niedźwiedzi, zachyłka Roberta, pięć gatunków widłaków, goryczka wąskolistna, trzy gatunki rosiczek, bagno zwyczajne, kosaciec syberyjski, lilia złotogłów, kilka gatunków storczyków, turzyca strunowa i"/>
+            <ITEXT FONTSIZE="8" CH="(rezerwat leśny) – chroni typowy dla Roztocza fragment lasu bukowo-jodłowego."/>
+            <para ALIGN="3"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Flora parku jest bardzo zróżnicowana. Do najciekawszych znajdujących się tam roślin objętych ochroną należy: czosnek niedźwiedzi, zachyłka Roberta, pięć gatunków widłaków, goryczka wąskolistna, trzy gatunki rosiczek, bagno zwyczajne, kosaciec syberyjski, lilia złotogłów, kilka gatunków storczyków, turzyca strunowa i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="bagienna, grążel żółty, turówka wonna, wierzba borówkolistna i"/>
+            <ITEXT FONTSIZE="8" CH="bagienna, grążel żółty, turówka wonna, wierzba borówkolistna i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="buławnik wielkokwiatowy. W"/>
+            <ITEXT FONTSIZE="8" CH="buławnik wielkokwiatowy. W"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="Parku znajduje się 9 pomników przyrody ożywionej (pojedyncze drzewa lub grupy drzew) oraz 2 pomniki przyrody nieożywionej (źródlisko rzeki Jeleń i"/>
+            <ITEXT FONTSIZE="8" CH="Parku znajduje się 9 pomników przyrody ożywionej (pojedyncze drzewa lub grupy drzew) oraz 2 pomniki przyrody nieożywionej (źródlisko rzeki Jeleń i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="wodospad na tejże rzece)"/>
-            <para/>
-            <tab FONTSIZE="9"/>
-            <ITEXT FONTSIZE="9" CH="Park Krajobrazowy Puszczy Solskiej jest ostoją wielu unikalnych gatunków zwierząt. W"/>
+            <ITEXT FONTSIZE="8" CH="wodospad na tejże rzece)"/>
+            <para ALIGN="3"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Park Krajobrazowy Puszczy Solskiej jest ostoją wielu unikalnych gatunków zwierząt. W"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="czystych wodach potoków Parku żyją dwa cenne gatunki ryb, cenne zarówno pod względem różnorodności biologicznej, jak i"/>
+            <ITEXT FONTSIZE="8" CH="czystych wodach potoków Parku żyją dwa cenne gatunki ryb, cenne zarówno pod względem różnorodności biologicznej, jak i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="turystyki : pstrąg potokowy i"/>
+            <ITEXT FONTSIZE="8" CH="turystyki : pstrąg potokowy i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="lipień. W"/>
+            <ITEXT FONTSIZE="8" CH="lipień. W"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="związku z"/>
+            <ITEXT FONTSIZE="8" CH="związku z"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="tym niektóre odcinki biegu strumieni przyjęto nazywać „krainą pstrąga i"/>
+            <ITEXT FONTSIZE="8" CH="tym niektóre odcinki biegu strumieni przyjęto nazywać „krainą pstrąga i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="lipienia”. Z"/>
+            <ITEXT FONTSIZE="8" CH="lipienia”. Z"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="gromady ssaków  występujących na terenie Parku na uwagę zasługują: 4 gatunki ryjówek, 7 gatunków nietoperzy, jeż, kret, łasica, gronostaj, wiewiórka pospolita, chomik europejski, bóbr europejski, popielica, orzesznica, żołędnica, wilk, ryś, dzik, łoś, jeleń, sarna. Na terenie Parku zanotowano 5 gatunków zagrożonych w"/>
+            <ITEXT FONTSIZE="8" CH="gromady ssaków  występujących na terenie Parku na uwagę zasługują: 4 gatunki ryjówek, 7 gatunków nietoperzy, jeż, kret, łasica, gronostaj, wiewiórka pospolita, chomik europejski, bóbr europejski, popielica, orzesznica, żołędnica, wilk, ryś, dzik, łoś, jeleń, sarna. Na terenie Parku zanotowano 5 gatunków zagrożonych w"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="skali globalnej: podgorzałka, kania ruda, bielik, derkacz, wodniczka. Do najbardziej charakterystycznych gatunków ptaków leśnych należy zaliczyć większość szponiastych: trzmielojad, kania czarna, bielik, gadożer, jastrząb, krogulec, myszołów, orlik krzykliwy, jarząbek, głuszec, cietrzew, żuraw, dzięcioł (zielonosiwy, zielony, czarny) oraz większość wróblowatych.  Obecnie Puszcza Solska jest ostoją ptasią o"/>
+            <ITEXT FONTSIZE="8" CH="skali globalnej: podgorzałka, kania ruda, bielik, derkacz, wodniczka. Do najbardziej charakterystycznych gatunków ptaków leśnych należy zaliczyć większość szponiastych: trzmielojad, kania czarna, bielik, gadożer, jastrząb, krogulec, myszołów, orlik krzykliwy, jarząbek, głuszec, cietrzew, żuraw, dzięcioł (zielonosiwy, zielony, czarny) oraz większość wróblowatych.  Obecnie Puszcza Solska jest ostoją ptasią o"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="randze międzynarodowej."/>
-            <para/>
-            <tab FONTSIZE="9"/>
-            <ITEXT FONTSIZE="9" CH="W"/>
+            <ITEXT FONTSIZE="8" CH="randze międzynarodowej."/>
+            <para ALIGN="3"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="W"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="bieżącym roku Park Krajobrazowy Puszczy Solskiej obchodzi swoje 25-lecie. Z"/>
+            <ITEXT FONTSIZE="8" CH="bieżącym roku Park Krajobrazowy Puszczy Solskiej obchodzi swoje 25-lecie. Z"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="tej okazji warto odwiedzić tę instytucję i"/>
+            <ITEXT FONTSIZE="8" CH="tej okazji warto odwiedzić tę instytucję i"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="skorzystać z"/>
+            <ITEXT FONTSIZE="8" CH="skorzystać z"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="jednego ze znajdujących się tam szlaków turystycznych. "/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Agata T."/>
+            <ITEXT FONTSIZE="8" CH="jednego ze znajdujących się tam szlaków turystycznych. "/>
+            <para ALIGN="3"/>
+            <ITEXT FONTSIZE="8" CH="Agata T."/>
             <trail ALIGN="2"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
@@ -1419,69 +1418,52 @@
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="738" YPOS="1275" WIDTH="513" HEIGHT="31.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="23" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 513 0 513 0 513 0 513 0 513 31.5 513 31.5 513 31.5 513 31.5 0 31.5 0 31.5 0 31.5 0 31.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 513 0 513 0 513 0 513 0 513 31.5 513 31.5 513 31.5 513 31.5 0 31.5 0 31.5 0 31.5 0 31.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="736" YPOS="1203" WIDTH="513" HEIGHT="31.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="23" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 513 0 513 0 513 0 513 0 513 31.5 513 31.5 513 31.5 513 31.5 0 31.5 0 31.5 0 31.5 0 31.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 513 0 513 0 513 0 513 0 513 31.5 513 31.5 513 31.5 513 31.5 0 31.5 0 31.5 0 31.5 0 31.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
             <ITEXT FONTSIZE="23" CH="Rezerwat Przyrody „Czartowe Pole”"/>
             <trail ALIGN="1"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
-        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="735.5" YPOS="1306" WIDTH="514.5" HEIGHT="177.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="9" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 514.5 0 514.5 0 514.5 0 514.5 0 514.5 177.5 514.5 177.5 514.5 177.5 514.5 177.5 0 177.5 0 177.5 0 177.5 0 177.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 514.5 0 514.5 0 514.5 0 514.5 0 514.5 177.5 514.5 177.5 514.5 177.5 514.5 177.5 0 177.5 0 177.5 0 177.5 0 177.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
-            <tab FONTSIZE="9"/>
-            <ITEXT FONTSIZE="9" CH="Na terenie gminy Józefów, mieszczącej się w obrębie Roztoczańskiego Parku Narodowego  leży Rezerwat Przyrody „Czartowe Pole”. Tajemnicza nazwa związana jest z lokalną legendą, odnoszącą się do obejmowanej przez park polany, głoszącą, jakoby „jeno czarci tam hasali” (czego skutkiem miały być liczne powodzie i pożary). Powołany został Zarządzeniem Ministra Leśnictwa i Przemysłu Drzewnego z dnia"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="9" CH="21 lipca"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="9" CH="1958"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="9" CH="roku. Jako cel powołania podaje się  zachowanie"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="9" CH="przełomu"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="9" CH="i doliny"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="9" CH="roztoczańskiej rzeki"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="9" CH="Sopot. Jego powierzchnia wynosi 80,07 ha. Ścisłej ochronie podlega 26,66 ha. Teren w znacznej mierze porastany jest przez lasy łęgowe (w których występuje olsza czarna), można jednak wyróżnić również podmokłe łąki i bór sosnowy, wraz ze spadkiem terenu przechodzący w mieszany bór wilgotny (dominującym gatunkiem jest tu jodła pospolita, której egzemplarze osiągają wiek 120-160 lat). Podczas wędrówki po rezerwacie jesteśmy w stanie zaobserwować rzadkie rośliny:"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="9" CH="wawrzynek wilczełyko,"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="9" CH="zachyłek Roberta, zanokcica skalna"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="9" CH="i"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="9" CH="zielona,"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="9" CH="parzydło leśne,"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="9" CH="storczyk plamisty,"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="9" CH="paprotnik kolczysty"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="9" CH="i"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="9" CH="narecznicę szerokolistną.Spośród przedstawicieli fauny wyróżniamy m.in. pliszkę górską, pokrzywnicę, zimorodka, kruka, a w rzece - pstrąga potokowego. Na terenie rezerwatu znajdują się również interesujące zabytki. Są to:"/>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="734.5" YPOS="1234" WIDTH="514.5" HEIGHT="150.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="8" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 514.5 0 514.5 0 514.5 0 514.5 0 514.5 150.5 514.5 150.5 514.5 150.5 514.5 150.5 0 150.5 0 150.5 0 150.5 0 150.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 514.5 0 514.5 0 514.5 0 514.5 0 514.5 150.5 514.5 150.5 514.5 150.5 514.5 150.5 0 150.5 0 150.5 0 150.5 0 150.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="3" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Na terenie gminy Józefów, mieszczącej się w obrębie Roztoczańskiego Parku Narodowego  leży Rezerwat Przyrody „Czartowe Pole”. Tajemnicza nazwa związana jest z lokalną legendą, odnoszącą się do obejmowanej przez park polany, głoszącą, jakoby „jeno czarci tam hasali” (czego skutkiem miały być liczne powodzie i pożary). Powołany został Zarządzeniem Ministra Leśnictwa i Przemysłu Drzewnego z dnia 21 lipca 1958 roku. Jako cel powołania podaje się  zachowanie przełomu i doliny roztoczańskiej rzeki Sopot. Jego powierzchnia wynosi 80,07 ha. Ścisłej ochronie podlega 26,66 ha. Teren w znacznej mierze porastany jest przez lasy łęgowe (w których występuje olsza czarna), można jednak wyróżnić również podmokłe łąki i bór sosnowy, wraz ze spadkiem terenu przechodzący w mieszany bór wilgotny (dominującym gatunkiem jest tu jodła pospolita, której egzemplarze osiągają wiek 120-160 lat). Podczas wędrówki po rezerwacie jesteśmy w stanie zaobserwować rzadkie rośliny: wawrzynek wilczełyko, zachyłek Roberta, zanokcica skalna i zielona, parzydło leśne, storczyk plamisty, paprotnik kolczysty i narecznicę szerokolistną.Spośród przedstawicieli fauny wyróżniamy m.in. pliszkę górską, pokrzywnicę, zimorodka, kruka, a w rzece - pstrąga potokowego. Na terenie rezerwatu znajdują się również interesujące zabytki. Są to:"/>
+            <para ALIGN="3"/>
+            <ITEXT FONTSIZE="8" CH="• ruiny starej papierni Zamoyskich "/>
+            <para ALIGN="3"/>
+            <ITEXT FONTSIZE="8" CH="• pomnik upamiętniający manewry wojsk polskich w 1931 roku"/>
+            <para ALIGN="3"/>
+            <ITEXT FONTSIZE="8" CH="• cmentarz partyzantów poległych w walkach w 1943 roku."/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="W rezerwacie została poprowadzona turystyczna ścieżka przyrodniczo-dydaktyczna. Jej długość wynosi około 2 km.  Podróżując nią turyści mają okazję ujrzeć zapierające dech w piersi krajobrazy, które zdobią Lubelszczyznę. "/>
+            <para ALIGN="3"/>
+            <para ALIGN="3"/>
+            <ITEXT FONTSIZE="8" CH="Agata T."/>
+            <trail ALIGN="2"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="736.5" YPOS="1386.5" WIDTH="511.5" HEIGHT="31.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="22" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 511.5 0 511.5 0 511.5 0 511.5 0 511.5 31.5 511.5 31.5 511.5 31.5 511.5 31.5 0 31.5 0 31.5 0 31.5 0 31.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 511.5 0 511.5 0 511.5 0 511.5 0 511.5 31.5 511.5 31.5 511.5 31.5 511.5 31.5 0 31.5 0 31.5 0 31.5 0 31.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONTSIZE="22" CH="Wycieczka do Rezerwatu Przyrody &quot;Nad Tanwią&quot;"/>
+            <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="736.5" YPOS="1524" WIDTH="514.5" HEIGHT="177.89" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="12" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" ISIZE="8" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 514.5 0 514.5 0 514.5 0 514.5 0 514.5 177.89 514.5 177.89 514.5 177.89 514.5 177.89 0 177.89 0 177.89 0 177.89 0 177.89 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 514.5 0 514.5 0 514.5 0 514.5 0 514.5 177.89 514.5 177.89 514.5 177.89 514.5 177.89 0 177.89 0 177.89 0 177.89 0 177.89 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Na niedalekim Roztoczu, odwiedzając położony w gminie Susiec rezerwat przyrody, stajemy się świadkami nadzwyczajnego koncertu. Harmonijny, kojący szum przepływających strug krystalicznie czystej wody zapewniają nam niewielkie, ale urokliwe wodospady, położone w malowniczym plenerze, zwane „szumami” lub „szypotami”. Stanowią one największą i najbardziej charakterystyczną atrakcję Rezerwatu Przyrody „Nad Tanwią”. Jakiemu zjawisku  zawdzięczamy ten niezwykły Dar Natury, cieszący każdego roku tysiące turystów? "/>
             <para/>
-            <ITEXT FONTSIZE="9" CH="• ruiny starej papierni"/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Wodospady owe są właściwie skalnymi progami tektonicznymi, pochodzącymi z okresu wypiętrzania się Karpat. Są one widoczne w korytach dwóch rzek: Tanwi i Sopotu, przepływających przez Roztocze. Rozpoczęcie działalności Rezerwatu „Nad Tanwią” swój początek bierze w 1958 roku, na mocy "/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="Zamoyskich "/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="• pomnik upamiętniający manewry wojsk polskich w"/>
+            <ITEXT FONTSIZE="8" CH="Zarządzenia Ministra Leśnictwa i Przemysłu Drzewnego.  Zajmuje powierzchnię"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="1931"/>
+            <ITEXT FONTSIZE="8" CH="47,49 ha. Spacer zalesionym wybrzeżem stanowi niezapomnianą przygodę, zarówno dla dzieci, jak i osób starszych. W pełni naturalna sceneria – tętniąca życiem i optymizmem zieleń, wartki prąd wody i kojące, czyste powietrze – sprawiają, że wycieczka przemienia się magiczną chwilę wytchnienia od codzienności, poszarzonej licznymi zanieczyszczeniami. Obszar ten jest bardzo bogaty pod względem szaty roślinnej – istnieje tu około 40 zespołów roślinnych. Podczas wędrówki warto również rozejrzeć się za rzadkimi i chronionymi przedstawicielami flory: widłakiem jałowcowatym, bzem koralowym i porzeczką alpejską.  Rezerwat „Nad Tanwią” stanowi ostoję zagrożonych wyginięciem gatunków ptaków. Kto wie, może, przy odrobinie szczęścia, uda nam się zaobserwować bociana czarnego, pliszkę górską lub zimorodka? "/>
+            <para/>
+            <tab FONTSIZE="8"/>
+            <ITEXT FONTSIZE="8" CH="Jakiś czas temu miałam okazję na własne oczy ujrzeć słynne „szumy”. Tworzony przez nie nastrój niesamowitości, a zarazem błogości i odprężenia, sprawiły, że miejsce to zajmuje bardzo ważne miejsce w moim sercu. Nic więc dziwnego, że „szypoty” w plebiscycie dziennika Rzeczpospolita zostały uznane jako jeden z"/>
             <nbspace/>
-            <ITEXT FONTSIZE="9" CH="roku"/>
+            <ITEXT FONTSIZE="8" CH="„7 Cudów Polskiej Natury”. W bieżącym roku przypada 55 rocznica założenia  Rezerwatu Przyrody „Nad Tanwią”. Uważam, że jest to dla nas doskonała okazja, aby odwiedzić jeden z najpiękniejszych zakątków Lubelszczyzny."/>
             <para/>
-            <ITEXT FONTSIZE="9" CH="• cmentarz partyzantów poległych w walkach w"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="9" CH="1943"/>
-            <nbspace/>
-            <ITEXT FONTSIZE="9" CH="roku."/>
-            <para/>
-            <para/>
-            <tab FONTSIZE="9"/>
-            <ITEXT FONTSIZE="9" CH="W rezerwacie została poprowadzona turystyczna ścieżka przyrodniczo-dydaktyczna. Jej długość wynosi około 2 km.  Podróżując nią turyści mają okazję ujrzeć zapierające dech w piersi krajobrazy, które zdobią Lubelszczyznę. "/>
-            <para/>
-            <para/>
-            <ITEXT FONTSIZE="9" CH="Agata T."/>
+            <ITEXT FONTSIZE="8" CH="Agata T."/>
             <trail ALIGN="2"/>
             <PageItemAttributes/>
         </PAGEOBJECT>
